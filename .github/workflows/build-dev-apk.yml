@@ -1,0 +1,21 @@
+name: Build Unsigned APK
+on:
+  push:
+    branches:
+      - master
+jobs:
+  balena-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Android Build
+        uses: sparkfabrik/android-build-action@v1.0.0
+        with:
+          project-path: .
+          build-type: assemble
+          output-path: edt-apps.apk
+          browserstack-upload: false
+          # browserstack-username: ${{ secrets.BROWSERSTACK_USERNAME }}
+          # browserstack-access-key: ${{ secrets.BROWSERSTACK_ACCESS_KEY }}
+
