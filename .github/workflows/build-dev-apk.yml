@@ -18,4 +18,8 @@ jobs:
           browserstack-upload: false
           # browserstack-username: ${{ secrets.BROWSERSTACK_USERNAME }}
           # browserstack-access-key: ${{ secrets.BROWSERSTACK_ACCESS_KEY }}
-
+      - name: Upload APK
+        uses: actions/upload-artifact@v3
+        with:
+          name: edt-apps.apk
+          path: /home/runner/work/fdroidclient/fdroidclient/edt-apps.apk
