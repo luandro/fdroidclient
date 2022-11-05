@@ -115,7 +115,7 @@
                     android:ellipsize="marquee"
                     android:textColor="?attr/lightGrayTextColor"
                     android:textSize="12sp"
-                    tools:text="F-Droid" />
+                    tools:text="EDT" />
 
                 <TextView android:id="@+id/size"
                     android:layout_height="wrap_content"

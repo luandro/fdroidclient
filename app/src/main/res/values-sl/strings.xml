@@ -30,7 +30,7 @@
     <string name="search_hint">Iskanje aplikacij</string>
     <string name="appcompatibility">Združljivost aplikacij</string>
     <string name="show_incompat_versions">Vključi nekompatibilne verzije</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="installIncompatible">Izgleda, da aplikacija ni kompatibilna z vašo napravo. Ali jo želite vseeno poskusiti namestiti?</string>
     <string name="delete">Izbriši</string>
     <string name="enable_nfc_send">Omogoči NFC pošiljanje…</string>
@@ -66,14 +66,14 @@
     <string name="category_Security">Varnost</string>
     <string name="category_Time">Čas</string>
     <string name="category_Writing">Pisanje</string>
-    <string name="swap_welcome">Dobrodošli v F-Droid!</string>
+    <string name="swap_welcome">Dobrodošli v EDT!</string>
     <string name="swap_dont_show_again">Tega ne prikaži ponovno</string>
     <string name="newPerms">Novo</string>
     <string name="notification_action_update">Posodobi</string>
     <string name="notification_action_cancel">Prekliči</string>
     <string name="notification_action_install">Namesti</string>
     <string name="app_details">Podrobnosti aplikacije</string>
-    <string name="about_title">Več o F-Droid</string>
+    <string name="about_title">Več o EDT</string>
     <string name="app_list__name__downloading_in_progress">Prenašanje %1$s</string>
     <string name="app_list__name__successfully_installed">%1$s nameščen</string>
     <string name="more">Več</string>
@@ -87,8 +87,8 @@
     <string name="wifi">Wi-Fi</string>
     <string name="category_Sports_Health">Šport &amp; zdravje</string>
     <string name="category_System">Sistem</string>
-    <string name="swap_send_fdroid">Pošlji F-Droid</string>
-    <string name="crash_dialog_title">F-Droid se je zrušil</string>
+    <string name="swap_send_fdroid">Pošlji EDT</string>
+    <string name="crash_dialog_title">EDT se je zrušil</string>
     <string name="crash_dialog_text">Zaradi nepričakovane napake se je aplikacija prisilno ustavila. Nam želite v e-pošti posredovati podrobnosti in s tem pomagati odpraviti napako?</string>
     <string name="notification_title_single_update_available">Posodobitev na voljo</string>
     <string name="notification_title_summary_install_error">Namestitev neuspešna</string>
@@ -201,7 +201,7 @@
     <string name="show_anti_feature_apps">Vključi aplikcije z proti-funkcionalnosti</string>
     <string name="force_touch_apps">Vključi aplikacije, ki potrebujejo zaslone na dotik</string>
     <string name="local_repo">Lokalni vir aplikacij</string>
-    <string name="local_repo_running">F-Droid je pripravljen na zamenjavo</string>
+    <string name="local_repo_running">EDT je pripravljen na zamenjavo</string>
     <string name="deleting_repo">Brišem trenutni repozitorij …</string>
     <string name="adding_apks_format">Virom aplikacij se dodaja %s …</string>
     <string name="icon">Ikona</string>
@@ -420,8 +420,8 @@
 \n%1$s</string>
     <string name="empty_installed_app_list">Nameščenih ni nič aplikacij.
 \n
-\nNa vaši napravi so aplikacije, ampak niso na voljo v F-Droid. To se morda dogaja v primeru da morate posodobiti vaša skladišča ali pa ker skladišča odkrito nimajo vaših aplikacij na voljo.</string>
-    <string name="swap_nfc_description">Če ima tvoj prijatelj F-Droid in vključen NFC, lahko napravi prislonita skupaj.</string>
+\nNa vaši napravi so aplikacije, ampak niso na voljo v EDT. To se morda dogaja v primeru da morate posodobiti vaša skladišča ali pa ker skladišča odkrito nimajo vaših aplikacij na voljo.</string>
+    <string name="swap_nfc_description">Če ima tvoj prijatelj EDT in vključen NFC, lahko napravi prislonita skupaj.</string>
     <string name="swap_join_same_wifi_desc">Da opraviš zamenjavo z uporabo Wi-Fi, se prepričaj, da sta na enakem omrežju, Če nimaš dostopa do enakega omrežja, lahko eden od vaju ustvari dostopno točko.</string>
     <string name="swap_active_hotspot">%1$s (Tvoja dostopna točka)</string>
     <string name="system_install_denied_permissions">Privilegirana dovoljenja niso bila odobrena za ta dodatek! Prosimo, ustvarite poročilo programskega hrošča!</string>
@@ -436,7 +436,7 @@
     </plurals>
     <string name="latest__empty_state__no_enabled_repos">Ko omogočiš skladišče in ga pustiš da se posodobi, bi se tukaj morale prikazati najnovejše aplikacije</string>
     <string name="status_inserting_x_apps">Shranjevanje podrobnosti aplikacije (%1$d/%2$d) iz %3$s</string>
-    <string name="app_permission_storage">F-Droid potrebuje dostop do shrambe, da se lahko v njo to namesti. Prosimo dovolite to v naslednjem oknu, da lahko nadaljujete z namestitvijo.</string>
+    <string name="app_permission_storage">EDT potrebuje dostop do shrambe, da se lahko v njo to namesti. Prosimo dovolite to v naslednjem oknu, da lahko nadaljujete z namestitvijo.</string>
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Našli smo ranljivost v %1$s. Priporočamo, da to aplikacijo čim prej odstranite.</string>
     <string name="updates__app_with_known_vulnerability__prompt_upgrade">V %1$s smo našli ranljivost. Priporočamo, da čim prej namestite najnovejšo različico.</string>
     <string name="preventScreenshots_summary">Blokira zajetje zaslonskih slik in skrije vsebino aplikacij pred zaslonom nedavnih aplikacij</string>
@@ -454,7 +454,7 @@
     <string name="send_history_csv">%s namesti zgodovino kot CSV datoteko</string>
     <string name="updates_disabled_by_settings">Vse posodobitve so onemogočene v podatkovnih/wifi nastavitvah</string>
     <string name="send_installed_apps">Deli nameščene aplikacije</string>
-    <string name="send_installed_apps_csv">Aplikacije, nameščene z F-Droid kot CSV datoteke</string>
+    <string name="send_installed_apps_csv">Aplikacije, nameščene z EDT kot CSV datoteke</string>
     <string name="menu_open">To je kot \"zagon\", ampak za datoteke in dokumente, namesto aplikacije</string>
     <string name="about_forum">Podporni forum</string>
     <string name="app_suggested">Predlagano</string>
@@ -522,7 +522,7 @@
     <string name="install_history_and_metrics">Zgodovina namestitev in meritev</string>
     <string name="fdroid_metrics_report">Poročilo o meritvah %s</string>
     <string name="send_to_fdroid_metrics">Pošlji podatke o uporabi</string>
-    <string name="send_to_fdroid_metrics_summary">Tedensko pošlje anonimne podatke v F-Droid Metrics (zahteva Ohrani zgodovino namestitev)</string>
+    <string name="send_to_fdroid_metrics_summary">Tedensko pošlje anonimne podatke v EDT Metrics (zahteva Ohrani zgodovino namestitev)</string>
     <string name="banner_no_internet">Brez interneta</string>
     <string name="banner_no_data_or_wifi">Izklopljeni mobilni podatki ali WiFi</string>
     <string name="swap_wifi_vpn_conflict">Konflikti z aktivnim VPN!</string>

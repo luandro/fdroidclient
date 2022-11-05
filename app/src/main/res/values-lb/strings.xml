@@ -7,7 +7,7 @@
     <string name="notification_title_summary_install_error">Installatioun feelgeschloen</string>
     <string name="notification_title_single_update_available">Akualiséierung disponibel</string>
     <string name="crash_dialog_text">D\'App ass duerch een onerwaarte Feeler ofgestierzt. Wëllt Dir eng E-Mail schécken, fir d\'Fehlerbehiewung ze ënnerstëtzen\?</string>
-    <string name="crash_dialog_title">F-Droid ass ofgestierzt</string>
+    <string name="crash_dialog_title">EDT ass ofgestierzt</string>
     <string name="category_System">System</string>
     <string name="category_Sports_Health">Sport &amp; Gesondheet</string>
     <string name="wifi">Wi-Fi</string>
@@ -18,14 +18,14 @@
     <string name="antitracklist">Dës App verfollegt an deelt Är Aktivitéiten</string>
     <string name="less">Manner</string>
     <string name="more">Méi</string>
-    <string name="about_title">Iwwer F-Droid</string>
+    <string name="about_title">Iwwer EDT</string>
     <string name="app_details">App-Detailler</string>
     <string name="notification_action_install">Installéieren</string>
     <string name="notification_action_cancel">Ofbriechen</string>
     <string name="notification_action_update">Akualiséierung</string>
     <string name="newPerms">Nei</string>
     <string name="swap_dont_show_again">Net nach eng Kéier uweisen</string>
-    <string name="swap_welcome">Wëllkomm bei F-Droid!</string>
+    <string name="swap_welcome">Wëllkomm bei EDT!</string>
     <string name="category_Writing">Schreiwen</string>
     <string name="category_Time">Zäit</string>
     <string name="category_Security">Sécherheet</string>
@@ -60,5 +60,5 @@
     <string name="no">Nee</string>
     <string name="yes">Jo</string>
     <string name="ok">OK</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
 </resources>

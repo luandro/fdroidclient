@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="SignatureMismatch">Nova verzija je potpisana ključem različitim od stare. Da biste instalirali novu verziju, stara mora biti uklonjena. Molimo Vas, prvo uklonite staru verziju, a zatim pokušajte ponovno. (Napomena: uklanjanje će obrisati sve interne podatke aplikacije)</string>
     <string name="installIncompatible">Aplikacija nije kompatibilna s Vašim uređajem, ipak instalirati\?</string>
     <string name="version">Verzija</string>
@@ -30,7 +30,7 @@
     <string name="repo_error_empty_username">Prazno korisničko ime, podaci nisu promjenjeni</string>
     <string name="app_details">Detalji aplikacije</string>
     <string name="no_such_app">Nije pronađena takva aplikacija.</string>
-    <string name="about_title">O F-Droidu</string>
+    <string name="about_title">O EDTu</string>
     <string name="about_version">Verzija</string>
     <string name="about_site">Web stranica</string>
     <string name="about_source">Izvorni kod</string>
@@ -97,7 +97,7 @@
     <string name="show_incompat_versions">Uključi nekompatibilne verzije</string>
     <string name="show_incompat_versions_on">Prikaži verzije koje su nekompatibilne s ovim uređajem</string>
     <string name="local_repo">Lokalni repozitorij</string>
-    <string name="local_repo_running">F-Droid je spreman za razmjenu</string>
+    <string name="local_repo_running">EDT je spreman za razmjenu</string>
     <string name="touch_to_configure_local_repo">Dodirni za prikaz detalja i za dopuštanje drugima da razmjenjuju tvoje aplikacije.</string>
     <string name="deleting_repo">Briše se trenutačni repozitorij …</string>
     <string name="adding_apks_format">%s se dodaje u repozitorij …</string>
@@ -183,7 +183,7 @@
     <string name="category_Writing">Pisanje</string>
     <string name="empty_search_available_app_list">Nema dostupnih odgovarajućih aplikacija.</string>
     <string name="empty_installed_app_list">Nema instaliranih aplikacija.\n\nPostoje aplikacije na Vašem uređaju, ali
-        nisu dostupne iz F-Droida. Možda trebate ažurirati svoje repozitorije, ili ti repozitoriji stvarno nemaju Vaše
+        nisu dostupne iz EDTa. Možda trebate ažurirati svoje repozitorije, ili ti repozitoriji stvarno nemaju Vaše
         aplikacije.
     </string>
     <string name="empty_can_update_app_list">Čestitke!
@@ -194,7 +194,7 @@
         zapis o greški!
     </string>
     <string name="swap_nfc_title">Dodirnite za razmjenu</string>
-    <string name="swap_nfc_description">Ako Vaš prijatelj ima F-Droid i uključen NFC, dodirnite uređaje.</string>
+    <string name="swap_nfc_description">Ako Vaš prijatelj ima EDT i uključen NFC, dodirnite uređaje.</string>
     <string name="swap_join_same_wifi">Spoji se na istu Wi-Fi mrežu kao i prijatelj</string>
     <string name="swap_join_same_wifi_desc">Kako bi razmjenjivali preko Wi-Fi mreže, utvrdite da ste na istoj mreži. Ako
         nemate pristup istoj mreži, jedan od Vas može napraviti Wi-Fi Hotspot.
@@ -207,7 +207,7 @@
     <string name="swap_view_available_networks">Dodirnite za otvaranje dostupnih mreža</string>
     <string name="swap_switch_to_wifi">Dodirnite za prebacivanje na Wi-Fi mrežu</string>
     <string name="open_qr_code_scanner">Otvori QR skener</string>
-    <string name="swap_welcome">Dobrodošli u F-Droid!</string>
+    <string name="swap_welcome">Dobrodošli u EDT!</string>
     <string name="swap_confirm_connect">Želite li odmah dobaviti aplikacije iz %1$s?</string>
     <string name="swap_dont_show_again">Ne prikazuj ovo opet</string>
     <string name="swap_scan_or_type_url">Jedna osoba treba skenirati kod, ili upisati URL druge osobe u svoj
@@ -228,7 +228,7 @@
     <string name="swap_not_visible_wifi">Nije vidljivo preko Wi-Fi</string>
     <string name="swap_wifi_device_name">Ime uređja</string>
     <string name="swap_cant_find_peers">Ne možete naći koga tražite?</string>
-    <string name="swap_send_fdroid">Pošalji F-Droid</string>
+    <string name="swap_send_fdroid">Pošalji EDT</string>
     <string name="apps">Aplikacije</string>
     <string name="swap_no_peers_nearby">Nisu pronađeni ljudi u blizini za razmjenu.</string>
     <string name="swap_connecting">Povezivanje</string>
@@ -270,7 +270,7 @@
     <string name="keep_forever">Zauvijek</string>
     <string name="theme_light">Svijetla</string>
     <string name="theme_dark">Tamna</string>
-    <string name="crash_dialog_title">F-Droid se srušio</string>
+    <string name="crash_dialog_title">EDT se srušio</string>
     <string name="crash_dialog_text">Dogodila se neočekivana greška, aplikacija je prisilno zaustavljena. Želite li poslati detalje kvara putem e-pošte da bismo ga popravili\?</string>
     <string name="crash_dialog_comment_prompt">Možete dodati dodatne informacije i komentare ovdje:</string>
     <string name="keep_install_history">Zadrži povijest instalacija</string>
@@ -428,7 +428,7 @@
     <string name="updates__hide_updateable_apps">Sakrij aplikacije</string>
     <string name="update_all">Ažuriraj sve</string>
     <string name="installed_app__updates_ignored_for_suggested_version">Ažuriranja su zanemarena za verziju %1$s</string>
-    <string name="send_installed_apps_csv">Aplikacije instalirane F-Droidom kao CSV datoteka</string>
+    <string name="send_installed_apps_csv">Aplikacije instalirane EDTom kao CSV datoteka</string>
     <string name="app_installed_media">Datoteka je instalirana na %s</string>
     <string name="app_details_donate_prompt">%1$s su stvorili %2$s programeri. Kupi im kavu!</string>
     <string name="app_details_donate_prompt_unknown_author">Kupi %1$s programerima kavu!</string>
@@ -483,7 +483,7 @@
     <string name="updates_disabled_by_settings">Sva ažuriranja su onemogućena zbog postavki Mobilnih podataka / Wi-Fi</string>
     <string name="updates__app_with_known_vulnerability__prompt_upgrade">Pronašli smo sigurnosnu prijetnju u %1$s. Preporučujemo da odmah ažurirate ovu aplikaciju na najnoviju verziju.</string>
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Pronašli smo sigurnosnu prijetnju u %1$s. Preporučujemo da odmah deinstalirate ovu aplikaciju.</string>
-    <string name="app_permission_storage">F-Droid zahtjeva dopuštenje pristupa pohrani kako bi ovo instalirao u pohranu uređaja. Dopustite pristup pohrani na sljedećem zaslonu kako biste nastavili s instalacijom.</string>
+    <string name="app_permission_storage">EDT zahtjeva dopuštenje pristupa pohrani kako bi ovo instalirao u pohranu uređaja. Dopustite pristup pohrani na sljedećem zaslonu kako biste nastavili s instalacijom.</string>
     <string name="app_details__no_versions__explain_incompatible_signatures">Instalirana verzija nije kompatibilna s nijednom dostupnom verzijom. Deinstaliranje aplikacije omogućiti će vam pregled i instaliranje kompatibilnih verzija. Ovo se često događa s aplikacijama instaliranim putem Google Play ili drugih izvora, ako su potpisane drugim certifikatom.</string>
     <string name="app_details__no_versions__show_incompat_versions">Za prikaz nekompatibilnih verzija omogućite postavku \"%1$s\".</string>
     <string name="scan_removable_storage_summary">Traži repozitorije paketa na prijenosnoj pohrani kao što su SD kartice i USB pohrana</string>
@@ -530,7 +530,7 @@
     <string name="send_to_fdroid_metrics">Pošalji podatke o upotrebi</string>
     <string name="banner_no_data_or_wifi">Nije WiFi, niti Mobilna Mreža, uključena</string>
     <string name="menu_show_fdroid_metrics_report">Prikaži metrički izvještaj</string>
-    <string name="send_to_fdroid_metrics_summary">Sedmično šalje anonimne podatke F-Droid Metrikama (zahtjeva da se povijest o instalacijama sadrži)</string>
+    <string name="send_to_fdroid_metrics_summary">Sedmično šalje anonimne podatke EDT Metrikama (zahtjeva da se povijest o instalacijama sadrži)</string>
     <string name="fdroid_metrics_report">%s Metrički Izvještaj</string>
     <string name="toast_metrics_in_install_history">Izvještaj metrike %s je moguće vidjeti u Pregledniku za povijest instalacija</string>
 </resources>

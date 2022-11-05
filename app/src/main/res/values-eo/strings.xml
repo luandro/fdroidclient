@@ -8,7 +8,7 @@
     <string name="notify_on">Sciigi kiam ĝisdatigoj estas disponeblaj</string>
     <string name="app_details">Aplikaĵaj detaloj</string>
     <string name="no_such_app">Neniu aplikaĵo trovita.</string>
-    <string name="about_title">Pri F-Droid</string>
+    <string name="about_title">Pri EDT</string>
     <string name="about_site">Retejo</string>
     <string name="about_version">Versio</string>
     <string name="app_installed">Instalita</string>
@@ -84,8 +84,8 @@
     <string name="swap_no_wifi_network">Ankoraŭ neniu reto</string>
     <string name="swap_view_available_networks">Tuŝu por montri disponeblajn retojn</string>
     <string name="open_qr_code_scanner">Malfermi QR-kodan skanilon</string>
-    <string name="swap_welcome">Bonvenon al F-Droid!</string>
-    <string name="app_name">F-Droid</string>
+    <string name="swap_welcome">Bonvenon al EDT!</string>
+    <string name="app_name">EDT</string>
     <string name="installIncompatible">Aplikaĵo nekongruas kun via aparato, ĉu instali ĝin malgraŭ tio?</string>
     <string name="unstable_updates">Nestabilaj ĝisdatigoj</string>
     <string name="update_interval">Ofteco de aŭtomataj ĝisdatigoj</string>
@@ -125,7 +125,7 @@
     <string name="menu_litecoin">Litecoin</string>
     <string name="menu_flattr">Flattr</string>
     <string name="antinonfreeassetslist">Tiu ĉi aplikaĵo enhavas neliberan enhavon</string>
-    <string name="local_repo_running">F-Droid estas preta por interŝanĝo</string>
+    <string name="local_repo_running">EDT estas preta por interŝanĝo</string>
     <string name="touch_to_configure_local_repo">Tuŝu por rigardi detalojn kaj permesi al aliaj interŝanĝi viajn aplikaĵojn.</string>
     <string name="writing_index_jar">Konservado de subskribita indeksa dosiero (index.jar)…</string>
     <string name="proxy">Retperanto</string>
@@ -160,7 +160,7 @@
     <string name="repo_not_yet_updated">La deponejo ne estas jam uzita. Vi devas aktivigi ĝin por vidi la aplikaĵojn,
         kiujn ĝi liveras.
     </string>
-    <string name="repo_confirm_delete_body">Forigado de deponejo kaŭzos, ke ĝiaj aplikaĵoj ne plu montriĝos en F-Droid.
+    <string name="repo_confirm_delete_body">Forigado de deponejo kaŭzos, ke ĝiaj aplikaĵoj ne plu montriĝos en EDT.
 \n
 \nRimarko: ĉiuj antaŭe instalitaj aplikaĵoj restos en via aparato.</string>
     <string name="repo_disabled_notification">%1$s malaktiva.
@@ -189,7 +189,7 @@
         erar-raporton!
     </string>
     <string name="swap_nfc_title">Tuŝu por interŝanĝi</string>
-    <string name="swap_nfc_description">Se via amiko havas F-Droid kaj aktivigan NFC, vi povas tuŝi viajn aparatojn
+    <string name="swap_nfc_description">Se via amiko havas EDT kaj aktivigan NFC, vi povas tuŝi viajn aparatojn
         kune.
     </string>
     <string name="swap_join_same_wifi">Konektu al la sama vifio kiel via amiko</string>
@@ -218,7 +218,7 @@
     <string name="swap_not_visible_wifi">Nevidebla per vifio</string>
     <string name="swap_wifi_device_name">Nomo de aparato</string>
     <string name="swap_cant_find_peers">Ĉu vi ne povas trovi kiun, tiun vi serĉas?</string>
-    <string name="swap_send_fdroid">Sendi F-Droid</string>
+    <string name="swap_send_fdroid">Sendi EDT</string>
     <string name="apps">Aplikaĵoj</string>
     <string name="swap_no_peers_nearby">Ne povas trovi homojn proksime por interŝanĝi.</string>
     <string name="swap_connecting">Konektado</string>
@@ -249,7 +249,7 @@
     <string name="interval_2w">Kontroli pri ĝisdatigoj ĉiu-2-semajne</string>
     <string name="theme_light">Hela</string>
     <string name="theme_dark">Malhela</string>
-    <string name="crash_dialog_title">F-Droid kolapsis</string>
+    <string name="crash_dialog_title">EDT kolapsis</string>
     <string name="crash_dialog_text">Senatenda eraro okazis kaj devigis aplikaĵon halti. Ĉu vi volas retmesaĝi detalojn
         por helpi ripari la eraron?
     </string>
@@ -462,7 +462,7 @@
     <string name="send_history_csv">Historio de instaladoj de %s kiel CSV-dosiero</string>
     <string name="updates_disabled_by_settings">Ĉiuj ĝisdatigoj malaktivigitaj per agordoj de konektoj</string>
     <string name="send_installed_apps">Kunhavigi instalitajn aplikaĵojn</string>
-    <string name="send_installed_apps_csv">Aplikaĵoj instalitaj per F-Droid kiel CSV-dosiero</string>
+    <string name="send_installed_apps_csv">Aplikaĵoj instalitaj per EDT kiel CSV-dosiero</string>
     <string name="menu_open">Malfermi</string>
     <string name="about_forum">Subtena forumo</string>
     <string name="app_suggested">Konsilinda</string>

@@ -3,8 +3,8 @@
     <string name="ok">Sige</string>
     <string name="yes">Oo</string>
     <string name="back">Balik</string>
-    <string name="swap_send_fdroid">I-send ang F-Droid</string>
-    <string name="app_name">F-Droid</string>
+    <string name="swap_send_fdroid">I-send ang EDT</string>
+    <string name="app_name">EDT</string>
     <string name="version">Bersyon</string>
     <string name="delete">Burahin</string>
     <string name="enable_nfc_send">Buksan ang NFC Send…</string>
@@ -19,7 +19,7 @@
     <string name="send_install_history">Ipadala ang tala ng in-install</string>
     <string name="keep_install_history">Itabi ang tala ng in-install</string>
     <string name="keep_install_history_summary">Nagtatago ng log ng lahat ng mga in-install at binura sa isang pribadong taguan</string>
-    <string name="send_to_fdroid_metrics_summary">Nagpapadala ng anonymous na data linggo-linggo sa F-Droid Metrics (kailangan ang Itabi ang tala ng in-install)</string>
+    <string name="send_to_fdroid_metrics_summary">Nagpapadala ng anonymous na data linggo-linggo sa EDT Metrics (kailangan ang Itabi ang tala ng in-install)</string>
     <string name="send_version_and_uuid">Ipadala ang bersyon at UUID sa mga server</string>
     <string name="send_version_and_uuid_summary">Isama ang bersyon ng app na ito at isang random at natatanging ID kapag nagda-download, eepekto sa susunod na pagbukas sa app.</string>
     <string name="force_old_index">Ipwersa ang lumang format ng pag-index</string>
@@ -46,7 +46,7 @@
     <string name="repo_edit_credentials">Palitan ang password</string>
     <string name="app_details_donate_prompt">Ginawa ni/ng %2$s ang %1$s. Bilhan mo sila ng kape!</string>
     <string name="app_details__incompatible_mismatched_signature">Magkaibang pirma sa naka-install na bersyon</string>
-    <string name="about_title">Tungkol sa F-Droid</string>
+    <string name="about_title">Tungkol sa EDT</string>
     <string name="other">Karagdagan</string>
     <string name="over_data">Gamit data</string>
     <string name="system_installer">Dugtong ng Pribilehiyo</string>
@@ -76,14 +76,14 @@
     <string name="app__tts__cancel_download">Ikansela ang pag-download</string>
     <string name="app__install_downloaded_update">I-update</string>
     <string name="app_installed_media">Naka-install ang file sa %s</string>
-    <string name="app_permission_storage">Kailangan ng F-Droid ang permiso sa storage para ma-install ito sa storage. Pakiusap, payagan po ito sa susunod na screen para po makaabante na po tayo sa pag-install.</string>
+    <string name="app_permission_storage">Kailangan ng EDT ang permiso sa storage para ma-install ito sa storage. Pakiusap, payagan po ito sa susunod na screen para po makaabante na po tayo sa pag-install.</string>
     <string name="app_list_results_hidden_antifeature_settings">May mga nakatagong resulta base na rin sa iyong pagsasaayos sa mga ayoko.</string>
     <string name="app_list_download_ready">Na-download na, handa na\'ng i-install</string>
     <string name="app_list__dismiss_app_update">Binalewala ang update</string>
     <string name="app_list__dismiss_vulnerable_app">Binalewala ang kahinaan</string>
     <string name="app_list__dismiss_downloading_app">Kinansela ang pag-download</string>
     <string name="installed_apps__activity_title">Mga Naka-install na App</string>
-    <string name="send_installed_apps_csv">Naka-CSV na mga app na in-install gamit F-Droid</string>
+    <string name="send_installed_apps_csv">Naka-CSV na mga app na in-install gamit EDT</string>
     <string name="installed_app__updates_ignored">Binalewala ang mga update</string>
     <string name="installed_app__updates_ignored_for_suggested_version">Binalewala ang mga update para sa Bersyon %1$s</string>
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">May nakita kaming kahinaan sa %1$s. Rinerekomenda po naming burahin po agad ninyo ang app na ito.</string>
@@ -160,7 +160,7 @@
     <string name="notification_action_update">I-update</string>
     <string name="notification_action_cancel">Ikansela</string>
     <string name="notification_action_install">I-install</string>
-    <string name="crash_dialog_title">Nag-crash ang F-Droid</string>
+    <string name="crash_dialog_title">Nag-crash ang EDT</string>
     <string name="notification_title_single_update_available">May Update</string>
     <string name="notification_title_summary_install_error">Pumalya ang Pag-install</string>
     <string name="no">Hindi</string>
@@ -172,7 +172,7 @@
     <string name="main_menu__swap_nearby">Malapit</string>
     <string name="next">Sunod</string>
     <string name="skip">Laktawan</string>
-    <string name="swap_welcome">Welcome sa F-Droid!</string>
+    <string name="swap_welcome">Welcome sa EDT!</string>
     <string name="newPerms">Bago</string>
     <string name="updates__tts__download_app">I-download</string>
     <string name="warning_no_internet">Di ma-update, nakakonekta ka ba sa Internet\?</string>
@@ -255,7 +255,7 @@
     <string name="show_anti_feature_apps_on">Ipakita ang mga app na nangangailangan ng mga di-gustong tampok</string>
     <string name="force_touch_apps">Isama pati mga pang-touchscreen na app</string>
     <string name="local_repo">Lokal na Repo</string>
-    <string name="local_repo_running">Handa na\'ng magpalitan ang F-Droid</string>
+    <string name="local_repo_running">Handa na\'ng magpalitan ang EDT</string>
     <string name="adding_apks_format">Dinadagdag ang %s sa repo…</string>
     <string name="writing_index_jar">Sinusulat ang pirmadong index file (index.jar)…</string>
     <string name="copying_icons">Kinokopya ang mga icon ng app patungo sa repo…</string>
@@ -338,7 +338,7 @@
     </plurals>
     <string name="empty_installed_app_list">Walang naka-install na app.
 \n
-\nMay mga app ka sa device mo, pero hindi sila makikita sa F-Droid. Baka ito ay dahil kailangan mo na\'ng i-update ang mga repositoryo mo, o baka wala lang talaga sa mga repositoryo ang mga app mo.</string>
+\nMay mga app ka sa device mo, pero hindi sila makikita sa EDT. Baka ito ay dahil kailangan mo na\'ng i-update ang mga repositoryo mo, o baka wala lang talaga sa mga repositoryo ang mga app mo.</string>
     <string name="empty_can_update_app_list">Congrats!
 \nUpdated ang mga app mo.</string>
     <string name="empty_search_available_app_list">Walang tumugmang app.</string>
@@ -348,7 +348,7 @@
     <string name="share_apk_error">Di magawang maibahagi ang file ng app</string>
     <string name="nearby_splash__document_tree">Maghanap sa USB OTG para sa mga repo at mirror.</string>
     <string name="swap_nfc_title">Pagdikitin para magpalit</string>
-    <string name="swap_nfc_description">Kung may F-Droid ang kaibigan mo at nakabukas ang NFC niya, pagdikitin ninyo ang mga device ninyo.</string>
+    <string name="swap_nfc_description">Kung may EDT ang kaibigan mo at nakabukas ang NFC niya, pagdikitin ninyo ang mga device ninyo.</string>
     <string name="swap_join_same_wifi">Sumali sa parehong Wi-Fi ng kaibigan mo</string>
     <string name="nearby_splash__find_people_button">Maghanap ng malapit</string>
     <string name="nearby_splash__both_parties_need_fdroid">Kailangan parehong may %1$s ang mga sangkot para magamit ang Malapit.</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="version">Տարբերակ</string>
     <string name="delete">Ջնջել</string>
     <string name="updates">Թարմացումներ</string>
@@ -11,7 +11,7 @@
     <string name="login_password">Գաղտնաբառ</string>
     <string name="repo_edit_credentials">Փոխել գաղտնաբառը</string>
     <string name="app_details">Ափփի մանրամասներ</string>
-    <string name="about_title">F-Droidի մասին</string>
+    <string name="about_title">EDTի մասին</string>
     <string name="about_version">Տարբերակ</string>
     <string name="about_site">Կայք</string>
     <string name="about_license">Արտոնագիր</string>
@@ -151,7 +151,7 @@
     <string name="category_Time">Ժամանակ</string>
     <string name="category_Writing">Տեքստ</string>
     <string name="swap_no_wifi_network">Դեռ համացանց չկա</string>
-    <string name="swap_welcome">Բարի՜ գալուստ F-Droid</string>
+    <string name="swap_welcome">Բարի՜ գալուստ EDT</string>
     <string name="swap_choose_apps">Ընտրել ափփեր</string>
     <string name="swap_connecting">Միանում է</string>
     <string name="perm_costs_money">Սա կարող է քեզ գումար արժենալ</string>
@@ -167,7 +167,7 @@
     <string name="interval_1d">Ստուգել թարմացումները ամեն օր</string>
     <string name="interval_1w">Ստուգել թարմացումները ամեն շաբաթ</string>
     <string name="interval_2w">Ստուգել թարմացումները 2 շաբաթը մեկ</string>
-    <string name="crash_dialog_title">F-Droidը կործանվեց</string>
+    <string name="crash_dialog_title">EDTը կործանվեց</string>
     <string name="crash_dialog_comment_prompt">Այստեղ կարող ես ավելացնել հավելյալ տեղեկատվություն և մեկնաբանություններ՝</string>
     <string name="enable_nfc_send">Միացնել NFC Sendը…</string>
     <string name="unstable_updates_summary">Առաջարկել թարմացումներ անկայուն տարբերակների համար</string>

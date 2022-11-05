@@ -5,7 +5,7 @@
     <string name="cache_downloaded">Зберігати кешовані застосунки</string>
     <string name="updates">Оновлення</string>
     <string name="notify">Показати наявні оновлення</string>
-    <string name="about_title">Про F-Droid</string>
+    <string name="about_title">Про EDT</string>
     <string name="about_site">Сайт</string>
     <string name="about_version">Версія</string>
     <string name="app_installed">Установлено</string>
@@ -30,7 +30,7 @@
     <string name="expert">Експертний режим</string>
     <string name="search_hint">Пошук застосунків</string>
     <string name="appcompatibility">Сумісність застосунків</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="installIncompatible">Додатки несумісний з вашим пристроєм, все одно встановити\?</string>
     <string name="delete">Видалити</string>
     <string name="other">Інше</string>
@@ -124,11 +124,11 @@
     <string name="swap_join_same_wifi">Під\'єднайтеся до того ж Wi-Fi, що і ваш друг</string>
     <string name="swap_view_available_networks">Натисніть, щоб відкрити доступні мережі</string>
     <string name="open_qr_code_scanner">Відкрити QR-сканер</string>
-    <string name="swap_welcome">Вітаємо у F-Droid!</string>
+    <string name="swap_welcome">Вітаємо у EDT!</string>
     <string name="swap_choose_apps">Виберіть застосунки</string>
     <string name="swap_scan_qr">QR-код</string>
     <string name="swap_wifi_device_name">Назва пристрою</string>
-    <string name="swap_send_fdroid">Відправити F-Droid</string>
+    <string name="swap_send_fdroid">Відправити EDT</string>
     <string name="apps">Додатки</string>
     <string name="swap_connecting">Підключення</string>
     <string name="loading">Завантаження…</string>
@@ -144,7 +144,7 @@
     <string name="empty_can_update_app_list">Вітаємо!
 \nВаші застосунки оновлено.</string>
     <string name="install_error_unknown">Не вдалося встановити через невідому помилку</string>
-    <string name="swap_nfc_description">Якщо у вашого друга є F-Droid і у вас обох включений NFC, прикладіть пристрої один до одного.</string>
+    <string name="swap_nfc_description">Якщо у вашого друга є EDT і у вас обох включений NFC, прикладіть пристрої один до одного.</string>
     <string name="swap_no_wifi_network">Мережа відсутня</string>
     <string name="swap_confirm_connect">Бажаєте отримати застосунки з %1$s зараз?</string>
     <string name="swap_dont_show_again">Не показувати це знову</string>
@@ -164,7 +164,7 @@
     <string name="display">Вигляд</string>
     <string name="show_incompat_versions">Увімкнути несумісні версії</string>
     <string name="show_incompat_versions_on">Показувати версії застосунків, які несумісні з цим пристроєм</string>
-    <string name="local_repo_running">F-Droid готовий до обміну</string>
+    <string name="local_repo_running">EDT готовий до обміну</string>
     <string name="writing_index_jar">Запис підписаного файлу індексу (index.jar)…</string>
     <string name="linking_apks">Включення APK-файлів до репозиторію…</string>
     <string name="all_other_repos_fine">Всі інші репозиторії не містять помилок.</string>
@@ -205,7 +205,7 @@
     <string name="perms_new_perm_prefix">Нові:</string>
     <string name="empty_installed_app_list">Жодного застосунку не встановлено.
 \n
-\nНа вашому пристрої є застосунки, що не доступні в F-Droid. Це може бути тому, що вам потрібно оновити свої репозиторії, або репозиторії не містять доступних застосунків.</string>
+\nНа вашому пристрої є застосунки, що не доступні в EDT. Це може бути тому, що вам потрібно оновити свої репозиторії, або репозиторії не містять доступних застосунків.</string>
     <string name="swap_join_same_wifi_desc">Для обміну через Wi-Fi, переконайтеся, що ви під\'єднані до спільної мережі. Якщо ж ви не маєте доступу до спільної мережі, єдиний спосіб, це створити власну Wi-Fi точку доступу.</string>
     <string name="swap_join_this_hotspot">Допоможіть вашим друзям з\'єднатися з вашою точкою доступу</string>
     <string name="swap_scan_or_type_url">Один з вас повинен сканувати код, чи ввести URL іншого у браузері.</string>
@@ -236,7 +236,7 @@
     <string name="about_license">Ліцензія</string>
     <string name="empty_search_available_app_list">Немає відповідних застосунків.</string>
     <string name="status_inserting_apps">Збереження деталей застосунку</string>
-    <string name="crash_dialog_title">Збій F-Droid</string>
+    <string name="crash_dialog_title">Збій EDT</string>
     <string name="crash_dialog_text">Сталася неочікувана помилка, змусивши застосунок зупинитися. Хочете надіслати листа з подробицями, які допоможуть нам усунути цю ваду?</string>
     <string name="crash_dialog_comment_prompt">Можете ввести додаткові відомості та коментарі тут:</string>
     <string name="antinonfreeassetslist">Цей застосунок містить не вільні ресурси</string>
@@ -392,7 +392,7 @@
     <string name="app_details__no_versions__none_compatible_with_device">Немає сумісних із пристроєм версій</string>
     <string name="app_details__no_versions__explain_incompatible_signatures">Установлена версія несумісна з будь-якими доступними версіями. Якщо видалити застосунок, ви зможете переглядати та встановлювати сумісні версії. Це часто трапляється з застосунками, встановленими через Google Play або з інших джерел, якщо вони підписані іншим сертифікатом.</string>
     <string name="app_installed_media">Файл встановлено в %s</string>
-    <string name="app_permission_storage">F-Droid потребує дозволу на доступ до сховища для встановлення. Будь ласка, надайте дозвіл на наступному екрані, щоб продовжити встановлення.</string>
+    <string name="app_permission_storage">EDT потребує дозволу на доступ до сховища для встановлення. Будь ласка, надайте дозвіл на наступному екрані, щоб продовжити встановлення.</string>
     <string name="app_list_download_ready">Завантажено, готовий до встановлення</string>
     <string name="status_inserting_x_apps">Збереження деталей застосунку (%1$d/%2$d) з %3$s</string>
     <string name="app_list__dismiss_app_update">Оновлення ігнорується</string>
@@ -452,7 +452,7 @@
     <string name="send_history_csv">Історія встановлень %s як CSV file</string>
     <string name="send_version_and_uuid_summary">Включити версію цього застосунку та випадковий унікальний ID. Зміни набудуть чинності після перезапуску.</string>
     <string name="send_installed_apps">Поширити встановлені застосунки</string>
-    <string name="send_installed_apps_csv">Застосунки, встановлені через F-Droid, як файл CSV</string>
+    <string name="send_installed_apps_csv">Застосунки, встановлені через EDT, як файл CSV</string>
     <string name="updates_disabled_by_settings">Усі оновлення вимкнено у налаштуваннях мобільного інтернету/WiFi</string>
     <string name="repo_exists_add_mirror">Це копія файлу %1$s, додати її як дзеркало файлу\?</string>
     <string name="menu_open">Відкрити</string>
@@ -515,7 +515,7 @@
     <string name="menu_show_install_history">Показати історію встановлення</string>
     <string name="menu_show_fdroid_metrics_report">Показати звіт з показниками</string>
     <string name="toast_metrics_in_install_history">Звіт %s можна переглянути в засобі перегляду журналу встановлення</string>
-    <string name="send_to_fdroid_metrics_summary">Щотижня надсилає анонімні дані до F-Droid Metrics (потрібно зберігати історію встановлення)</string>
+    <string name="send_to_fdroid_metrics_summary">Щотижня надсилає анонімні дані до EDT Metrics (потрібно зберігати історію встановлення)</string>
     <string name="send_to_fdroid_metrics">Надіслати дані про використання</string>
     <string name="fdroid_metrics_report">%s звіт з показниками</string>
     <string name="install_history_and_metrics">Встановити історію та показники</string>

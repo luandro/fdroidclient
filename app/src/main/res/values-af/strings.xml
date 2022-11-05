@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="SignatureMismatch">Die nuwe weergawe is geteken met \'n ander sleutel as die vorige een. Om die nuwe weergawe te installeer moet die vorige een eers verwyder word. Doen dit asseblief eers en probeer dan weer. (Neem egter kennis dat de-installasie alle interne data wat deur die program gestoor is sal verloor)</string>
     <string name="installIncompatible">Hierdie progam nie aanpasbaar is met you toestel nie. Wil jy in elk geval probeer?</string>
     <string name="version">Weergawe</string>
@@ -32,7 +32,7 @@
     <string name="no_such_app">Daar bestaan nie so program nie.</string>
     <string name="app_details_donate_prompt_unknown_author">Koop vir die ontwikkelaars van %1$s \'n koppie koffie!</string>
     <string name="app_details_donate_prompt">%1$s is geskep deur %2$s. Koop vir hulle \'n koffie!</string>
-    <string name="about_title">Ietsie oor F-Droid</string>
+    <string name="about_title">Ietsie oor EDT</string>
     <string name="about_version">Weergawe</string>
     <string name="about_site">Webwerf</string>
     <string name="about_source">Bronkode</string>
@@ -187,7 +187,7 @@
     <string name="category_Writing">Skryf</string>
     <string name="empty_installed_app_list">Geen programme geïnstalleer.
 \n
-\nDaar is programme op jou toestel nie, maar hulle is nie beskikbaar vanaf F-Droid nie. Dit kan wees omdat jy jou argiewe moet opdateer, of die argiewe het werklikwaar geen van jou programme beskikbaar nie.</string>
+\nDaar is programme op jou toestel nie, maar hulle is nie beskikbaar vanaf EDT nie. Dit kan wees omdat jy jou argiewe moet opdateer, of die argiewe het werklikwaar geen van jou programme beskikbaar nie.</string>
     <string name="empty_can_update_app_list">Geluk!\nJou programme is op datum.</string>
     <string name="install_error_unknown">Installasie onsuksesvol vanweë \'n onbekende fout</string>
     <string name="uninstall_error_unknown">Deïnstallasie onsuksesvol vanweë \'n onbekende fout</string>
@@ -195,7 +195,7 @@
         Skep asseblief \'n foutverslag!
     </string>
     <string name="swap_nfc_title">Tas om te deel</string>
-    <string name="swap_nfc_description">Indien jou vriend F-Droid en NFC aangeskakel het, hou julle toestelle teen
+    <string name="swap_nfc_description">Indien jou vriend EDT en NFC aangeskakel het, hou julle toestelle teen
         mekaar.
     </string>
     <string name="swap_join_same_wifi">Sluit aan by die dieselfde Wi-Fi as jou vriend</string>
@@ -210,7 +210,7 @@
     <string name="swap_view_available_networks">Tik om beskikbare netwerke te wys</string>
     <string name="swap_switch_to_wifi">Tik om oor te skakel na \'n Wi-Fi netwerk</string>
     <string name="open_qr_code_scanner">Maak QR Scanner oop</string>
-    <string name="swap_welcome">Welkom by F-Droid!</string>
+    <string name="swap_welcome">Welkom by EDT!</string>
     <string name="swap_confirm_connect">Wil jy programme vanaf %1$s nou kry?</string>
     <string name="swap_dont_show_again">Moenie dit weer wys nie</string>
     <string name="swap_choose_apps">Kies programme</string>
@@ -227,7 +227,7 @@
     <string name="swap_not_visible_wifi">Nie sigbaar via Wi-Fi</string>
     <string name="swap_wifi_device_name">Toestelnaam</string>
     <string name="swap_cant_find_peers">Nog steeds nie gevind wat jy soek nie?</string>
-    <string name="swap_send_fdroid">F-Droid stuur</string>
+    <string name="swap_send_fdroid">EDT stuur</string>
     <string name="swap_no_peers_nearby">Kan mense naby kry om mee te ruil nie.</string>
     <string name="swap_connecting">Koppel</string>
     <string name="app_version_x_available">Weergawe %1$s beskikbaar</string>
@@ -280,7 +280,7 @@
     <string name="keep_forever">Vir ewig</string>
     <string name="theme_light">Lig</string>
     <string name="theme_dark">Donker</string>
-    <string name="crash_dialog_title">F-Droid het ineengestort</string>
+    <string name="crash_dialog_title">EDT het ineengestort</string>
     <string name="crash_dialog_text">\'N Onverwagse fout het voorgekom wat die program laat stop het.
         Wil jy \'n e-pos met die besonderhede stuur om die probleem te help oplos?
     </string>
@@ -380,7 +380,7 @@
         <item quantity="other">%1$d jare gelede opgedateer</item>
     </plurals>
     <string name="app_installed_media">Lêer geïnstalleer na %s</string>
-    <string name="app_permission_storage">F-Droid het stoor toestemming nodig. Laat dit toe op die volgende skerm om voort te gaan met installasie.</string>
+    <string name="app_permission_storage">EDT het stoor toestemming nodig. Laat dit toe op die volgende skerm om voort te gaan met installasie.</string>
     <string name="app_list_download_ready">Afgelaai, gereed om te installeer</string>
     <string name="status_inserting_x_apps">Stoor program besonderhede (%1$d/%2$d) vanaf %3$s</string>
     <string name="prompt_to_send_crash_reports">Versoek \'n katastrofiese fout rapport</string>
@@ -493,7 +493,7 @@
     <string name="updates__app_with_known_vulnerability__ignore">Ignoreer</string>
     <string name="updates__app_with_known_vulnerability__prompt_upgrade">Ons het \'n kwesbaarheid met %1$s gevind. Ons beveel aan om dadelik na die nuutste weergawe op te dateer.</string>
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Ons het \'n kwesbaarheid met %1$s gevind. Ons beveel aan dat u hierdie program onmiddellik deïnstalleer.</string>
-    <string name="send_installed_apps_csv">Programme geïnstalleer deur F-Droid as CSV-lêer</string>
+    <string name="send_installed_apps_csv">Programme geïnstalleer deur EDT as CSV-lêer</string>
     <string name="send_installed_apps">Deel geïnstalleerde programme</string>
     <string name="app_list__dismiss_downloading_app">Aflaai gekanselleer</string>
     <string name="app_list__dismiss_vulnerable_app">Kwesbaarheid word geïgnoreer</string>
@@ -509,7 +509,7 @@
     <string name="send_fdroid_metrics_report">Stuur %s Statistieke Verslag</string>
     <string name="menu_show_install_history">Wys instelasie geskiedenis</string>
     <string name="menu_show_fdroid_metrics_report">Wys gebruikersverslag</string>
-    <string name="send_to_fdroid_metrics_summary">Stuur weeklikse anonieme data na F-Droid Metrics (benodig \"Keep install history\")</string>
+    <string name="send_to_fdroid_metrics_summary">Stuur weeklikse anonieme data na EDT Metrics (benodig \"Keep install history\")</string>
     <string name="send_to_fdroid_metrics">Stuur gebruikersdata</string>
     <string name="fdroid_metrics_report">%s gebruikersverslag</string>
     <string name="install_history_and_metrics">installasie geskiedenis en gebruikers data</string>

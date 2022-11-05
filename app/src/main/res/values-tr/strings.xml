@@ -18,7 +18,7 @@
     <string name="local_repo_https_on">Yerel depo için şifrelenmiş HTTPS:// bağlantısı kullan</string>
     <string name="app_details">Uygulama Ayrıntıları</string>
     <string name="no_such_app">Böyle bir uygulama yok.</string>
-    <string name="about_title">F-Droid Hakkında</string>
+    <string name="about_title">EDT Hakkında</string>
     <string name="about_site">İnternet Sitesi</string>
     <string name="about_version">Sürüm</string>
     <string name="app_installed">Yüklü</string>
@@ -68,7 +68,7 @@
     <string name="show_incompat_versions">Uyumsuz sürümleri içer</string>
     <string name="show_incompat_versions_on">Aygıtla uyumsuz uygulama sürümlerini göster</string>
     <string name="local_repo">Yerel Depo</string>
-    <string name="local_repo_running">F-Droid takasa hazır</string>
+    <string name="local_repo_running">EDT takasa hazır</string>
     <string name="touch_to_configure_local_repo">Ayrıntıları görüntülemek ve başkalarının uygulamalarınızı değiştirmesine izin vermek için dokunun.</string>
     <string name="deleting_repo">Geçerli depo siliniyor…</string>
     <string name="adding_apks_format">%s depoya ekleniyor…</string>
@@ -128,15 +128,15 @@
     <string name="category_Science_Education">Bilim ve eğitim</string>
     <string name="category_Security">Güvenlik</string>
     <string name="category_System">Sistem</string>
-    <string name="swap_nfc_description">Arkadaşınızda F-Droid varsa ve NFC açıksa aygıtlarınızı birbirine dokundurun.</string>
+    <string name="swap_nfc_description">Arkadaşınızda EDT varsa ve NFC açıksa aygıtlarınızı birbirine dokundurun.</string>
     <string name="swap_join_same_wifi">Arkadaşınızla aynı kablosuz ağa katılın</string>
     <string name="swap">Uygulama takası</string>
     <string name="swap_no_wifi_network">Henüz ağ yok</string>
     <string name="swap_view_available_networks">Kullanılabilir ağları açmak için dokunun</string>
     <string name="open_qr_code_scanner">Karekod tarayıcısını aç</string>
-    <string name="swap_welcome">F-Droid\'e hoş geldiniz!</string>
+    <string name="swap_welcome">EDT\'e hoş geldiniz!</string>
     <string name="swap_confirm_connect">%1$s cihazından şimdi uygulama almak istiyor musunuz\?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="unstable_updates">Kararsız güncellemeler</string>
     <string name="unstable_updates_summary">Kararsız sürümlere güncellemeleyi öner</string>
     <string name="login_title">Kimlik doğrulama gerekli</string>
@@ -180,7 +180,7 @@
     <string name="empty_search_available_app_list">Eşleşen hiçbir uygulama yok.</string>
     <string name="empty_installed_app_list">Yüklü uygulama yok.
 \n
-\nAygıtınızda uygulamalar var ancak bunlar F-Droid\'te mevcut değil. Bu depolarınızı güncellemeniz gerektiğinden veya depolarda gerçekten uygulamanız mevcut olmadığından olabilir.</string>
+\nAygıtınızda uygulamalar var ancak bunlar EDT\'te mevcut değil. Bu depolarınızı güncellemeniz gerektiğinden veya depolarda gerçekten uygulamanız mevcut olmadığından olabilir.</string>
     <string name="empty_can_update_app_list">Tebrikler!
 \nUygulamalarınız güncel.</string>
     <string name="install_error_unknown">Bilinmeyen bir hata nedeniyle yüklenemedi</string>
@@ -204,7 +204,7 @@
     <string name="swap_not_visible_wifi">Kablosuz ağdan görünmez</string>
     <string name="swap_wifi_device_name">Aygıt Adı</string>
     <string name="swap_cant_find_peers">Aradığınız kişiyi bulamadınız mı\?</string>
-    <string name="swap_send_fdroid">F-Droid\'i gönder</string>
+    <string name="swap_send_fdroid">EDT\'i gönder</string>
     <string name="apps">Uygulamalar</string>
     <string name="swap_no_peers_nearby">Yakında takaslanabilecek kişi bulunamadı.</string>
     <string name="swap_connecting">Bağlanıyor</string>
@@ -235,7 +235,7 @@
     <string name="interval_2w">Güncellemeleri 2 haftada bir denetle</string>
     <string name="theme_light">Aydınlık</string>
     <string name="theme_dark">Karanlık</string>
-    <string name="crash_dialog_title">F-Droid çöktü</string>
+    <string name="crash_dialog_title">EDT çöktü</string>
     <string name="crash_dialog_text">Uygulamanın durmasına neden olan beklenmedik bir hata oluştu. Sorunun giderilmesine yardım etmek için ayrıntıları e-posta ile göndermek ister misiniz\?</string>
     <string name="crash_dialog_comment_prompt">Ek bilgi ve yorumları buraya ekleyebilirsiniz:</string>
     <string name="wifi_ap">Erişim noktası</string>
@@ -372,7 +372,7 @@
     <string name="app_list_download_ready">İndirildi, yüklemeye hazır</string>
     <string name="status_inserting_x_apps">Uygulama ayrıntıları kaydediliyor (%1$d/%2$d) kaynak %3$s</string>
     <string name="app_installed_media">Dosya %s konumuna yüklendi</string>
-    <string name="app_permission_storage">F-Droid bunu depolaya yüklemek için depolama iznine ihtiyaç duyuyor. Yüklemeye devam etmek için lütfen bir sonraki ekranda izin verin.</string>
+    <string name="app_permission_storage">EDT bunu depolaya yüklemek için depolama iznine ihtiyaç duyuyor. Yüklemeye devam etmek için lütfen bir sonraki ekranda izin verin.</string>
     <string name="app_details__incompatible_mismatched_signature">Yüklü sürümden farklı imza</string>
     <string name="app_details__no_versions__show_incompat_versions">Uyumsuz sürümleri burada yine de göstermek için, \"%1$s\" ayarını etkinleştirin.</string>
     <string name="app_details__no_versions__no_compatible_signatures">Uyumlu imzaya sahip sürüm yok</string>
@@ -449,7 +449,7 @@
     <string name="send_history_csv">%s geçmişi CSV dosyası olarak yükle</string>
     <string name="updates_disabled_by_settings">Tüm güncellemeler Veri/Kablosuz Ayarları tarafından devre dışı bırakıldı</string>
     <string name="send_installed_apps">Yüklü uygulamaları paylaş</string>
-    <string name="send_installed_apps_csv">F-Droid tarafından CSV dosyası olarak yüklenmiş uygulamalar,</string>
+    <string name="send_installed_apps_csv">EDT tarafından CSV dosyası olarak yüklenmiş uygulamalar,</string>
     <string name="menu_open">Aç</string>
     <string name="about_forum">Destek forumu</string>
     <string name="app_suggested">Önerilen</string>
@@ -498,7 +498,7 @@
     <string name="menu_show_install_history">Yükleme geçmişini göster</string>
     <string name="menu_show_fdroid_metrics_report">Ölçüm raporunu göster</string>
     <string name="toast_metrics_in_install_history">%s Ölçüm raporu Yükleme Geçmişi görüntüleyicisinde görüntülenebilir</string>
-    <string name="send_to_fdroid_metrics_summary">F-Droid Ölçümleri\'ne haftalık olarak anonim veri gönderir (Yükleme geçmişini tut etkin olmalı)</string>
+    <string name="send_to_fdroid_metrics_summary">EDT Ölçümleri\'ne haftalık olarak anonim veri gönderir (Yükleme geçmişini tut etkin olmalı)</string>
     <string name="send_to_fdroid_metrics">Kullanım verilerini gönder</string>
     <string name="fdroid_metrics_report">%s Ölçüm Raporu</string>
     <string name="install_history_and_metrics">Yükleme geçmişi ve ölçümler</string>

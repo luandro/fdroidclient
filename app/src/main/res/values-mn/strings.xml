@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="delete">Устгах</string>
     <string name="cancel">Цуцлах</string>
     <string name="unknown">Тодорхойгүй</string>
@@ -168,7 +168,7 @@
     <string name="swap_join_this_hotspot">Найздаа халуун цэг дээрээ нэгдэхэд нь тусална уу</string>
     <string name="swap_join_same_wifi_desc">Wi-Fi ашиглан солихын тулд ижил сүлжээнд холбогдсон эсэхээ шалгаарай. Хэрэв танд ижил сүлжээнд нэвтрэх эрх байхгүй бол та нарын нэг нь Wi-Fi Hotspot үүсгэх боломжтой.</string>
     <string name="swap_join_same_wifi">Найзтайгаа ижил Wi-Fi сүлжээнд холбогдоорой</string>
-    <string name="swap_nfc_description">Хэрэв таны найз F-Droid ба NFC-г асаасан бол таны төхөөрөмжид хүрнэ үү.</string>
+    <string name="swap_nfc_description">Хэрэв таны найз EDT ба NFC-г асаасан бол таны төхөөрөмжид хүрнэ үү.</string>
     <string name="swap_nfc_title">Солих бол хүрнэ үү</string>
     <string name="nearby_splash__request_permission">Оролдоод үз</string>
     <string name="nearby_splash__document_tree">USB OTG дээрээс репо, толь хайж үзээрэй.</string>
@@ -184,7 +184,7 @@
 \nТаны аппууд шинэчлэгдсэн байна.</string>
     <string name="empty_installed_app_list">Апп суулгаагүй байна.
 \n
-\nТаны төхөөрөмж дээр програмууд байгаа боловч F-Droid-с ашиглах боломжгүй байна. Энэ нь танд нөөцөө шинэчлэх шаардлагатай, эсвэл агуулахад жинхэнэ таны апп байхгүй байгаатай холбоотой байж болох юм.</string>
+\nТаны төхөөрөмж дээр програмууд байгаа боловч EDT-с ашиглах боломжгүй байна. Энэ нь танд нөөцөө шинэчлэх шаардлагатай, эсвэл агуулахад жинхэнэ таны апп байхгүй байгаатай холбоотой байж болох юм.</string>
     <plurals name="button_view_all_apps_in_category">
         <item quantity="one">%d үзэх</item>
         <item quantity="other">Бүх %d-г үзэх</item>
@@ -269,7 +269,7 @@
     <string name="adding_apks_format">Репод %s нэмж байна …</string>
     <string name="deleting_repo">Одоогийн репо-г устгаж байна …</string>
     <string name="touch_to_configure_local_repo">Дэлгэрэнгүй мэдээллийг үзэхийн тулд хүрээд бусад хүмүүст таны програмыг солих боломжийг олгоно уу.</string>
-    <string name="local_repo_running">F-Droid-г солиход бэлэн боллоо</string>
+    <string name="local_repo_running">EDT-г солиход бэлэн боллоо</string>
     <string name="local_repo">Орон нутгийн репо</string>
     <string name="force_touch_apps_on">Тоног төхөөрөмжийн дэмжлэгээс үл хамааран мэдрэгчтэй дэлгэц шаарддаг програмуудыг харуулах</string>
     <string name="force_touch_apps">Мэдрэгчтэй програмыг оруулна уу</string>
@@ -355,7 +355,7 @@
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Бид %1$s-ийн тусламжтайгаар эмзэг байдлыг олж илрүүлсэн. Бид энэ програмыг нэн даруй устгахыг зөвлөж байна.</string>
     <string name="installed_app__updates_ignored_for_suggested_version">%1$s хувилбарын шинэчлэлтийг үл тоомсорлов</string>
     <string name="installed_app__updates_ignored">Шинэчлэлтийг үл тоомсорлов</string>
-    <string name="send_installed_apps_csv">F-Droid-ийг CSV файл болгон суулгасан програмууд</string>
+    <string name="send_installed_apps_csv">EDT-ийг CSV файл болгон суулгасан програмууд</string>
     <string name="send_installed_apps">Суулгасан програмуудыг хуваалцах</string>
     <string name="installed_apps__activity_title">Програм суулгасан</string>
     <string name="app_list__dismiss_downloading_app">Татаж авахыг цуцлав</string>
@@ -364,7 +364,7 @@
     <string name="app_list_download_ready">Татаж авсан, суулгахад бэлэн боллоо</string>
     <string name="app_size">Хэмжээ: %1$s</string>
     <string name="app_repository">Хадгалах сан: %1$s</string>
-    <string name="app_permission_storage">Үүнийг хадгалах санд суулгахын тулд F-Droid-д хадгалах зөвшөөрөл шаардлагатай. Суулгалтыг үргэлжлүүлэхийн тулд дараагийн дэлгэц дээр үүнийг зөвшөөрнө үү.</string>
+    <string name="app_permission_storage">Үүнийг хадгалах санд суулгахын тулд EDT-д хадгалах зөвшөөрөл шаардлагатай. Суулгалтыг үргэлжлүүлэхийн тулд дараагийн дэлгэц дээр үүнийг зөвшөөрнө үү.</string>
     <string name="app_installed_media">%s файлыг суулгасан</string>
     <string name="app__install_downloaded_update">Шинэчлэх</string>
     <string name="app__tts__cancel_download">Татаж авахыг цуцлах</string>
@@ -442,8 +442,8 @@
     <string name="notification_title_summary_install_error">Суулгаж чадсангүй</string>
     <string name="notification_title_single_update_available">Шинэчлэх боломжтой</string>
     <string name="crash_dialog_text">Аппыг зогсооход хүргэсэн гэнэтийн алдаа гарлаа. Асуудлыг арилгахад туслах дэлгэрэнгүй мэдээллийг имэйлээр илгээхийг хүсч байна уу\?</string>
-    <string name="crash_dialog_title">F-Droid осолдсон</string>
-    <string name="swap_send_fdroid">F-Droid илгээнэ үү</string>
+    <string name="crash_dialog_title">EDT осолдсон</string>
+    <string name="swap_send_fdroid">EDT илгээнэ үү</string>
     <string name="category_System">Систем</string>
     <string name="category_Sports_Health">Спорт ба эрүүл мэнд</string>
     <string name="not_on_same_wifi">Таны төхөөрөмж таны сая нэмсэн орон нутгийн репо-той ижил Wi-Fi сүлжээнд холбогдоогүй байна! Энэ сүлжээнд нэгдэж үзээрэй: %s</string>
@@ -458,13 +458,13 @@
     <string name="updates__tts__download_app">Татаж авах</string>
     <string name="app_list__name__successfully_installed">%1$s суулгасан</string>
     <string name="app_list__name__downloading_in_progress">Татаж байна %1$s</string>
-    <string name="about_title">F-Droid-ийн тухай</string>
+    <string name="about_title">EDT-ийн тухай</string>
     <string name="app_details">Аппын дэлгэрэнгүй</string>
     <string name="notification_action_install">Суулгах</string>
     <string name="notification_action_cancel">Болих</string>
     <string name="notification_action_update">Шинэчлэх</string>
     <string name="swap_dont_show_again">Үүнийг дахиж битгий харуул</string>
-    <string name="swap_welcome">F-Droid-д тавтай морилно уу!</string>
+    <string name="swap_welcome">EDT-д тавтай морилно уу!</string>
     <string name="category_Writing">Бичих</string>
     <string name="category_Time">Цаг хугацаа</string>
     <string name="category_Security">Аюулгүй байдал</string>

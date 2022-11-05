@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="updates">Updates</string>
     <string name="ok">OK</string>
     <string name="yes">Ja</string>
@@ -39,14 +39,14 @@
     <string name="category_Security">Beveiliging</string>
     <string name="category_Time">Tijd</string>
     <string name="category_Writing">Schrijven</string>
-    <string name="swap_welcome">Welkom bij F-Droid!</string>
+    <string name="swap_welcome">Welkom bij EDT!</string>
     <string name="swap_dont_show_again">Toon dit in de toekomst niet meer</string>
     <string name="newPerms">Nieuw</string>
     <string name="notification_action_update">Bijwerken</string>
     <string name="notification_action_cancel">Annuleren</string>
     <string name="notification_action_install">Installeer</string>
     <string name="app_details">App-details</string>
-    <string name="about_title">Over F-Droid</string>
+    <string name="about_title">Over EDT</string>
     <string name="app_list__name__downloading_in_progress">%1$s wordt gedownload</string>
     <string name="app_list__name__successfully_installed">%1$s geïnstalleerd</string>
     <string name="updates__tts__download_app">Download</string>
@@ -62,9 +62,9 @@
     <string name="wifi">Wi-Fi</string>
     <string name="category_Sports_Health">Sport &amp; Gezondheid</string>
     <string name="category_System">Systeem</string>
-    <string name="swap_send_fdroid">Verstuur F-Droid</string>
+    <string name="swap_send_fdroid">Verstuur EDT</string>
     <string name="apps">Applicaties</string>
-    <string name="crash_dialog_title">F-Droid is gecrasht</string>
+    <string name="crash_dialog_title">EDT is gecrasht</string>
     <string name="crash_dialog_text">Een onverwachte fout is opgetreden waardoor de app gestopt is. Wilt u de details over deze fout e-mailen om zo het probleem te helpen oplossen\?</string>
     <string name="notification_title_single_update_available">Update beschikbaar</string>
     <string name="notification_title_summary_install_error">De installatie is mislukt</string>
@@ -124,7 +124,7 @@
     <string name="app__tts__cancel_download">Annuleer deze download</string>
     <string name="app__install_downloaded_update">Werk bij</string>
     <string name="app_installed_media">Bestand geïnstalleerd op %s</string>
-    <string name="app_permission_storage">F-Droid heeft opslagtoelating nodig om dit in de opslag te installeren. Geef deze toelating op het volgende scherm om de installatie verder te zetten.</string>
+    <string name="app_permission_storage">EDT heeft opslagtoelating nodig om dit in de opslag te installeren. Geef deze toelating op het volgende scherm om de installatie verder te zetten.</string>
     <string name="app_list_download_ready">Gedownload, klaar voor installatie</string>
     <string name="app_list__dismiss_app_update">Update genegeerd</string>
     <string name="app_list__dismiss_vulnerable_app">Kwetsbaarheid genegeerd</string>
@@ -205,7 +205,7 @@
     <string name="force_touch_apps">Tel touch-screen apps mee</string>
     <string name="force_touch_apps_on">Toon apps die ondersteuning voor touchscreen vereisen, ongeacht de hardwareondersteuning</string>
     <string name="local_repo">Lokale applicatiebron</string>
-    <string name="local_repo_running">F-Droid is klaar om apps uit te wisselen</string>
+    <string name="local_repo_running">EDT is klaar om apps uit te wisselen</string>
     <string name="touch_to_configure_local_repo">Tik om details te bekijken en anderen apps te laten uitwisselen.</string>
     <string name="deleting_repo">Huidige applicatiebron aan het verwijderen…</string>
     <string name="adding_apks_format">%s aan applicatie bron aan het toevoegen…</string>
@@ -286,7 +286,7 @@
     </plurals>
     <string name="empty_installed_app_list">Geen apps geïnstalleerd. 
 \n 
-\nEr bevinden zich apps op dit apparaat, maar deze zijn niet beschikbaar via F-Droid. Het kan zijn dat de bronnen moet bijgewerkt worden, of dat de bronnen deze apps echt niet bevatten.</string>
+\nEr bevinden zich apps op dit apparaat, maar deze zijn niet beschikbaar via EDT. Het kan zijn dat de bronnen moet bijgewerkt worden, of dat de bronnen deze apps echt niet bevatten.</string>
     <string name="empty_can_update_app_list">Gefeliciteerd!
 \nAlle apps zijn up-to-date.</string>
     <string name="empty_search_available_app_list">Er zijn geen overeenkomende apps beschikbaar.</string>
@@ -297,7 +297,7 @@
     <string name="nearby_splash__find_people_button">Zoek naar mensen in de buurt</string>
     <string name="nearby_splash__both_parties_need_fdroid">Beide partijen moeten %1$s gebruiken.</string>
     <string name="swap_nfc_title">Tik om uit te wisselen</string>
-    <string name="swap_nfc_description">Als uw vriend F-Droid geïnstalleerd heeft en NFC ingeschakeld is, hou dan jullie apparaten tegen elkaar.</string>
+    <string name="swap_nfc_description">Als uw vriend EDT geïnstalleerd heeft en NFC ingeschakeld is, hou dan jullie apparaten tegen elkaar.</string>
     <string name="swap_join_same_wifi">Verbind met hetzelfde Wi-Fi-netwerk als uw vriend</string>
     <string name="swap_join_same_wifi_desc">Om via Wi-Fi uit te wisselen moet u beiden met hetzelfde netwerk verbonden zijn. Indien u geen toegang heeft tot hetzelfde netwerk kan iemand een wifihotspot aanmaken.</string>
     <string name="swap_join_this_hotspot">Help uw vriend zich met uw hotspot te verbinden</string>
@@ -451,7 +451,7 @@
     <string name="app_repository">Pakketbron: %1$s</string>
     <string name="app_size">Grootte: %1$s</string>
     <string name="send_installed_apps">Deel geïnstalleerde apps</string>
-    <string name="send_installed_apps_csv">CSV bestandslijst van apps geïnstalleerd door F-Droid</string>
+    <string name="send_installed_apps_csv">CSV bestandslijst van apps geïnstalleerd door EDT</string>
     <string name="updates_disabled_by_settings">Alle updates zijn door Data/Wi-Fi-instellingen uitgeschakeld</string>
     <string name="menu_open">Open</string>
     <string name="menu_downgrade">Vervang met oudere versie</string>

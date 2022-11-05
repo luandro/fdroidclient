@@ -17,7 +17,7 @@
     <string name="local_repo_https_on">Použít šifrované HTTPS spojení pro místní repozitář</string>
     <string name="app_details">Podrobnosti o aplikaci</string>
     <string name="no_such_app">Žádná taková aplikace nebyla nalezena.</string>
-    <string name="about_title">O aplikaci F-Droid</string>
+    <string name="about_title">O aplikaci EDT</string>
     <string name="about_site">Webová stránka</string>
     <string name="about_version">Verze</string>
     <string name="app_installed">Nainstalováno</string>
@@ -55,7 +55,7 @@
     <string name="search_hint">Hledat aplikace</string>
     <string name="show_incompat_versions">Zahrnout nekompatibilní verze</string>
     <string name="local_repo">Místní repozitář</string>
-    <string name="local_repo_running">F-Droid je připraven k výměně</string>
+    <string name="local_repo_running">EDT je připraven k výměně</string>
     <string name="touch_to_configure_local_repo">Dotykem zobraz detaily a umožni ostatním si přetáhnout tvé aplikace.
     </string>
     <string name="deleting_repo">Odstraňuji místní repozitář…</string>
@@ -110,7 +110,7 @@
     <string name="swap_no_wifi_network">Zatím žádná síť</string>
     <string name="swap_view_available_networks">(Dotykem zobraz dostupné sítě)</string>
     <string name="open_qr_code_scanner">Otevřít čtečku QR kódů</string>
-    <string name="swap_welcome">Vítejte v aplikaci F-Droid!</string>
+    <string name="swap_welcome">Vítejte v aplikaci EDT!</string>
     <string name="swap_confirm_connect">Chceš nyní stáhnout aplikace z %1$s?</string>
     <string name="about_source">Zdrojový kód</string>
     <string name="app_incompatible">Nekompatibilní</string>
@@ -134,7 +134,7 @@
     <string name="show_incompat_versions_on">Zobrazit verze aplikace které jsou nekompatibilní s tímto zařízením</string>
     <string name="proxy_port_summary">Číslo portu vaší proxy (např. 8118)</string>
     <string name="status_download">Stahování\n%2$s / %3$s (%4$d%%) z\n%1$s</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="unstable_updates">Nestabilní aktualizace</string>
     <string name="unstable_updates_summary">Doporučovat aktualizace na nestabilní verze</string>
     <string name="more">Více</string>
@@ -177,7 +177,7 @@
     <string name="category_Time">Čas</string>
     <string name="category_Writing">Psaní</string>
     <string name="empty_installed_app_list">Žádné instalované aplikace.\n\nNa tomto přístoji jsou aplikace, které nejsou
-        dostupné v F-Droid. To může být způsobeno zastaralým seznamem repozitářů nebo aplikace nejsou v repozitářích
+        dostupné v EDT. To může být způsobeno zastaralým seznamem repozitářů nebo aplikace nejsou v repozitářích
         vůbec dostupné.
     </string>
     <string name="empty_can_update_app_list">Gratulujeme!\nVšechny nainstalované aplikace jsou aktuální.</string>
@@ -201,7 +201,7 @@
     <string name="swap_not_visible_wifi">Skryté přes Wi-Fi</string>
     <string name="swap_wifi_device_name">Jméno přístroje</string>
     <string name="swap_cant_find_peers">Nemůžete nalézt koho hledáte?</string>
-    <string name="swap_send_fdroid">Odeslat F-Droid</string>
+    <string name="swap_send_fdroid">Odeslat EDT</string>
     <string name="apps">Aplikace</string>
     <string name="swap_connecting">Připojování</string>
     <string name="swap_confirm">Potvrdit výměnu</string>
@@ -236,7 +236,7 @@
     <string name="antinonfreeassetslist">Tato aplikace obsahuje nesvobodné části</string>
     <string name="status_inserting_apps">Ukládání podrobností o aplikaci</string>
     <string name="empty_search_available_app_list">Žádné odpovídající aplikace nejsou dostupné.</string>
-    <string name="swap_nfc_description">Pokud má váš přítel F-Droid a zapnuté NFC, přibližte svá zařízení k sobě.
+    <string name="swap_nfc_description">Pokud má váš přítel EDT a zapnuté NFC, přibližte svá zařízení k sobě.
     </string>
     <string name="update_auto_download">Stahovat aktualizace automaticky</string>
     <string name="update_auto_download_summary">Aktualizace jsou stahovány automaticky a jste upozorněni na možnost je nainstalovat</string>
@@ -267,7 +267,7 @@
     <string name="keep_month">1 měsíc</string>
     <string name="keep_year">1 rok</string>
     <string name="keep_forever">navždy</string>
-    <string name="crash_dialog_title">F-Droid neočekávaně skončil</string>
+    <string name="crash_dialog_title">EDT neočekávaně skončil</string>
     <string name="crash_dialog_text">Neočekávaná chyba vynutila ukončení aplikace. Odeslat vývojářům podrobnosti e-mailem a pomoci tak s nápravou?</string>
     <string name="crash_dialog_comment_prompt">Zde můžete přidat další informace a komentáře:</string>
     <string name="keep_install_history">Uchovat historii instalací</string>
@@ -327,7 +327,7 @@
     <string name="app_details__no_versions__explain_incompatible_signatures">Nainstalovaná verze není kompatibilní s žádnou dostupnou verzí. Odinstalace aplikace vám umožní zobrazit a nainstalovat kompatibilní verzi. K tomuto dochází často u aplikací nainstalovaných prostřednictvím služby Google Play a dalších zdrojů, pokud jsou podepsány odlišným certifikátem.</string>
     <string name="app__tts__cancel_download">Zrušit stahování</string>
     <string name="app_installed_media">Soubor nainstalován do %s</string>
-    <string name="app_permission_storage">Pro instalaci tohoto do úložiště potřebuje F-Droid oprávnění. Umožněte to na následující obrazovce a instalace bude moci pokračovat.</string>
+    <string name="app_permission_storage">Pro instalaci tohoto do úložiště potřebuje EDT oprávnění. Umožněte to na následující obrazovce a instalace bude moci pokračovat.</string>
     <string name="app_list_download_ready">Staženo, připraveno k instalaci</string>
     <string name="app_list__dismiss_app_update">Aktualizace ignorována</string>
     <string name="app_list__dismiss_vulnerable_app">Zranitelnost ignorována</string>
@@ -469,7 +469,7 @@
     <string name="app_suggested">Doporučeno</string>
     <string name="app_size">Velikost: %1$s</string>
     <string name="send_installed_apps">Sdílet instalátory nainstalovaných aplikací</string>
-    <string name="send_installed_apps_csv">Seznam aplikací nainstalovaných prostřednictvím F-Droid v podobě CSV souboru</string>
+    <string name="send_installed_apps_csv">Seznam aplikací nainstalovaných prostřednictvím EDT v podobě CSV souboru</string>
     <string name="menu_open">Otevřít</string>
     <string name="menu_downgrade">Vrátit na starší verzi</string>
     <string name="scan_removable_storage_title">Prohledat odpojitelné úložiště</string>
@@ -520,7 +520,7 @@
     <string name="menu_show_install_history">Zobrazit průběh instalací</string>
     <string name="menu_show_fdroid_metrics_report">Zobrazit hlášení metrik</string>
     <string name="toast_metrics_in_install_history">Hlášení metrik %s lze prohlédnout v náhledu průběhu instalací</string>
-    <string name="send_to_fdroid_metrics_summary">Odesílá anonymizovaná data týdně pro metriky F-Droid (vyžaduje uchování průběhu instalací)</string>
+    <string name="send_to_fdroid_metrics_summary">Odesílá anonymizovaná data týdně pro metriky EDT (vyžaduje uchování průběhu instalací)</string>
     <string name="send_to_fdroid_metrics">Odeslat data o používání</string>
     <string name="fdroid_metrics_report">%s Hlášení metrik</string>
     <string name="install_history_and_metrics">Průběh instalací a metriky</string>

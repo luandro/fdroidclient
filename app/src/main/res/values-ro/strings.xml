@@ -7,7 +7,7 @@
     <string name="other">Altele</string>
     <string name="notify">Arată actualizările disponibile</string>
     <string name="app_details">Detalii aplicație</string>
-    <string name="about_title">Despre F-Droid</string>
+    <string name="about_title">Despre EDT</string>
     <string name="about_site">Site web</string>
     <string name="about_version">Versiune</string>
     <string name="app_installed">Instalată</string>
@@ -36,7 +36,7 @@
     <string name="requires_features">Necesită: %1$s</string>
     <string name="menu_email">E-mail autor</string>
     <string name="SignatureMismatch">Noua versiune este semnată cu o cheie diferită față de versiunea veche. Pentru a putea instala noua versiune, cea veche trebuie întâi dezinstalată. Vă rugam sa faceți asta și să reîncercați. (Nu uitați că procesul de dezinstalare al aplicației o să șteargă datele interne stocate ale acesteia)</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="enable_nfc_send">Activează trimiterea prin NFC…</string>
     <string name="update_interval">Interval actualizări automate</string>
     <string name="unstable_updates">Actualizări instabile</string>
@@ -170,7 +170,7 @@
     <string name="swap_success">Schimb realizat!</string>
     <string name="swap_switch_to_wifi">Atinge pentru a trece la o rețea Wi-Fi</string>
     <string name="swap_confirm_connect">Vreți sa luați aplicații de la %1$s acum?</string>
-    <string name="swap_welcome">Bine ați venit la F-Droid!</string>
+    <string name="swap_welcome">Bine ați venit la EDT!</string>
     <string name="open_qr_code_scanner">Deschide scaner QR</string>
     <string name="swap_choose_apps">Selectează aplicații</string>
     <string name="swap_scan_qr">Cod QR</string>
@@ -179,9 +179,9 @@
     <string name="swap_visible_wifi">Vizibil prin Wi-Fi</string>
     <string name="swap_setting_up_wifi">Configurare Wi-Fi…</string>
     <string name="swap_connecting">Se conectează</string>
-    <string name="swap_send_fdroid">Trimite F-Droid</string>
+    <string name="swap_send_fdroid">Trimite EDT</string>
     <string name="apps">Aplicații</string>
-    <string name="crash_dialog_title">F-Droid s-a oprit</string>
+    <string name="crash_dialog_title">EDT s-a oprit</string>
     <string name="theme_light">Luminoasă</string>
     <string name="theme_dark">Întunecată</string>
     <string name="interval_1h">Verificare actualizări o dată pe oră</string>
@@ -206,7 +206,7 @@
     <string name="loading">Se încarcă…</string>
     <string name="category_Navigation">Navigație</string>
     <string name="category_Games">Jocuri</string>
-    <string name="local_repo_running">F-Droid este gata de schimb</string>
+    <string name="local_repo_running">EDT este gata de schimb</string>
     <string name="adding_apks_format">Adaug %s la depozit…</string>
     <string name="useTor">Folosește Tor</string>
     <string name="repo_details">Depozit</string>
@@ -244,7 +244,7 @@
 \nAplicațiile dumneavoastră sunt la zi.</string>
     <string name="empty_installed_app_list">Nici o aplicație instalată.
 \n
-\nExista aplicații pe acest dispozitiv, dar nu sunt disponibile în F-Droid. Aceasta poate fi din cauză că trebuie să actualizați depozitele sau poate depozitele chiar nu conțin aplicațiile dumneavoastră.</string>
+\nExista aplicații pe acest dispozitiv, dar nu sunt disponibile în EDT. Aceasta poate fi din cauză că trebuie să actualizați depozitele sau poate depozitele chiar nu conțin aplicațiile dumneavoastră.</string>
     <string name="repo_disabled_notification">\'%1$s dezactivat.
 \n
 \nVa trebui sa reactivați acest depozit pentru a putea instala aplicații din el.</string>
@@ -369,11 +369,11 @@
     <string name="download_404">Fișierul dorit nu a fost găsit.</string>
     <string name="app_list_download_ready">Descărcat, gata de instalare</string>
     <string name="app_installed_media">Fișierul instalat în %s</string>
-    <string name="app_permission_storage">F-Droid necesită permisiunea de stocare pentru a instala în spațiul de stocare. Va rugăm sa acordați permisiunea în ecranul următor pentru a continua instalarea.</string>
+    <string name="app_permission_storage">EDT necesită permisiunea de stocare pentru a instala în spațiul de stocare. Va rugăm sa acordați permisiunea în ecranul următor pentru a continua instalarea.</string>
     <string name="status_inserting_x_apps">Salvare detalii aplicații (%1$d/%2$d) de la %3$s</string>
     <string name="not_on_same_wifi">Dispozitivul dumneavoastră nu este pe aceeași rețea Wi-Fi cu depozitul local pe care tocmai l-ați adăugat! Încercați să vă conectați la această rețea: %s</string>
     <string name="touch_to_configure_local_repo">Atingeți pentru a vedea detalii și a permite celorlalți să primească aplicațiile dumneavoastră.</string>
-    <string name="swap_nfc_description">Dacă prietenul tău are F-Droid și NFC activat, atingeți-vă dispozitivele.</string>
+    <string name="swap_nfc_description">Dacă prietenul tău are EDT și NFC activat, atingeți-vă dispozitivele.</string>
     <string name="swap_view_available_networks">Atinge pentru a vedea rețelele deschise disponibile</string>
     <string name="swap_scan_or_type_url">O persoană trebuie să scaneze codul sau să introducă URL-ul celuilalt într-un browser.</string>
     <string name="swap_qr_isnt_for_swap">Codul QR scanat nu arată ca un cod de schimb.</string>
@@ -459,7 +459,7 @@
     <string name="send_history_csv">%s istoric instalări ca fișier CSV</string>
     <string name="updates_disabled_by_settings">Toate actualizările sunt oprite din setările de date mobile/Wi-Fi</string>
     <string name="send_installed_apps">Partajează aplicațiile instalate</string>
-    <string name="send_installed_apps_csv">Aplicațiile instalate de F-Droid ca fișier CSV</string>
+    <string name="send_installed_apps_csv">Aplicațiile instalate de EDT ca fișier CSV</string>
     <string name="menu_open">Deschide</string>
     <string name="about_forum">Forum suport tehnic</string>
     <string name="app_suggested">Recomandată</string>
@@ -505,7 +505,7 @@
     <string name="notification_channel_swaps_title">Schimb</string>
     <string name="notification_channel_installs_description">Afișează notificări la instalarea aplicațiilor.</string>
     <string name="notification_channel_installs_title">Instalări</string>
-    <string name="send_to_fdroid_metrics_summary">Trimite date anonime săptămânal la F-Droid Metrics (necesită păstrarea istoricului de instalare)</string>
+    <string name="send_to_fdroid_metrics_summary">Trimite date anonime săptămânal la EDT Metrics (necesită păstrarea istoricului de instalare)</string>
     <string name="send_to_fdroid_metrics">Trimiteți date de utilizare</string>
     <string name="menu_show_install_history">Afișare istoric instalări</string>
     <string name="fdroid_metrics_report">Raport de măsurători %s</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="SignatureMismatch">Uus versioon on allkirjastatud vana versiooniga võrreldes erineva võtmega. Uue versiooni paigaldamiseks on vaja esmalt eemaldada vana. Palun tee seda ja proovi uuesti. (Tähelepanu: eemaldamisel kustutatakse rakendusega seotud andmed.)</string>
     <string name="installIncompatible">Rakendus ei ühildu su seadmega. Kas paigaldada ta ikkagi?</string>
     <string name="version">Versioon</string>
@@ -28,7 +28,7 @@
     <string name="repo_error_empty_username">Kasutajanimi on tühi, mandaati ei muudetud</string>
     <string name="app_details">Rakenduse andmed</string>
     <string name="no_such_app">Sellist rakendust ei leitud.</string>
-    <string name="about_title">Programmist F-Droid</string>
+    <string name="about_title">Programmist EDT</string>
     <string name="about_version">Versioon</string>
     <string name="about_site">Veebileht</string>
     <string name="about_source">Lähtekood</string>
@@ -91,7 +91,7 @@
         selle võrguga: %s
     </string>
     <string name="empty_installed_app_list">Mitte ühtegi rakendust ei ole paigaldatud.\n\nSinu seadmes on rakendusi,
-        kuid nad ei ole paigaldatud F-Droidist. Selle põhjuseks võib olla kas vajadus hoidlaid värskendada või sinu
+        kuid nad ei ole paigaldatud EDTist. Selle põhjuseks võib olla kas vajadus hoidlaid värskendada või sinu
         rakenduste puudumine nendes hoidlates.
     </string>
     <string name="empty_can_update_app_list">Palju õnne!\nSu rakendused on ajakohased.</string>
@@ -133,7 +133,7 @@
     <string name="appcompatibility">Rakenduse ühilduvus</string>
     <string name="show_incompat_versions">Kaasa ka ühildumatud versioonid</string>
     <string name="show_incompat_versions_on">Kuva seadmega ühildumatute rakenduste versioonid</string>
-    <string name="local_repo_running">F-Droid on valmis vahetama</string>
+    <string name="local_repo_running">EDT on valmis vahetama</string>
     <string name="touch_to_configure_local_repo">Üksikasjade vaatamiseks puuduta ja luba teistel vahetada su rakendusi.</string>
     <string name="writing_index_jar">Kirjutatakse signeeritud indeksi faili (index.jar)…</string>
     <string name="icon">Ikoon</string>
@@ -196,7 +196,7 @@
     <string name="install_error_unknown">Paigaldamine nurjus tundmatu vea tõttu</string>
     <string name="uninstall_error_unknown">Eemaldamine nurjus tundmatu vea tõttu</string>
     <string name="swap_nfc_title">Vahetamiseks puuduta</string>
-    <string name="swap_nfc_description">Kui su sõbral on F-Droid ja NFC on sisselülitatud, siis pange oma seadmed
+    <string name="swap_nfc_description">Kui su sõbral on EDT ja NFC on sisselülitatud, siis pange oma seadmed
         lähestikku.
     </string>
     <string name="swap_join_same_wifi">Liitu sama WiFi võrguga, milles on su sõber</string>
@@ -208,7 +208,7 @@
     <string name="swap_view_available_networks">Puuduta saadaolevate võrkude avamiseks</string>
     <string name="swap_switch_to_wifi">WiFi võrku lülitumiseks puuduta</string>
     <string name="open_qr_code_scanner">Ava QR skanner</string>
-    <string name="swap_welcome">Tere tulemast F-Droidi!</string>
+    <string name="swap_welcome">Tere tulemast EDTi!</string>
     <string name="swap_confirm_connect">Kas soovid rakendusi hankida %1$s\'st nüüd?</string>
     <string name="swap_dont_show_again">Ära seda enam näita</string>
     <string name="swap_scan_or_type_url">Üks inimene peab koodi skannima või sisestama teise URLi brauserisse.</string>
@@ -227,7 +227,7 @@
     <string name="swap_not_visible_wifi">Ei ole Wi-Fi kaudu nähtav</string>
     <string name="swap_wifi_device_name">Seadme nimi</string>
     <string name="swap_cant_find_peers">Ei leia seda, keda otsid?</string>
-    <string name="swap_send_fdroid">Saada F-Droid</string>
+    <string name="swap_send_fdroid">Saada EDT</string>
     <string name="apps">Rakendused</string>
     <string name="swap_no_peers_nearby">Ei leidnud lähedal inimesi, kellega vahetada.</string>
     <string name="swap_connecting">Ühendamine</string>
@@ -264,7 +264,7 @@
     <string name="keep_forever">Igavesti</string>
     <string name="theme_light">Hele</string>
     <string name="theme_dark">Tume</string>
-    <string name="crash_dialog_title">F-Droidi tabas krahh</string>
+    <string name="crash_dialog_title">EDTi tabas krahh</string>
     <string name="crash_dialog_comment_prompt">Sa saad lisada täiendavat informatsiooni ja kommentaare siia:</string>
     <string name="swap_join_same_wifi_desc">WiFi kaudu vahetamiseks peate olema samas võrgus. Kui sul puudub ligipääs
         samasse võrku, siis saab teist üks luua WiFi tööpunkti.
@@ -307,7 +307,7 @@
     <string name="app__tts__cancel_download">Tühista allalaadimine</string>
     <string name="app__install_downloaded_update">Värskenda</string>
     <string name="app_installed_media">Fail paigaldati asukohta %s</string>
-    <string name="app_permission_storage">F-Droid vajab sellele seadmele paigaldamisel salvestusõigust. Palun luba see järgmisel ekraanil, et jätkata paigaldust.</string>
+    <string name="app_permission_storage">EDT vajab sellele seadmele paigaldamisel salvestusõigust. Palun luba see järgmisel ekraanil, et jätkata paigaldust.</string>
     <string name="app_list_download_ready">Alla laaditud, valmis paigaldamiseks</string>
     <string name="app_list__dismiss_app_update">Värskendust ignoreeriti</string>
     <string name="app_list__dismiss_vulnerable_app">Haavatavust ignoreeriti</string>
@@ -444,7 +444,7 @@
     <string name="over_network_on_demand_summary">Kasuta seda ühendust ainult siis, kui ma allalaadimiseks klõpsan</string>
     <string name="over_network_never_summary">Ära kasuta seda ühendust alla laadimiseks mitte kunagi</string>
     <string name="send_installed_apps">Jaga paigaldatud rakendusi</string>
-    <string name="send_installed_apps_csv">F-Droidi paigaldatud rakendused CSV failina</string>
+    <string name="send_installed_apps_csv">EDTi paigaldatud rakendused CSV failina</string>
     <string name="updates_disabled_by_settings">Kõik uuendused, mille keelavad andmeside/WiFi seaded</string>
     <string name="repo_add_mirror">Lisa peegel</string>
     <string name="repo_exists_add_mirror">See on %1$s koopia. Kas lisada ta peegliks?</string>
@@ -510,7 +510,7 @@
     <string name="menu_show_install_history">Kuva paigaldamise ajalugu</string>
     <string name="menu_show_fdroid_metrics_report">Kuva meetrika raport</string>
     <string name="toast_metrics_in_install_history">%s meetrika raport on nähtav paigaldamise ajaloo vaates</string>
-    <string name="send_to_fdroid_metrics_summary">Saada anonüümselt ja iganädalaselt F-Droidi meetrika (vajalik on paigaldamise ajaloo säilitamine)</string>
+    <string name="send_to_fdroid_metrics_summary">Saada anonüümselt ja iganädalaselt EDTi meetrika (vajalik on paigaldamise ajaloo säilitamine)</string>
     <string name="send_to_fdroid_metrics">Saada kasutamise andmed</string>
     <string name="fdroid_metrics_report">%s meetrika raport</string>
     <string name="install_history_and_metrics">Paigalda ajalugu ja meetrika</string>

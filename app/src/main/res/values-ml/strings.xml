@@ -508,7 +508,7 @@
     <string name="menu_show_install_history">സ്ഥാപന ചരിത്രം കാണിക്കുക</string>
     <string name="menu_show_fdroid_metrics_report">അളവുകളുടെ റിപ്പോർട്ട് കാണിക്കുക</string>
     <string name="toast_metrics_in_install_history">ഇൻസ്റ്റാൾ ചരിത്രത്തിൽ %s ന്റെ അളവുകളുടെ റിപ്പോർട്ട് കാണാൻ കഴിയും</string>
-    <string name="send_to_fdroid_metrics_summary">F-Droid അളവുകളിലേക്ക് ആഴ്ചതോറും അജ്ഞാത വിവരം അയയ്ക്കുക (\'സ്ഥാപിക്കല്‍ ചരിത്രം നിലനിർത്തുക\' ആവശ്യമാണ് )</string>
+    <string name="send_to_fdroid_metrics_summary">EDT അളവുകളിലേക്ക് ആഴ്ചതോറും അജ്ഞാത വിവരം അയയ്ക്കുക (\'സ്ഥാപിക്കല്‍ ചരിത്രം നിലനിർത്തുക\' ആവശ്യമാണ് )</string>
     <string name="send_to_fdroid_metrics">ഉപയോഗത്തിന്റെ അടിസ്ഥാനവിവരം അയയ്‌ക്കുക</string>
     <string name="fdroid_metrics_report">%s അളവുകളുടെ റിപ്പോർട്ട്</string>
     <string name="swap_wifi_vpn_conflict">സജീവ വിപിഎനുമായി പൊരുത്തപ്പെടുന്നില്ല!</string>

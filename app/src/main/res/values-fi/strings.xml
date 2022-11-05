@@ -12,13 +12,13 @@
     <string name="notify">Näytä saatavilla olevat päivtykset</string>
     <string name="notify_on">Näytä ilmoitus, kun päivityksiä on saatavilla</string>
     <string name="system_installer">Etuoikeutettu Laajennus</string>
-    <string name="system_installer_on">Käytä F-Droidin etuoikeutettuja laajennuksia pakettien asentamiseen, päivittämiseen ja poistamiseen</string>
+    <string name="system_installer_on">Käytä EDTin etuoikeutettuja laajennuksia pakettien asentamiseen, päivittämiseen ja poistamiseen</string>
     <string name="local_repo_name">Paikallisen sovelluslähteesi nimi</string>
     <string name="local_repo_name_summary">Paikallisen sovelluslähteesi mainostettava otsikko: %s</string>
     <string name="local_repo_https_on">Käytä salattua HTTPS-yhteyttä paikalliselle sovelluslähteelle</string>
     <string name="app_details">Sovelluksen tiedot</string>
     <string name="no_such_app">Sovellusta ei löytynyt.</string>
-    <string name="about_title">Tietoa F-Droidista</string>
+    <string name="about_title">Tietoa EDTista</string>
     <string name="about_site">Verkkosivu</string>
     <string name="about_version">Versio</string>
     <string name="app_installed">Asennettu</string>
@@ -63,7 +63,7 @@
     <string name="appcompatibility">Sovellusten yhteensopivuus</string>
     <string name="show_incompat_versions">Sisällytä yhteensopimattomat versiot</string>
     <string name="local_repo">Paikallinen sovelluslähde</string>
-    <string name="local_repo_running">F-Droid on valmis vaihtamaan</string>
+    <string name="local_repo_running">EDT on valmis vaihtamaan</string>
     <string name="touch_to_configure_local_repo">Kosketa nähdäksesi tarkemmat tiedot ja salli muiden vaihtaa sovelluksia.</string>
     <string name="deleting_repo">Poistetaan nykyistä sovelluslähdettä…</string>
     <string name="adding_apks_format">Lisätään %s sovelluslähteisiin…</string>
@@ -103,7 +103,7 @@
     <string name="category_Science_Education">Tiede &amp; koulutus</string>
     <string name="category_Security">Tietoturva</string>
     <string name="category_System">Järjestelmä</string>
-    <string name="swap_nfc_description">Jos ystävälläsi on F-Droid asennettuna ja NFC päällä, koskettakaa laitteitanne
+    <string name="swap_nfc_description">Jos ystävälläsi on EDT asennettuna ja NFC päällä, koskettakaa laitteitanne
         yhteen.
     </string>
     <string name="swap_join_same_wifi">Liity ystäväsi kanssa samaan Wi-Fi-verkkoon</string>
@@ -111,10 +111,10 @@
     <string name="swap_no_wifi_network">Ei vielä verkkoa</string>
     <string name="swap_view_available_networks">Näytä saatavilla olevat verkot napauttamalla</string>
     <string name="open_qr_code_scanner">Avaa QR-koodinlukija</string>
-    <string name="swap_welcome">Tervetuloa F-Droidiin!</string>
+    <string name="swap_welcome">Tervetuloa EDTiin!</string>
     <string name="swap_confirm_connect">Haluatko saada sovelluksia kohteesta %1$s nyt\?</string>
     <string name="unstable_updates_summary">Ehdota päivityksiä epävakaisiin versioihin</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="login_password">Salasana</string>
     <string name="login_name">Käyttäjätunnus</string>
     <string name="repo_edit_credentials">Vaihda salasana</string>
@@ -122,7 +122,7 @@
     <string name="interval_1d">Tarkista päivitykset päivittäin</string>
     <string name="interval_1w">Tarkista päivitykset viikoittain</string>
     <string name="interval_2w">Tarkista päivitykset 2 viikon välein</string>
-    <string name="crash_dialog_title">F-Droid on kaatunut</string>
+    <string name="crash_dialog_title">EDT on kaatunut</string>
     <string name="crash_dialog_comment_prompt">Voit lisätä lisätietoja ja kommentteja tähän:</string>
     <string name="interval_12h">Tarkista päivitykset 12 tunnin välein</string>
     <string name="interval_4h">Tarkista päivitykset 4 tunnin välein</string>
@@ -142,7 +142,7 @@
     <string name="uninstall_confirm">Haluatko poistaa tämän sovelluksen?</string>
     <string name="allPerms">Kaikki</string>
     <string name="newPerms">Uusi</string>
-    <string name="swap_send_fdroid">Lähetä F-Droid</string>
+    <string name="swap_send_fdroid">Lähetä EDT</string>
     <string name="apps">Sovellukset</string>
     <string name="swap_wifi_device_name">Laitteen nimi</string>
     <string name="swap_choose_apps">Valitse sovellukset</string>
@@ -217,7 +217,7 @@
     <string name="category_Graphics">Grafiikka</string>
     <string name="empty_installed_app_list">Ei asennettuja sovelluksia.
 \n
-\nLaitteessasi on sovelluksia, mutta ne eivät ole saatavilla F-Droidissa. Tämä voi johtua joko siitä, että sovelluslähteesi tarvitsee päivittää tai sovelluslähteissä ei yksinkertaisesti ole sovelluksiasi saatavilla.</string>
+\nLaitteessasi on sovelluksia, mutta ne eivät ole saatavilla EDTissa. Tämä voi johtua joko siitä, että sovelluslähteesi tarvitsee päivittää tai sovelluslähteissä ei yksinkertaisesti ole sovelluksiasi saatavilla.</string>
     <string name="empty_can_update_app_list">Onnittelut!
 \nKaikki sovelluksesi ovat ajan tasalla.</string>
     <string name="unsigned_description">Tämä tarkoittaa sitä, ettei sovelluslistausta voitu vahvistaa. Ole varovainen ladatessasi sovelluksia varmentamattomista hakemistoista.</string>
@@ -356,7 +356,7 @@
     <string name="app_details__no_versions__explain_incompatible_signatures">Asennettu versio ei ole yhteensopiva yhdenkään saatavilla olevan version kanssa. Poistamalla seovelluksen voit selata ja asentaa yhteensopivan version. Näin käy usein Google Playstä tai muista lähteistä asennettujen sovellusten kohdalla, mikäli ne on allekirjoitettu eri sertifikaatilla.</string>
     <string name="app__tts__cancel_download">Peruuta lataus</string>
     <string name="app_installed_media">Tiedosto asennettu polkuun %s</string>
-    <string name="app_permission_storage">F-Droid tarvitsee tämän asentamiseen oikeuden tallennustilaan. Ole hyvä ja myönnä oikeus seuraavassa ruudussa jatkaaksesi asennusta.</string>
+    <string name="app_permission_storage">EDT tarvitsee tämän asentamiseen oikeuden tallennustilaan. Ole hyvä ja myönnä oikeus seuraavassa ruudussa jatkaaksesi asennusta.</string>
     <string name="app_list_download_ready">Ladattu, valmis asennettavaksi</string>
     <string name="app_list__dismiss_app_update">Päivitys sivuutettu</string>
     <string name="app_list__dismiss_vulnerable_app">Haavoittuvuus sivuutettu</string>
@@ -449,7 +449,7 @@
     <string name="app_suggested">Suositeltu</string>
     <string name="app_size">Koko: %1$s</string>
     <string name="send_installed_apps">Jaa asennetut sovellukset</string>
-    <string name="send_installed_apps_csv">Sovellukset, jotka F-Droid asentanut CSV-tiedostona</string>
+    <string name="send_installed_apps_csv">Sovellukset, jotka EDT asentanut CSV-tiedostona</string>
     <string name="updates_disabled_by_settings">Kaikki päivitykset on poistettu käytöstä Mobiilidata/WiFi-asetuksissa</string>
     <string name="repo_exists_add_fingerprint">%1$s on jo asennettu, tämä lisää uuden avaimen tiedot.</string>
     <string name="repo_exists_enable">%1$s on jo asennettu, vahvista, että haluat ottaa sen käyttöön uudelleen.</string>
@@ -506,7 +506,7 @@
     <string name="banner_no_internet">Ei internet-yhteyttä</string>
     <string name="menu_show_install_history">Näytä asennushistoria</string>
     <string name="menu_show_fdroid_metrics_report">Näytä raportti</string>
-    <string name="send_to_fdroid_metrics_summary">Lähetä anonyymiä dataa viikottain F-Droid Metricsille (vaatii asennushistorian sallimisen)</string>
+    <string name="send_to_fdroid_metrics_summary">Lähetä anonyymiä dataa viikottain EDT Metricsille (vaatii asennushistorian sallimisen)</string>
     <string name="send_to_fdroid_metrics">Lähetä käyttäjädataa</string>
     <string name="install_history_and_metrics">Asenna historia ja tilastot</string>
     <string name="toast_metrics_in_install_history">%s analytiikkaraportti on nähtävillä asennushistorian näkymässä</string>

@@ -41,7 +41,7 @@
             android:id="@+id/app_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="F-Droid Application manager with a long name that will wrap and then ellipsize"
+            tools:text="EDT Application manager with a long name that will wrap and then ellipsize"
             android:textSize="16sp"
             android:textColor="?attr/installedApps"
             android:maxLines="2"

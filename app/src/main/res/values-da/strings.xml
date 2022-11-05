@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="SignatureMismatch">Den nye version er signeret med en nøgle, som er forskellig fra den gamle nøgle. Den gamle version skal afinstalleres før den nye version kan installeres. Gør venligst dette, og forsøg igen. (Bemærk at afinstallation sletter alle data appen har lagret internt.)</string>
     <string name="installIncompatible">Appen er ikke kompatibel med din enhed. Vil du installere den alligevel\?</string>
     <string name="version">Version</string>
@@ -26,7 +26,7 @@
     <string name="repo_error_empty_username">Tomt brugernavn, akkreditiver uændret</string>
     <string name="app_details">Appdetaljer</string>
     <string name="no_such_app">Intet sådan app fundet.</string>
-    <string name="about_title">Om F-Droid</string>
+    <string name="about_title">Om EDT</string>
     <string name="about_version">Version</string>
     <string name="about_site">Hjemmeside</string>
     <string name="about_source">Kildekode</string>
@@ -90,7 +90,7 @@
     <string name="show_incompat_versions">Inkluder inkompatible versioner</string>
     <string name="show_incompat_versions_on">Vis appversioner som er inkompatible med enheden</string>
     <string name="local_repo">Lokalt depot</string>
-    <string name="local_repo_running">F-Droid er klar til at udveksle</string>
+    <string name="local_repo_running">EDT er klar til at udveksle</string>
     <string name="touch_to_configure_local_repo">Tryk for at se detaljer og tillade andre at udveksle dine apps.</string>
     <string name="deleting_repo">Sletter aktuelle depot…</string>
     <string name="adding_apks_format">Føjer %s til depot…</string>
@@ -166,7 +166,7 @@
     <string name="category_Writing">Skrivning</string>
     <string name="empty_installed_app_list">Ingen apps installeret. 
 \n 
-\nDer er apps på din enhed, men de er ikke tilgængelige i F-Droid. Det kan være fordi du skal opdatere dine depoter, eller også indeholder depoterne faktisk ikke dine apps.</string>
+\nDer er apps på din enhed, men de er ikke tilgængelige i EDT. Det kan være fordi du skal opdatere dine depoter, eller også indeholder depoterne faktisk ikke dine apps.</string>
     <string name="empty_can_update_app_list">Tillykke!\nDine apps er opdaterede.</string>
     <string name="install_error_unknown">Kunne ikke installere på grund af en ukendt fejl</string>
     <string name="linking_apks">Kobler APK\'er sammen med depotet…</string>
@@ -175,7 +175,7 @@
         Opret venligst en fejlrapport!
     </string>
     <string name="swap_nfc_title">Tryk for at udveksle</string>
-    <string name="swap_nfc_description">Hvis din ven har F-Droid og NFC slået til, så lad jeres enheder røre hinanden.</string>
+    <string name="swap_nfc_description">Hvis din ven har EDT og NFC slået til, så lad jeres enheder røre hinanden.</string>
     <string name="swap_join_same_wifi">Tilslut dig samme trådløse netværk som din ven</string>
     <string name="swap_join_same_wifi_desc">For at udveksle ved hjælp af wi-fi skal I sikre jer at I er på samme trådløse netværk. Hvis I ikke har adgang til det samme netværk, kan en af jer oprette et wi-fi-hotspot.</string>
     <string name="swap_join_this_hotspot">Hjælp din ven med at tilslutte sig dit hotspot</string>
@@ -186,7 +186,7 @@
     <string name="swap_view_available_networks">Tryk for at åbne tilgængelige netværk</string>
     <string name="swap_switch_to_wifi">Tryk for at skifte til et trådløst netværk</string>
     <string name="open_qr_code_scanner">Åbn QR-scanner</string>
-    <string name="swap_welcome">Velkommen til F-Droid!</string>
+    <string name="swap_welcome">Velkommen til EDT!</string>
     <string name="swap_confirm_connect">Vil du modtage apps fra %1$s nu\?</string>
     <string name="swap_dont_show_again">Vis ikke dette igen</string>
     <string name="swap_scan_or_type_url">En person skal skanne koden, eller skrive den andens URL i en browser.</string>
@@ -204,7 +204,7 @@
     <string name="swap_not_visible_wifi">Ikke synlig gennem Wi-Fi</string>
     <string name="swap_wifi_device_name">Enhedsnavn</string>
     <string name="swap_cant_find_peers">Kan du ikke finde den du leder efter?</string>
-    <string name="swap_send_fdroid">Send F-Droid</string>
+    <string name="swap_send_fdroid">Send EDT</string>
     <string name="swap_no_peers_nearby">Fandt ingen folk i nærheden at udveksle med.</string>
     <string name="swap_connecting">Forbinder</string>
     <string name="swap_confirm">Bekræft udveksling</string>
@@ -237,7 +237,7 @@
     <string name="menu_email">E-mail forfatter</string>
     <string name="antinonfreeassetslist">Denne app indeholder ikke-frit indhold</string>
     <string name="empty_search_available_app_list">Ingen matchende apps tilgængelige.</string>
-    <string name="crash_dialog_title">F-Droid er gået ned</string>
+    <string name="crash_dialog_title">EDT er gået ned</string>
     <string name="crash_dialog_text">En uventet fejl har tvunget appen til at stoppe. Vil du sende en e-mail med detaljer som hjælper med at løse problemet\?</string>
     <string name="crash_dialog_comment_prompt">Du kan tilføje ekstra information og kommentarer her:</string>
     <string name="update_auto_download">Hent opdateringer automatisk</string>
@@ -370,7 +370,7 @@
     <string name="app_details__no_versions__no_compatible_signatures">Ingen versioner med kompatibel signatur</string>
     <string name="app_details__no_versions__none_compatible_with_device">Ingen versioner, der er kompatibel med enheden</string>
     <string name="app_installed_media">Fil installeret til %s</string>
-    <string name="app_permission_storage">F-Droid skal have adgang til lagring for at installere til dette lagermedium. Tillad det på den næste skærm for at fortsætte installationen.</string>
+    <string name="app_permission_storage">EDT skal have adgang til lagring for at installere til dette lagermedium. Tillad det på den næste skærm for at fortsætte installationen.</string>
     <string name="app_list_download_ready">Hentet, klar til at installere</string>
     <string name="app_list__dismiss_app_update">Opdatering ignoreret</string>
     <string name="app_list__dismiss_vulnerable_app">Sårbarhed ignoreret</string>
@@ -401,7 +401,7 @@
     <string name="app_repository">Depot: %1$s</string>
     <string name="app_size">Størrelse: %1$s</string>
     <string name="send_installed_apps">Del installerede apps</string>
-    <string name="send_installed_apps_csv">Apps installeret af F-Droid som CSV-fil</string>
+    <string name="send_installed_apps_csv">Apps installeret af EDT som CSV-fil</string>
     <string name="repo_exists_add_fingerprint">%1$s er opsat, dette vil tilføje ny nøgle information.</string>
     <string name="menu_open">Åbn</string>
     <string name="menu_downgrade">Nedgradere</string>
@@ -497,7 +497,7 @@
     <string name="menu_show_install_history">Vis installationshistorik</string>
     <string name="menu_show_fdroid_metrics_report">Vis målingsrapport</string>
     <string name="toast_metrics_in_install_history">Rapporten %s Metric kan ses i fremviser til Installationshistorik</string>
-    <string name="send_to_fdroid_metrics_summary">Send anonyme data ugentligt til F-Droid Metrics (kræver at Keep installerer historik)</string>
+    <string name="send_to_fdroid_metrics_summary">Send anonyme data ugentligt til EDT Metrics (kræver at Keep installerer historik)</string>
     <string name="send_to_fdroid_metrics">Send forbrugsdata</string>
     <string name="fdroid_metrics_report">%s Målerapport</string>
     <string name="install_history_and_metrics">Installér historik og måling</string>

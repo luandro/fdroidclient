@@ -18,7 +18,7 @@
     <string name="local_repo_https_on">ローカルリポジトリに暗号化されたHTTPS://接続を使用する</string>
     <string name="app_details">アプリの詳細</string>
     <string name="no_such_app">該当するアプリが見つかりませんでした。</string>
-    <string name="about_title">F-Droidについて</string>
+    <string name="about_title">EDTについて</string>
     <string name="about_site">ウェブサイト</string>
     <string name="about_version">バージョン</string>
     <string name="app_installed">インストール済み</string>
@@ -68,7 +68,7 @@
     <string name="show_incompat_versions">互換性の無いバージョン</string>
     <string name="show_incompat_versions_on">端末と互換性のないバージョンを表示します</string>
     <string name="local_repo">ローカルリポジトリ</string>
-    <string name="local_repo_running">F-Droidは交換の準備ができました</string>
+    <string name="local_repo_running">EDTは交換の準備ができました</string>
     <string name="touch_to_configure_local_repo">タッチすると詳細を表示し、アプリの交換ができるようになります。</string>
     <string name="deleting_repo">現在のリポジトリを削除中。。。</string>
     <string name="adding_apks_format">リポジトリに%sを追加中。。。</string>
@@ -127,13 +127,13 @@
     <string name="category_Science_Education">科学と教育</string>
     <string name="category_Security">セキュリティ</string>
     <string name="category_System">システム</string>
-    <string name="swap_nfc_description">友だちがF-DroidとNFCを持っているなら、一緒にお使いの端末をタッチしてください。</string>
+    <string name="swap_nfc_description">友だちがEDTとNFCを持っているなら、一緒にお使いの端末をタッチしてください。</string>
     <string name="swap_join_same_wifi">友達として同じWi-Fiに参加</string>
     <string name="swap">アプリの交換</string>
     <string name="swap_no_wifi_network">まだネットワークがありません</string>
     <string name="swap_view_available_networks">タップして有効なネットワークを開く</string>
     <string name="open_qr_code_scanner">QRコードスキャナーを開く</string>
-    <string name="swap_welcome">F-Droidへようこそ！</string>
+    <string name="swap_welcome">EDTへようこそ！</string>
     <string name="swap_confirm_connect">今すぐ%1$sからアプリを取得しますか？</string>
     <string name="app_incompatible">互換性がありません</string>
     <string name="links">リンク</string>
@@ -149,7 +149,7 @@
     <string name="wifi_ap">ホットスポット</string>
     <string name="empty_installed_app_list">アプリがインストールされていません。 
 \n 
-\n端末にアプリはありますが、F-Droid からは利用できません。リポジトリを更新する必要があるか、リポジトリからアプリが利用できない可能性があります。</string>
+\n端末にアプリはありますが、EDT からは利用できません。リポジトリを更新する必要があるか、リポジトリからアプリが利用できない可能性があります。</string>
     <string name="swap_nfc_title">タッチして交換</string>
     <string name="swap_join_same_wifi_desc">Wi-Fiを使用して交換するには、同じネットワークに接続しているか確認してください。同じネットワークにアクセスしていない場合は、Wi-Fiホットスポットを作成できます。</string>
     <string name="swap_join_this_hotspot">友達がホットスポットに接続するのを助けましょう</string>
@@ -160,7 +160,7 @@
     <string name="swap_success">正常に交換しました！</string>
     <string name="swap_active_hotspot">%1$s(自分のホットスポット)</string>
     <string name="swap_switch_to_wifi">タップしてWi-Fiネットワークに切り替える</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="swap_dont_show_again">今後表示しない</string>
     <string name="swap_scan_or_type_url">どちらかがコードを読み取るか、URLをブラウザに入力する必要があります。</string>
     <string name="swap_choose_apps">アプリを選択</string>
@@ -177,7 +177,7 @@
     <string name="swap_not_visible_wifi">Wi-Fi経由で表示できません</string>
     <string name="swap_wifi_device_name">端末名</string>
     <string name="swap_cant_find_peers">探している人が見つかりませんか？</string>
-    <string name="swap_send_fdroid">F-Droidを送信</string>
+    <string name="swap_send_fdroid">EDTを送信</string>
     <string name="apps">アプリ</string>
     <string name="swap_no_peers_nearby">交換できる近くにいる人が見つかりませんでした｡</string>
     <string name="swap_connecting">接続中</string>
@@ -239,7 +239,7 @@
     <string name="about_license">ライセンス</string>
     <string name="empty_search_available_app_list">一致する利用可能なアプリはありません。</string>
     <string name="status_inserting_apps">アプリの詳細を保存中</string>
-    <string name="crash_dialog_title">F-Droid がクラッシュしました</string>
+    <string name="crash_dialog_title">EDT がクラッシュしました</string>
     <string name="crash_dialog_text">予期しないエラーが発生し、アプリを強制的に停止させました。問題を修正するために、詳細をメールで送信してもよろしいですか？</string>
     <string name="crash_dialog_comment_prompt">ここに追加の情報やコメントを追加できます:</string>
     <string name="antinonfreeassetslist">このアプリには不自由なアセットが含まれています</string>
@@ -361,7 +361,7 @@
     <string name="force_old_index_summary">バグや互換性の問題がある場合に、XMLアプリインデックスを使用します</string>
     <string name="app_list_download_ready">ダウンロードが完了しました。今すぐインストールできます</string>
     <string name="app_installed_media">%sにファイルをインストールしました</string>
-    <string name="app_permission_storage">F-Droidがストレージにインストールするためにはストレージの権限が必要です。インストールを続行するには次の画面で許可してください。</string>
+    <string name="app_permission_storage">EDTがストレージにインストールするためにはストレージの権限が必要です。インストールを続行するには次の画面で許可してください。</string>
     <string name="status_inserting_x_apps">%3$sよりアプリの詳細(%1$d/%2$d)を保存中</string>
     <string name="app_details__incompatible_mismatched_signature">インストールされたバージョンと署名が異なります</string>
     <string name="app_details__no_versions__show_incompat_versions">ここに互換性のないバージョンを表示するには、「%1$s」設定を有効にします。</string>
@@ -436,7 +436,7 @@
     <string name="send_version_and_uuid">バージョンおよび UUID をサーバーに送信</string>
     <string name="send_version_and_uuid_summary">ダウンロード時に、このアプリのバージョン、ランダムな一意の ID を含めます。アプリを再起動すると反映します。</string>
     <string name="send_installed_apps">インストールされたアプリを共有</string>
-    <string name="send_installed_apps_csv">F-Droid によってインストールされたアプリを CSV ファイルとして</string>
+    <string name="send_installed_apps_csv">EDT によってインストールされたアプリを CSV ファイルとして</string>
     <string name="updates_disabled_by_settings">データ/WiFi の設定によって、すべてのアップデートが無効になっています</string>
     <string name="menu_open">開く</string>
     <string name="antinosourcesince">ソースコードはもう利用できません。アップデートできません。</string>
@@ -494,7 +494,7 @@
     <string name="menu_show_install_history">インストール歴史を表示する</string>
     <string name="menu_show_fdroid_metrics_report">メトリクス報告を表示する</string>
     <string name="toast_metrics_in_install_history">%sメトリクス報告はインストール歴史ビューアで閲覧できます</string>
-    <string name="send_to_fdroid_metrics_summary">匿名化されたデータを毎週にF-Droidメトリクスに通信（インストール歴史の保存が必要）</string>
+    <string name="send_to_fdroid_metrics_summary">匿名化されたデータを毎週にEDTメトリクスに通信（インストール歴史の保存が必要）</string>
     <string name="fdroid_metrics_report">%sメトリクス報告</string>
     <string name="install_history_and_metrics">インストール歴史とメトリクス</string>
     <string name="send_fdroid_metrics_json">%sメトリクス報告をJSONファイルとして</string>

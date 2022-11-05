@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="SignatureMismatch">Новая версія падпісаная ключом, адрозным ад старой. Для ўсталёўкі новай версіі неабходна спачатку выдаліць старую. Зрабіце гэта і паспрабуйце зноў. (Майце на ўвазе, што выдаленне праграмы прывядзе да знішчэння ўсіх яе даных)</string>
     <string name="installIncompatible">Праграма несумяшчальная з вашай прыладай. Усё адно ўсталяваць\?</string>
     <string name="version">Версія</string>
@@ -34,7 +34,7 @@
     <string name="no_such_app">Праграмы не знойдзена.</string>
     <string name="app_details_donate_prompt_unknown_author">Ахвяраваць распрацоўшчыкам %1$s на каву.</string>
     <string name="app_details_donate_prompt">%1$s створаны %2$s. Ахвяруйце ім на каву!</string>
-    <string name="about_title">Пра F-Droid</string>
+    <string name="about_title">Пра EDT</string>
     <string name="about_version">Версія</string>
     <string name="about_site">Сайт</string>
     <string name="about_source">Зыходны код</string>
@@ -103,7 +103,7 @@
     <string name="show_incompat_versions">Паказваць несумяшчальныя версіі</string>
     <string name="show_incompat_versions_on">Паказваць версіі праграм, якія несумяшчальныя з прыладай</string>
     <string name="local_repo">Лакальны рэпазіторый</string>
-    <string name="local_repo_running">F-Droid гатовы да абмену</string>
+    <string name="local_repo_running">EDT гатовы да абмену</string>
     <string name="touch_to_configure_local_repo">Дакраніцеся, каб праглядзець падрабязнасці і дазволіць абмен паміж праграмамі.</string>
     <string name="deleting_repo">Выдаленне бягучага рэпазіторыя…</string>
     <string name="adding_apks_format">Даданне «%s» у рэпазіторый…</string>
@@ -188,14 +188,14 @@
     <string name="category_Writing">Напісанне</string>
     <string name="empty_installed_app_list">Усталяваныя праграмы адсутнічаюць.
 \n
-\nНа вашай прыладзе ёсць праграмы, але яны недаступныя ў F-Droid. Магчыма вам неабходна абнавіць рэпазіторыі, альбо рэпазіторыі не змяшчаюць гэтых праграм.</string>
+\nНа вашай прыладзе ёсць праграмы, але яны недаступныя ў EDT. Магчыма вам неабходна абнавіць рэпазіторыі, альбо рэпазіторыі не змяшчаюць гэтых праграм.</string>
     <string name="empty_can_update_app_list">Віншуем!
 \nВа ўсіх праграм найноўшыя версіі.</string>
     <string name="install_error_unknown">На атрымалася ўсталяваць праз невядомую памылку</string>
     <string name="uninstall_error_unknown">На атрымалася выдаліць праз невядомую памылку</string>
     <string name="system_install_denied_permissions">Пашырэнне не мае прывіліяваных дазволаў! Калі ласка, паведаміце пра памылку!</string>
     <string name="swap_nfc_title">Дакрануцца для абмену</string>
-    <string name="swap_nfc_description">Калі ваш сябар мае F-Droid і ўключаны NFC, проста дакраніцеся прыладамі.</string>
+    <string name="swap_nfc_description">Калі ваш сябар мае EDT і ўключаны NFC, проста дакраніцеся прыладамі.</string>
     <string name="swap_join_same_wifi">Падлучыцеся да той самай сеткі Wi-Fi, што і ваш сябар</string>
     <string name="swap_join_same_wifi_desc">Для абмену праз Wi-Fi, пераканайцеся, што вы знаходзіцеся ў адной і той жа
         сетцы. Калі ж вы не маеце доступу да той жа сеткі, адзін з вас можа стварыць уласную сетку.
@@ -208,7 +208,7 @@
     <string name="swap_view_available_networks">Націсніце, каб адкрыць даступныя сеткі</string>
     <string name="swap_switch_to_wifi">Націсніце для пераключэння сеткі Wi-Fi</string>
     <string name="open_qr_code_scanner">Адкрыць QR-сканер</string>
-    <string name="swap_welcome">Вітаем у F-Droid!</string>
+    <string name="swap_welcome">Вітаем у EDT!</string>
     <string name="swap_confirm_connect">Вы жадаеце атрымаць праграмы з «%1$s» зараз\?</string>
     <string name="swap_dont_show_again">Не паказваць зноў</string>
     <string name="swap_scan_or_type_url">Адзін з вас мусіць адсканаваць код ці ўвесці URL іншага ў браўзеры.</string>
@@ -227,7 +227,7 @@
     <string name="swap_not_visible_wifi">Нябачны праз Wi-Fi</string>
     <string name="swap_wifi_device_name">Назва прылады</string>
     <string name="swap_cant_find_peers">Не можаце знайсці, каго шукаеце\?</string>
-    <string name="swap_send_fdroid">Адправіць F-Droid</string>
+    <string name="swap_send_fdroid">Адправіць EDT</string>
     <string name="apps">Праграмы</string>
     <string name="swap_no_peers_nearby">Не атрымалася знайсці людзей паблізу для абмену.</string>
     <string name="swap_connecting">Падключэнне</string>
@@ -269,7 +269,7 @@
     <string name="keep_forever">Заўсёды</string>
     <string name="theme_light">Светлая</string>
     <string name="theme_dark">Цёмная</string>
-    <string name="crash_dialog_title">F-Droid даў хібу</string>
+    <string name="crash_dialog_title">EDT даў хібу</string>
     <string name="crash_dialog_text">Узнікла нечаканая памылка, што прывяла да аварыйнага спынення праграмы. Хочаце адправіць электронны ліст з падрабязнасцямі, каб дапамагчы выправіць гэтую праблему\?</string>
     <string name="crash_dialog_comment_prompt">Можаце ўвясці дадатковую інфармацыю і каментары сюды:</string>
     <string name="notification_title_single_update_available">Даступна абнаўленне</string>
@@ -394,7 +394,7 @@
     <string name="app_list_download_ready">Спампавана, гатова да ўсталёўкі</string>
     <string name="status_inserting_x_apps">Захаванне падрабязнасцяў (%1$d/%2$d) з %3$s</string>
     <string name="app_installed_media">Файл усталяваны ў %s</string>
-    <string name="app_permission_storage">F-Droid патрабуецца дазвол на ўсталёўку гэтага ў сховішча. Калі ласка, дайце дазвол на наступным экране для працягу ўсталёўкі.</string>
+    <string name="app_permission_storage">EDT патрабуецца дазвол на ўсталёўку гэтага ў сховішча. Калі ласка, дайце дазвол на наступным экране для працягу ўсталёўкі.</string>
     <string name="app_details__incompatible_mismatched_signature">Подпіс адрозніваецца ад подпіса ўсталяванай версіі</string>
     <string name="app_details__no_versions__show_incompat_versions">Каб заўсёды паказваць несумяшчальныя версіі, ўключыце параметр «%1$s».</string>
     <string name="app_details__no_versions__no_compatible_signatures">Версіі з сумяшчальным подпісам адсутнічаюць</string>
@@ -472,7 +472,7 @@
     <string name="send_history_csv">%s гісторыя ўсталёвак як CSV-файл</string>
     <string name="updates_disabled_by_settings">Усе абнаўленні выключаныя ў наладах перадачы даных</string>
     <string name="send_installed_apps">Падзяліцца ўсталяванымі праграмамі</string>
-    <string name="send_installed_apps_csv">Праграмы, усталяваныя F-Droid як CSV-файл</string>
+    <string name="send_installed_apps_csv">Праграмы, усталяваныя EDT як CSV-файл</string>
     <string name="menu_open">Адкрыць</string>
     <string name="about_forum">Форум падтрымкі</string>
     <string name="app_suggested">Прапанавана</string>

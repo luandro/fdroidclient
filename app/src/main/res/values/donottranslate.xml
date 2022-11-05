@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_description">F-Droid is an installable catalogue of FOSS (Free and Open Source Software)
+    <string name="app_description">EDT is an installable catalogue of FOSS (Free and Open Source Software)
         applications for the Android platform. The client makes it easy to browse, install, and keep track of updates
         on your device.
     </string>
@@ -15,7 +15,7 @@
 
     <string name="https">https://</string>
 
-    <string name="app_details_subject">%1$s on F-Droid</string>
+    <string name="app_details_subject">%1$s on EDT</string>
     <string name="minsdk_or_later">%s+</string>
     <string name="up_to_maxsdk">1.0-%s</string>
     <string name="minsdk_up_to_maxsdk">%1$s-%2$s</string>

@@ -13,7 +13,7 @@
     <string name="notify_on">Bistarazi jakinarazpena eguneraketak eskuragarri daudenean</string>
     <string name="app_details">Aplikazioaren xehetasunak</string>
     <string name="no_such_app">Ez da aplikazio hori aurkitu.</string>
-    <string name="about_title">F-Droid-i buruz</string>
+    <string name="about_title">EDT-i buruz</string>
     <string name="about_site">Webgunea</string>
     <string name="about_version">Bertsioa</string>
     <string name="app_installed">Instalatuta</string>
@@ -61,7 +61,7 @@
     <string name="repo_name">Izena</string>
     <string name="unknown">Ezezaguna</string>
     <string name="repo_confirm_delete_title">Biltegia ezabatu?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="installIncompatible">Aplikazioa zure gailuarekin bateraezina da, instalatu halere?</string>
     <string name="unstable_updates">Eguneraketa ezegonkorrak</string>
     <string name="unstable_updates_summary">Proposatu eguneraketak bertsio ezegonkorretara</string>
@@ -128,7 +128,7 @@
     <string name="menu_bitcoin">Bitcoin</string>
     <string name="menu_litecoin">Litecoin</string>
     <string name="menu_flattr">Flattr</string>
-    <string name="local_repo_running">F-Droid partekatzeko prest dago</string>
+    <string name="local_repo_running">EDT partekatzeko prest dago</string>
     <string name="touch_to_configure_local_repo">Ukitu xehetasunak ikusteko eta besteek zure aplikazioak hartzea ahalbidetzeko.</string>
     <string name="proxy_host_summary">Zure proxyaren zerbitzaria (adib. 127.0.0.1)</string>
     <string name="proxy_port">Proxyaren ataka</string>
@@ -182,7 +182,7 @@
     </string>
     <string name="requires_features">Behar du: %1$s</string>
     <string name="empty_installed_app_list">Ez da aplikaziorik instalatu.\n\nAplikazioak daude zure gailuan baina ez
-        daude F-Droid bitartez eskuragarri. Biltegiak eguneratu behar dituzulako izan daiteke, edo benetan biltegiek ez
+        daude EDT bitartez eskuragarri. Biltegiak eguneratu behar dituzulako izan daiteke, edo benetan biltegiek ez
         dituzte zure aplikazioak eskuragarri.
     </string>
     <string name="empty_can_update_app_list">Zorionak!\nZure aplikazioak egunean daude.</string>
@@ -199,7 +199,7 @@
     <string name="swap_view_available_networks">Ukitu eskuragarri dauden sareak irekitzeko</string>
     <string name="swap_switch_to_wifi">Ukitu Wi-Fi sare batetara aldatzeko</string>
     <string name="open_qr_code_scanner">Ireki QR eskanerra</string>
-    <string name="swap_welcome">Ongi etorri F-Droidera!</string>
+    <string name="swap_welcome">Ongi etorri EDTera!</string>
     <string name="swap_confirm_connect">%1$stik aplikazioak jaso nahi dituzu orain?</string>
     <string name="swap_dont_show_again">Ez erakutsi hau berriro</string>
     <string name="swap_scan_or_type_url">Pertsona batek bestearen kodea eskaneatu behar du, edo URL helbidea
@@ -218,12 +218,12 @@
     <string name="swap_setting_up_wifi">Wi-Fi ezartzen…</string>
     <string name="swap_not_visible_wifi">Wi-Fi bidez ez ikusgai</string>
     <string name="swap_cant_find_peers">Ezin duzu bilatzen ari zarena aurkitu?</string>
-    <string name="swap_send_fdroid">Bidali F-Droid</string>
+    <string name="swap_send_fdroid">Bidali EDT</string>
     <string name="apps">Aplikazioak</string>
     <string name="swap_no_peers_nearby">Ezin izan da inguruan partekatzeko jenderik aurkitu.</string>
     <string name="swap_confirm">Berretsi trukea</string>
     <string name="swap_nfc_title">Ukitu partekatzeko</string>
-    <string name="swap_nfc_description">Zure adiskideak F-Droid eta NFC piztuta baditu ukitu gailuak elkarrekin.
+    <string name="swap_nfc_description">Zure adiskideak EDT eta NFC piztuta baditu ukitu gailuak elkarrekin.
     </string>
     <string name="swap_join_same_wifi">Batu zure adiskidearen Wi-Fi sare berera</string>
     <string name="swap_join_same_wifi_desc">Wi-Fi bidez partekatzeko, egiaztatu biak sare berean zaudetela. Ez baduzue
@@ -471,7 +471,7 @@
     <string name="send_history_csv">%s instalazioen historiala CSV fitxategi gisa</string>
     <string name="updates_disabled_by_settings">Eguneraketa guztiak desgaituta datu/WiFi ezarpenetan</string>
     <string name="send_installed_apps">Partekatu instalatutako aplikazioak</string>
-    <string name="send_installed_apps_csv">F-Droid-ek instalatutako aplikazioak CSV fitxategi gisa</string>
+    <string name="send_installed_apps_csv">EDT-ek instalatutako aplikazioak CSV fitxategi gisa</string>
     <string name="menu_open">Ireki</string>
     <string name="about_forum">Laguntza foroa</string>
     <string name="app_suggested">Iradokitua</string>
@@ -530,7 +530,7 @@
     <string name="banner_no_data_or_wifi">Datuak eta WiFi-a itzalita</string>
     <string name="banner_no_internet">Internet gabe</string>
     <string name="menu_show_install_history">Instalazio historia erakutsi</string>
-    <string name="send_to_fdroid_metrics_summary">Astero informazio anonimoa F-Droid Metrics-era bidali (\"Mantendu instalazioen historiala\" behar du)</string>
+    <string name="send_to_fdroid_metrics_summary">Astero informazio anonimoa EDT Metrics-era bidali (\"Mantendu instalazioen historiala\" behar du)</string>
     <string name="swap_wifi_vpn_conflict">Uneko VPNarekin gatazka sortzen du!</string>
     <string name="share_apk_error">Ezin izan da aplikazio fitxategia partekatu</string>
     <string name="has_disallow_install_unknown_sources_globally">Zure gailuaren administratzaileak ez du jatorri ezezaguneko aplikazioak instalatzen uzten, biltegi berriak barne</string>

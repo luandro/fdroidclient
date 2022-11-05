@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="system_installer_on">Cleachd Leudachan pribhleidean F-Droid airson pacaidean a stàladh, ùrachadh ’s a thoirt air falbh</string>
-    <string name="system_installer">Leudachan pribhleidean F-Droid</string>
+    <string name="system_installer_on">Cleachd Leudachan pribhleidean EDT airson pacaidean a stàladh, ùrachadh ’s a thoirt air falbh</string>
+    <string name="system_installer">Leudachan pribhleidean EDT</string>
     <string name="install_history_and_metrics">Eachdraidh nan stàlaidhean ’s a’ mheatrachd</string>
     <string name="system_install_denied_permissions">Cha deach na ceadan le pribhleidean a thoirt dhan leudachan! An cruthaich thu aithris air buga\?</string>
     <plurals name="details_last_update_years">
@@ -90,7 +90,7 @@
     <string name="adding_apks_format">A’ cur %s ris an ionad-thasgaidh…</string>
     <string name="deleting_repo">A’ sguabadh às an ionaid-thasgaidh làithrich…</string>
     <string name="touch_to_configure_local_repo">Suath ris a shealltainn an fhiosrachaidh ’s a leigeil le càch na h-aplacaidean agad iomlaid.</string>
-    <string name="local_repo_running">Tha F-Droid deis airson iomlaid</string>
+    <string name="local_repo_running">Tha EDT deis airson iomlaid</string>
     <string name="local_repo">Ionad-tasgaidh ionadail</string>
     <string name="force_touch_apps_on">Seall aplacaidean a dh’fheumas sgrìn-shuathaidh fiù ’s mura cuir am bathar-cruaidh taic ris</string>
     <string name="force_touch_apps">Gabh a-staigh aplacaidean sgrìn-shuathaidh</string>
@@ -197,7 +197,7 @@
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Lorg sinn so-leòntachd am broinn %1$s. Mholamaid dhut an aplacaid seo a dhì-stàladh sa bhad.</string>
     <string name="installed_app__updates_ignored_for_suggested_version">Na h-ùrachaidhean a chaidh a leigeil seachad airson tionndadh %1$s</string>
     <string name="installed_app__updates_ignored">Ùrachaidhean a chaidh a leigeil seachad</string>
-    <string name="send_installed_apps_csv">Na h-aplacaidean a chaidh a stàladh le F-Droid ’nam faidhle CSV</string>
+    <string name="send_installed_apps_csv">Na h-aplacaidean a chaidh a stàladh le EDT ’nam faidhle CSV</string>
     <string name="send_installed_apps">Co-roinn na h-aplacaidean stàlaichte</string>
     <string name="installed_apps__activity_title">Aplacaidean stàlaichte</string>
     <string name="app_list__dismiss_downloading_app">Sguireadh dhen luchdadh a-nuas</string>
@@ -208,7 +208,7 @@
     <string name="app_list__name__downloading_in_progress">A’ luchdadh a-nuas %1$s</string>
     <string name="app_size">Meud : %1$s</string>
     <string name="app_repository">Ionad-tasgaidh: %1$s</string>
-    <string name="app_permission_storage">Feumaidh F-Droid cead air an stòras gus seo a stàladh dhan stòras. Ceadaich e air an ath-sgrìn a leantainn air adhart leis an stàladh.</string>
+    <string name="app_permission_storage">Feumaidh EDT cead air an stòras gus seo a stàladh dhan stòras. Ceadaich e air an ath-sgrìn a leantainn air adhart leis an stàladh.</string>
     <string name="app_installed_media">Chaidh am faidhle a stàladh gu %s</string>
     <string name="app__install_downloaded_update">Ùraich</string>
     <string name="app__tts__cancel_download">Sguir dhen luchdadh a-nuas</string>
@@ -228,7 +228,7 @@
     <string name="about_forum">Fòram na taice</string>
     <string name="about_site">Làrach-lìn</string>
     <string name="about_version">Tionndadh</string>
-    <string name="about_title">Mu F-Droid</string>
+    <string name="about_title">Mu EDT</string>
     <string name="app_details__no_versions__explain_incompatible_signatures">Chan eil an tionndadh stàlaichte co-chòrdail le tionndadh sam bith a tha ri fhaighinn. Ma dhì-stàlaicheas tu an aplacaid, ’s urrainn dhut tionndaidhean co-chòrdail a shealltainn ’s a stàladh. Tachraidh seo gu tric le aplacaidean a chaidh a stàladh o Google Play no tùs eile ma chaidh an soidhneadh le teisteanas eile.</string>
     <string name="app_details__no_versions__none_compatible_with_device">Chan eil tionndadh ann a tha co-chòrdail leis an uidheam</string>
     <string name="app_details__no_versions__no_compatible_signatures">Chan eil tionndadh le soidhneadh co-chòrdail ann</string>
@@ -267,7 +267,7 @@
     <string name="send_version_and_uuid_summary">Gabh a-staigh tionndadh na h-aplacaid seo agus ID àraidh tuaireamach leis an luchdadh a-nuas, thèid seo a chur an sàs an ath-thuras a thòisicheas tu an aplacaid às ùr.</string>
     <string name="send_version_and_uuid">Cuir tionndadh ’s UUID gu frithealaichean</string>
     <string name="toast_metrics_in_install_history">Chì thu aithris meatrachd %s ann an sealladair eachdraidh nan stàlaidhean</string>
-    <string name="send_to_fdroid_metrics_summary">Cuiridh seo dàta gun urra gu meatrachd F-Droid gach seachdain (feumaidh seo “Cùm eachdraidh nan stàlaidhean”)</string>
+    <string name="send_to_fdroid_metrics_summary">Cuiridh seo dàta gun urra gu meatrachd EDT gach seachdain (feumaidh seo “Cùm eachdraidh nan stàlaidhean”)</string>
     <string name="send_to_fdroid_metrics">Cuir dàta a’ chleachdaidh</string>
     <string name="keep_install_history_summary">Cùm loga dhe na stàlaidhean is dì-stàlaidhean uile ann an stòras prìobhaideach</string>
     <string name="notification_title_single_install_error">Dh’fhàillig leis an stàladh</string>
@@ -276,7 +276,7 @@
     <string name="notification_title_single_update_available">Tha ùrachadh ri fhaighinn</string>
     <string name="crash_dialog_comment_prompt">’S urrainn dhut barrachd fiosrachaidh is beachdan a chur ris an-seo:</string>
     <string name="crash_dialog_text">Thachair mearachd ris nach robh dùil a spàrr stad air an aplacaid. A bheil thu airson am fiosrachadh a chur air a’ phost-d airson cuideachadh le càradh an duilgheadais\?</string>
-    <string name="crash_dialog_title">Thuislich F-Droid</string>
+    <string name="crash_dialog_title">Thuislich EDT</string>
     <string name="theme_follow_system">Fear an t-siostaim</string>
     <string name="theme_dark">Dorcha</string>
     <string name="theme_light">Soilleir</string>
@@ -329,7 +329,7 @@
     <string name="swap_confirm">Dearbh an iomlaid</string>
     <string name="swap_connecting">’Ga cheangal</string>
     <string name="swap_no_peers_nearby">Tha deach daoine a lorg am fagas a chùm iomlaid leotha.</string>
-    <string name="swap_send_fdroid">Cuir F-Droid</string>
+    <string name="swap_send_fdroid">Cuir EDT</string>
     <string name="swap_cant_find_peers">Cha do lorg thu na tha thu a’ sireadh\?</string>
     <string name="swap_wifi_device_name">Ainm an uidheim</string>
     <string name="swap_not_visible_wifi">Falaichte air WiFi</string>
@@ -352,7 +352,7 @@
     <string name="swap_scan_or_type_url">Feumaidh an dàrna neach an còd QR a sganadh no URL an neach eile a sgrìobhadh ann am brabhsair.</string>
     <string name="swap_dont_show_again">Na seall seo a-rithist</string>
     <string name="swap_confirm_connect">A bheil thu airson aplacaidean fhaighinn o %1$s a-nis\?</string>
-    <string name="swap_welcome">Fàilte gu F-Droid!</string>
+    <string name="swap_welcome">Fàilte gu EDT!</string>
     <string name="open_qr_code_scanner">Fosgail sganair QR</string>
     <string name="swap_switch_to_wifi">Thoir gnogag a ghearradh leum gu lìonra WiFi</string>
     <string name="swap_view_available_networks">Thoir gnogag a dh’fhosgladh nan lìonraidhean ri làimh</string>
@@ -368,7 +368,7 @@
     <string name="swap_join_this_hotspot">Cuidich do charaid le tighinn a-steach dhan hotspot agad</string>
     <string name="swap_join_same_wifi_desc">Airson iomlaid a dhèanamh le WiFi, dèanaibh cinnteach gu bheil sibh air an aon lìonra. Mur eil inntrigeadh dhan aon lìonra aig an dithis agaibh, ’s urrainn dhuibh Hotspot WiFi a chruthachadh.</string>
     <string name="swap_join_same_wifi">Thig a-steach dhan aon lìonra WiFi sa bheil do charaid</string>
-    <string name="swap_nfc_description">Ma tha F-Droid aig do charaid is NFC air a chur air, cuir an dàrna uidheam ris an uidheam eile.</string>
+    <string name="swap_nfc_description">Ma tha EDT aig do charaid is NFC air a chur air, cuir an dàrna uidheam ris an uidheam eile.</string>
     <string name="swap_nfc_title">Suath ris airson iomlaid</string>
     <string name="nearby_splash__request_permission">Feuch e</string>
     <string name="nearby_splash__document_tree">Lorg ionadan-tasgaidh is sgàthanan air cairt USB OTG.</string>
@@ -384,7 +384,7 @@
 \nTha na h-aplacaidean agad cho ùr ’s a ghabhas.</string>
     <string name="empty_installed_app_list">Cha deach aplacaid a stàladh.
 \n
-\nTha aplacaidean air an uidheam agad ach chan eil iad ri fhaighinn o F-Droid. ’S dòcha gum bu chòir dhut na h-ionadan-tasgaidh agad ùrachadh no nach eil na h-aplacaidean agad ri fhaighinn sna h-ionadan-tasgaidh idir.</string>
+\nTha aplacaidean air an uidheam agad ach chan eil iad ri fhaighinn o EDT. ’S dòcha gum bu chòir dhut na h-ionadan-tasgaidh agad ùrachadh no nach eil na h-aplacaidean agad ri fhaighinn sna h-ionadan-tasgaidh idir.</string>
     <string name="category_Writing">Sgrìobhadh</string>
     <string name="category_Time">Àm</string>
     <string name="category_Theming">Ùrlaran</string>
@@ -529,7 +529,7 @@
     <string name="version">Tionndadh</string>
     <string name="installIncompatible">Chan eil an aplacaid co-chòrdail leis an uidheam agad, an stàlaich thu co-dhiù i\?</string>
     <string name="SignatureMismatch">Chaidh an tionndadh ùr a shoidhneadh le iuchair dhiofraichte on tionndadh roimhe. Airson an tionndadh ùr a stàladh, feumaidh tu an seann-tionndadh a thoirt air falbh an toiseach. Dèan seo is feuch ris a-rithist. (Thoir an aire gun suath an dì-stàladh bàn dàta inntearnail sam bith a chaidh a stòradh leis an aplacaid)</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="apps">Aplacaidean</string>
     <string name="swap_wifi_vpn_conflict">Tha còmhstri le VPN gnìomhach ann!</string>
     <string name="has_disallow_install_unknown_sources">Chan fhaod an cleachdaiche seo tùsan nach aithne dhuinn a chur ris, tha seo a’ gabhail a-staigh ionadan-tasgaidh ùra</string>

@@ -20,7 +20,7 @@
             android:gravity="center"
             android:textAlignment="center"
             android:textSize="15sp"
-            tools:text="F-Droid is created by F-Droid Limited and Contributors. Buy them a coffee!" />
+            tools:text="EDT is created by EDT Limited and Contributors. Buy them a coffee!" />
 
         <androidx.gridlayout.widget.GridLayout
             android:id="@+id/donation_options"

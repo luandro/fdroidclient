@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="SignatureMismatch">Versioni i ri është nënshkruar me një tjetër kyç nga ai i vjetri. Për të instaluar versionin e ri, së pari duhet të çinstalohet versioni i vjetër. Ju lutemi, bëjeni dhe riprovoni. (Vini re që çinstalimi do të fshijë çfarëdo të dhëne të brendshme të ruajtur nga aplikacioni)</string>
     <string name="installIncompatible">Aplikacion i papërputhshëm me pajisjen tuaj, të instalohet sido qoftë\?</string>
     <string name="version">Version</string>
@@ -8,7 +8,7 @@
     <string name="updates">Përditësime</string>
     <string name="other">Të tjera</string>
     <string name="update_interval">Interval përditësimesh të vetvetishme</string>
-    <string name="about_title">Mbi F-Droid-in</string>
+    <string name="about_title">Mbi EDT-in</string>
     <string name="about_version">Version</string>
     <string name="about_source">Kod burim</string>
     <string name="added_on">Shtuar më %s</string>
@@ -65,12 +65,12 @@
     <string name="category_System">Sistem</string>
     <string name="category_Time">Kohë</string>
     <string name="category_Writing">Shkrim</string>
-    <string name="swap_welcome">Mirë se vini në F-Droid!</string>
+    <string name="swap_welcome">Mirë se vini në EDT!</string>
     <string name="swap_dont_show_again">Mos e shfaq më këtë</string>
     <string name="swap_people_nearby">Njerëz Atypari</string>
     <string name="swap_wifi_device_name">Emër Pajisjeje</string>
     <string name="swap_cant_find_peers">S’po gjeni atë çka kërkoni\?</string>
-    <string name="swap_send_fdroid">Dërgoni F-Droid</string>
+    <string name="swap_send_fdroid">Dërgoni EDT</string>
     <string name="apps">Aplikacione</string>
     <string name="perm_costs_money">Kjo mund t’ju kushtojë para</string>
     <string name="download_error">Shkarkimi dështoi!</string>
@@ -136,7 +136,7 @@
     <string name="app__tts__cancel_download">Anuloje shkarkimin</string>
     <string name="app__install_downloaded_update">Përditësoje</string>
     <string name="app_installed_media">Kartelë e instaluar te %s</string>
-    <string name="app_permission_storage">F-Droid lyp leje depozitimi për të instaluar këtë në depo. Ju lutemi, që të vazhdohet me instalimin, lejojeni në skenën pasuese.</string>
+    <string name="app_permission_storage">EDT lyp leje depozitimi për të instaluar këtë në depo. Ju lutemi, që të vazhdohet me instalimin, lejojeni në skenën pasuese.</string>
     <string name="app_list_download_ready">U shkarkua, është gati për instalim</string>
     <string name="app_list__dismiss_app_update">Përditësimi u shpërfill</string>
     <string name="app_list__dismiss_vulnerable_app">Cenueshmëria u shpërfill</string>
@@ -207,7 +207,7 @@
     <string name="force_touch_apps">Përfshi aplikacione touchscreen</string>
     <string name="force_touch_apps_on">Shfaq aplikacione që lypin touchscreen, pavarësisht nëse mbulohen nga hardware-i</string>
     <string name="local_repo">Depo Vendore</string>
-    <string name="local_repo_running">F-Droid-i është gati për shkëmbime</string>
+    <string name="local_repo_running">EDT-i është gati për shkëmbime</string>
     <string name="touch_to_configure_local_repo">Prekeni që të shihni hollësi dhe të lejoni të tjerët të shkëmbejnë aplikacionet tuaja.</string>
     <string name="deleting_repo">Po hiqet depoja e tanishme…</string>
     <string name="adding_apks_format">Po shtohet %s te depo…</string>
@@ -288,7 +288,7 @@
     <string name="hiding_dialog_message">Jeni i sigurt se doni të hiqet %1$s nga nisësi\? Vetëm shtypja e \"%2$d\" te aplikacioni gjoja %3$s mund ta rikthejë.</string>
     <string name="empty_installed_app_list">S’u instalua aplikacion.
 \n
-\nKa aplikacione në pajisjen tuaj, por nuk janë të passhëm prej F-Droid-it. Kjo mund të vijë ngaqë duhet të përditësoni depot tuaj, ose depot në thelb nuk i përmbajnë aplikacionet tuaja.</string>
+\nKa aplikacione në pajisjen tuaj, por nuk janë të passhëm prej EDT-it. Kjo mund të vijë ngaqë duhet të përditësoni depot tuaj, ose depot në thelb nuk i përmbajnë aplikacionet tuaja.</string>
     <string name="prompt_to_send_crash_reports_summary">Mbledh të dhëna rreth vithisjesh dhe pyet për t’ia dërguar ato zhvilluesit</string>
     <string name="app_size">Madhësi: %1$s</string>
     <string name="swap_scan_or_type_url">Njëri person lyspet të skanojë kodin, ose të shtypë URL-në e tjetrit në një shfletues.</string>
@@ -310,7 +310,7 @@
     <string name="panic_hide_warning_message">Në një akt paniku, kjo do të heqë %1$s nga nisësi. Vetëm shtypja e \"%2$d\" te aplikacioni gjoja %3$s mund ta rikthejë.</string>
     <string name="all_other_repos_fine">Krejt depot e tjera s’krijuan gabime.</string>
     <string name="unsigned_description">Kjo do të thotë se lista e aplikacioneve s’u verifikua dot. Duhet të jeni i kujdesshëm me aplikacione të shkarkuar nga tregues të panënshkruar.</string>
-    <string name="send_installed_apps_csv">Aplikacionet instaluar nga F-Droid si kartelë CSV</string>
+    <string name="send_installed_apps_csv">Aplikacionet instaluar nga EDT si kartelë CSV</string>
     <string name="swap_toast_not_removable_storage">Ajo zgjedhje s’dha përputhje me ndonjë pajisje të heqshme depozitimesh, riprovoni!</string>
     <string name="install_history_summary">Shihni regjistrin privat të krejt instalimeve dhe çinstalimeve</string>
     <string name="nearby_splash__document_tree">Kërko te USB OTG për depo dhe pasqyra.</string>
@@ -340,7 +340,7 @@
     <string name="panic_reset_repos_summary">Kaloje forcërisht ujdisjen e depos mbrapsht te parazgjedhjet</string>
     <string name="repo_not_yet_updated">Kjo depo s’është përdorur ende. Që të shihni aplikacionet që sjell, lypset ta aktivizoni.</string>
     <string name="swap_join_same_wifi_desc">Që të shkëmbeni duke përdorur Wi-Fi, sigurohuni se gjendeni në të njëjtin rrjet. Nëse s’keni hyrje te po ai rrjet, njëri prej jush mund të krijojë një Wi-Fi Hotspot.</string>
-    <string name="swap_nfc_description">Nëse shoku juaj ka të aktivizuar F-Droid-in dhe NFC-në, prekni pajisjet tuaja me njëra-tjetrën.</string>
+    <string name="swap_nfc_description">Nëse shoku juaj ka të aktivizuar EDT-in dhe NFC-në, prekni pajisjet tuaja me njëra-tjetrën.</string>
     <string name="swap_toast_find_removeable_storage">Zgjidhni kartën tuaj SD ose diskthin tuaj USB të heqshëm</string>
     <string name="not_visible_nearby_description">Para shkëmbimesh me pajisje atypari, bëjeni të dukshme pajisjen tuaj.</string>
     <string name="swap_qr_isnt_for_swap">Kodi QR që skanuat s’duket si kod shkëmbimi.</string>
@@ -472,7 +472,7 @@
     <string name="keep_week">1 Javë</string>
     <string name="swap_error_cannot_start_bluetooth">S’niset dot Bluetooth!</string>
     <string name="category_Money">Para</string>
-    <string name="crash_dialog_title">F-Droid-i u vithis</string>
+    <string name="crash_dialog_title">EDT-i u vithis</string>
     <string name="unsigned">I panënshkruar</string>
     <string name="swap_toast_invalid_url">URL e pavlefshme për shkëmbime: %1$s</string>
     <string name="app__tts__downloading_progress">Po shkarkohet, %1$d%% i plotësuar</string>
@@ -499,7 +499,7 @@
     <string name="menu_show_fdroid_metrics_report">Shfaq raport statistikash</string>
     <string name="menu_downgrade">Kaloje në version të mëparshëm</string>
     <string name="toast_metrics_in_install_history">Raporti i Statistikave %s mund të shihet që nga parësi i Historikut të Instalimeve</string>
-    <string name="send_to_fdroid_metrics_summary">Dërgon një herë në javë të dhëna anonime te F-Droid Metrics (lyp Ruajtje historiku instalimesh)</string>
+    <string name="send_to_fdroid_metrics_summary">Dërgon një herë në javë të dhëna anonime te EDT Metrics (lyp Ruajtje historiku instalimesh)</string>
     <string name="send_to_fdroid_metrics">Dërgo të dhëna përdorimi</string>
     <string name="fdroid_metrics_report">Raport Statistikash %s</string>
     <string name="install_history_and_metrics">Historik instalimesh dhe statistika</string>

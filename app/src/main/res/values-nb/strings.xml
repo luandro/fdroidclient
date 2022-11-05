@@ -18,7 +18,7 @@
     <string name="local_repo_https_on">Bruk sikret HTTP://-tilkobling for lokal pakkebrønn</string>
     <string name="app_details">Programdetaljer</string>
     <string name="no_such_app">Program ikke funnet.</string>
-    <string name="about_title">Om F-Droid</string>
+    <string name="about_title">Om EDT</string>
     <string name="about_site">Nettside</string>
     <string name="about_version">Versjon</string>
     <string name="app_installed">Installert</string>
@@ -130,15 +130,15 @@
     <string name="category_Science_Education">Vitenskap &amp; utdanning</string>
     <string name="category_Security">Sikkerhet</string>
     <string name="category_System">System</string>
-    <string name="swap_nfc_description">Hvis din venn har F-Droid og NFC påslått, sammenfør enhetene.</string>
+    <string name="swap_nfc_description">Hvis din venn har EDT og NFC påslått, sammenfør enhetene.</string>
     <string name="swap_join_same_wifi">Koble til samme Wi-Fi-nett som din venn</string>
     <string name="swap">Sirkuler programvare</string>
     <string name="swap_no_wifi_network">Mangler nettverk</string>
     <string name="swap_view_available_networks">(Trykk for å vise tilgjengelige nettverk)</string>
     <string name="open_qr_code_scanner">Åpne QR-kode-skanner</string>
-    <string name="swap_welcome">Velkommen til F-Droid!</string>
+    <string name="swap_welcome">Velkommen til EDT!</string>
     <string name="swap_confirm_connect">Ønsker du å hente pakker fra %1$s nå?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="theme_dark">Mørkt</string>
     <string name="unstable_updates">Ustabile oppdateringer</string>
     <string name="unstable_updates_summary">Foreslå oppdateringer til ustabile versjoner</string>
@@ -183,7 +183,7 @@
     <string name="swap_not_visible_wifi">Ikke synlig via Wi-Fi</string>
     <string name="swap_wifi_device_name">Enhetsnavn</string>
     <string name="swap_cant_find_peers">Finner du ikke den du leter etter?</string>
-    <string name="swap_send_fdroid">Oversend F-Droid</string>
+    <string name="swap_send_fdroid">Oversend EDT</string>
     <string name="apps">Programmer</string>
     <string name="swap_connecting">Kobler til</string>
     <string name="loading">Laster inn …</string>
@@ -214,7 +214,7 @@
     <string name="category_Connectivity">Tilkobling</string>
     <string name="category_Theming">Tilpasning</string>
     <string name="empty_installed_app_list">Ingen installerte programmer\n\nDet fins programmer på enheten din, men din
-        F-Droid har dem ikke. Det kan hende du bare må oppdatere pakkebrønnene dine, eller at de faktisk ikke finnes
+        EDT har dem ikke. Det kan hende du bare må oppdatere pakkebrønnene dine, eller at de faktisk ikke finnes
         der.
     </string>
     <string name="empty_can_update_app_list">Gratulerer!
@@ -249,7 +249,7 @@
     <string name="login_title">Identifikasjon påkrevet</string>
     <string name="status_inserting_apps">Lagrer programdetaljer</string>
     <string name="empty_search_available_app_list">Samsvarer ikke med noen tilgjengelige programmer.</string>
-    <string name="crash_dialog_title">F-Droid har krasjet</string>
+    <string name="crash_dialog_title">EDT har krasjet</string>
     <string name="crash_dialog_text">Uventet feil forårsaket
         stopp av programmet. Ønsker du å sende detaljer om dette
         i en e-post for å fikse problemet?
@@ -463,7 +463,7 @@
     <string name="antinosourcesince">Kildekoden er ikke lenger tilgjengelig, ingen oppdateringer mulig.</string>
     <string name="updates_disabled_by_settings">Alle oppdateringer avskrudd av Data/Wi-Fi-innstillinger</string>
     <string name="send_installed_apps">Del installerte programmer</string>
-    <string name="send_installed_apps_csv">Programmer installert av F-Droid fra CSV-fil</string>
+    <string name="send_installed_apps_csv">Programmer installert av EDT fra CSV-fil</string>
     <string name="menu_open">Åpne</string>
     <string name="about_forum">Brukerstøtteforum</string>
     <string name="app_suggested">Foreslått</string>
@@ -512,7 +512,7 @@
     <string name="menu_show_install_history">Vis installasjonshistorikk</string>
     <string name="menu_show_fdroid_metrics_report">Vis bruksdatarapport</string>
     <string name="toast_metrics_in_install_history">Bruksdatarapport for %s kan leses i «Installasjonshistorikk»-viseren</string>
-    <string name="send_to_fdroid_metrics_summary">Sender anonym data ukentlig til F-Droid Metrics (krever «Behold installasjonshistorikk»)</string>
+    <string name="send_to_fdroid_metrics_summary">Sender anonym data ukentlig til EDT Metrics (krever «Behold installasjonshistorikk»)</string>
     <string name="send_to_fdroid_metrics">Send bruksdata</string>
     <string name="fdroid_metrics_report">%s rapport over bruksmåledata</string>
     <string name="install_history_and_metrics">Installasjonshistorikk og bruksdata</string>
@@ -539,5 +539,5 @@
     <string name="antidisabledalgorithm">Signert med en utrygg algoritme</string>
     <string name="antiknownvuln">Kjent sårbarhet</string>
     <string name="antinosource">Kilden er ikke lenger tilgjengelig</string>
-    <string name="antinsfw">Programmet inneholder innhold ledelsen i F-Droid synes bør sensureres</string>
+    <string name="antinsfw">Programmet inneholder innhold ledelsen i EDT synes bør sensureres</string>
 </resources>

@@ -9,7 +9,7 @@
     <string name="notify">Rodyti prieinamus atnaujinimus</string>
     <string name="notify_on">Rodyti pranešimą, kai yra prieinami atnaujinimai</string>
     <string name="local_repo_name">Jūsų vietinės repozitorijos pavadinimas</string>
-    <string name="about_title">Apie F-Droid</string>
+    <string name="about_title">Apie EDT</string>
     <string name="about_site">Svetainė internete</string>
     <string name="about_version">Versija</string>
     <string name="app_installed">Įdiegta</string>
@@ -60,8 +60,8 @@
 \nNorėdami diegti programėles iš šios repozitorijos, turėsite įjungti ją iš naujo.</string>
     <string name="requires_features">Reikalauja: %1$s</string>
     <string name="category_Science_Education">Mokslas ir švietimas</string>
-    <string name="swap_welcome">Sveikiname paleidus F-Droid!</string>
-    <string name="app_name">F-Droid</string>
+    <string name="swap_welcome">Sveikiname paleidus EDT!</string>
+    <string name="app_name">EDT</string>
     <string name="back">Atgal</string>
     <string name="menu_settings">Nustatymai</string>
     <string name="main_menu__latest_apps">Naujausios</string>
@@ -103,8 +103,8 @@
     <string name="wifi">Wi-Fi</string>
     <string name="category_Sports_Health">Sportas ir sveikata</string>
     <string name="category_System">Sistema</string>
-    <string name="swap_send_fdroid">Nusiųsti F-Droid</string>
-    <string name="crash_dialog_title">F-Droid užstrigo</string>
+    <string name="swap_send_fdroid">Nusiųsti EDT</string>
+    <string name="crash_dialog_title">EDT užstrigo</string>
     <string name="crash_dialog_text">Įvyko netikėta klaida, dėl kurios programėlės darbas buvo sustabdytas. Ar norėtumėte išsiųsti el. paštu informaciją apie klaidą, kad padėtumėte ją ištaisyti\?</string>
     <string name="notification_title_single_update_available">Yra prieinamas atnaujinimas</string>
     <string name="notification_title_summary_install_error">Įdiegimas nepavyko</string>
@@ -169,7 +169,7 @@
     <string name="hide_all_notifications">Slėpti visus pranešimus</string>
     <string name="send_install_history">Siųsti įdiegimų istoriją</string>
     <string name="install_history">Įdiegimų istorija</string>
-    <string name="install_history_summary">Rodyti visų programėlių įdiegimų ir šalinimų, atliktų per F-Droid, žurnalą</string>
+    <string name="install_history_summary">Rodyti visų programėlių įdiegimų ir šalinimų, atliktų per EDT, žurnalą</string>
     <string name="send_version_and_uuid">Siųsti versiją ir UUID į serverius</string>
     <string name="over_wifi">Per belaidį internetą (Wi-Fi)</string>
     <string name="over_data">Per mobiliuosius duomenis</string>
@@ -234,8 +234,8 @@
     <string name="menu_ignore_this">Nepaisyti šio atnaujinimo</string>
     <string name="menu_issues">Klaidos</string>
     <string name="app_details__no_versions__no_compatible_signatures">Nėra versijų su suderinamu parašu</string>
-    <string name="app_permission_storage">F-Droid reikia leidimo diegti į pasirinktą saugyklą. Norėdami tęsti leiskite tai kitame pasirinkimo lange.</string>
-    <string name="send_installed_apps_csv">Programėlės, kurias F-Droid įdiegė kaip CSV failą</string>
+    <string name="app_permission_storage">EDT reikia leidimo diegti į pasirinktą saugyklą. Norėdami tęsti leiskite tai kitame pasirinkimo lange.</string>
+    <string name="send_installed_apps_csv">Programėlės, kurias EDT įdiegė kaip CSV failą</string>
     <string name="bluetooth_activity_not_found">Nerasta Bluetooth siuntimo metodų, pasirinkite metodą!</string>
     <string name="choose_bt_send">Pasirinkti Bluetooth siuntimo metodą</string>
     <string name="repo_exists_enable">%1$s jau nustatyta, patvirtinkite, kad norite įjungti ją iš naujo.</string>
@@ -325,7 +325,7 @@
 \n%1$s</string>
     <string name="panic_reset_repos_title">Atstatyti rapozitorijų sąrašą</string>
     <string name="try_again">Bandykite dar kartą</string>
-    <string name="local_repo_running">F-Droid pasiruošusi apsikeitimui</string>
+    <string name="local_repo_running">EDT pasiruošusi apsikeitimui</string>
     <string name="main_menu__updates">Naujinimai</string>
     <string name="menu_translation">Vertimas</string>
     <string name="menu_changelog">Keitinių žurnalas</string>
@@ -440,7 +440,7 @@
     <string name="hiding_dialog_warning">Įspėjimas: B kuri programėlės nuorodą pagrindiniame ekrane taip pat bus pašalinta ir ją reikės iš naujo pridėti rankiniu būdu.</string>
     <string name="warning_scaning_qr_code">Panašu, kad jūsų fotoaparate nėra automatinio fokusavimo funkcijos. Gali būti sunku nuskaityti kodą.</string>
     <string name="toast_metrics_in_install_history">%s metrikų ataskaitą galima peržiūrėti diegimo istorijos peržiūroje</string>
-    <string name="send_to_fdroid_metrics_summary">Kas savaitę siunčia anoniminius duomenis į F-Droid metriką (būtina išlaikyti diegimo istoriją)</string>
+    <string name="send_to_fdroid_metrics_summary">Kas savaitę siunčia anoniminius duomenis į EDT metriką (būtina išlaikyti diegimo istoriją)</string>
     <string name="fdroid_metrics_report">%s metrikų ataskaita</string>
     <string name="install_history_and_metrics">Įdiegti istorija ir metrikos</string>
     <string name="send_fdroid_metrics_json">%s metrikų ataskaitą kaip JSON failą</string>
@@ -481,13 +481,13 @@
     <string name="swap_success">Sėkmingi mainai!</string>
     <string name="swap_join_this_hotspot">Padėkite draugui prisijungti prie savo prieigos taško</string>
     <string name="swap_join_same_wifi">Prisijunkite prie to paties Wi-Fi kaip ir jūsų draugas</string>
-    <string name="swap_nfc_description">Jei draugas turi įjungtą F-Droid ir NFC, suglauskite savo prietaisus kartu.</string>
+    <string name="swap_nfc_description">Jei draugas turi įjungtą EDT ir NFC, suglauskite savo prietaisus kartu.</string>
     <string name="share_apk_error">Nepavyko bendrinti programėlės failo</string>
     <string name="system_install_denied_permissions">Ypatingieji leidimai plėtiniui nebuvo suteikti! Sukurkite pranešimą apie klaidą!</string>
     <string name="empty_search_available_app_list">Atitinkančių paiešką programėlių nėra.</string>
     <string name="empty_installed_app_list">Nėra įdiegtų programėlių.
 \n
-\nJūsų įrenginyje yra programėlių, tačiau jos neprieinamos F-Droid. Taip gali būti dėl to, kad jums reikia atnaujinti repozitorijas, arba repozitorijose tikrai nėra prieinamų jūsų programėlių.</string>
+\nJūsų įrenginyje yra programėlių, tačiau jos neprieinamos EDT. Taip gali būti dėl to, kad jums reikia atnaujinti repozitorijas, arba repozitorijose tikrai nėra prieinamų jūsų programėlių.</string>
     <string name="wifi_ap">Prieigos taškas</string>
     <string name="use_pure_black_dark_theme_summary">Rekomenduojama tik OLED ekranams.</string>
     <string name="hiding_dialog_message">Ar tikrai norite pašalinti %1$s iš paleidimo priemonės\? Tik įvedus „%2$d“ į netikrą %3$s programėlę galima tai atkurti.</string>

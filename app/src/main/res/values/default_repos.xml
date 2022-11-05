@@ -4,11 +4,11 @@
     <string-array name="default_repos">
 
         <!-- name -->
-        <item>F-Droid Archive</item>
+        <item>EDT Archive</item>
         <!-- address -->
         <item>https://f-droid.org/archive</item>
         <!-- description -->
-        <item>The archive repository of the F-Droid client. This contains older versions of
+        <item>The archive repository of the EDT client. This contains older versions of
             applications from the main repository.
         </item>
         <!-- version -->
@@ -25,11 +25,11 @@
         </item>
 
         <!-- name -->
-        <item>F-Droid</item>
+        <item>EDT</item>
         <!-- address -->
         <item>https://f-droid.org/repo</item>
         <!-- description -->
-        <item>The official F-Droid Free Software repository. Everything in this repository is always built from the source code.
+        <item>The official EDT Free Software repository. Everything in this repository is always built from the source code.
         </item>
         <!-- version -->
         <item>13</item>
@@ -49,7 +49,7 @@
         <!-- address -->
         <item>https://guardianproject.info/fdroid/archive</item>
         <!-- description -->
-        <item>The official repository of The Guardian Project apps for use with F-Droid client. This
+        <item>The official repository of The Guardian Project apps for use with EDT client. This
             contains older versions of applications from the main repository.
         </item>
         <!-- version -->

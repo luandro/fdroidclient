@@ -17,7 +17,7 @@
     <string name="local_repo_https_on">שימוש בחיבור //:HTTPS עבור מאגר מקומי</string>
     <string name="app_details">פרטי יישומון</string>
     <string name="no_such_app">לא נמצא כזה יישומון.</string>
-    <string name="about_title">על אודות F-Droid</string>
+    <string name="about_title">על אודות EDT</string>
     <string name="about_site">אתר</string>
     <string name="about_version">גרסה</string>
     <string name="app_installed">מותקן</string>
@@ -72,7 +72,7 @@
     <string name="show_incompat_versions">לכלול גרסאות שאינן תואמות</string>
     <string name="show_incompat_versions_on">הצגת גרסאות היישומון שאינן תואמות להתקן</string>
     <string name="local_repo">מאגר מקומי</string>
-    <string name="local_repo_running">F-Droid מוכנה להחלפה</string>
+    <string name="local_repo_running">EDT מוכנה להחלפה</string>
     <string name="touch_to_configure_local_repo">יש לגעת כדי לצפות בפרטים ולאפשר לאחרים להחליף אתך יישומונים.</string>
     <string name="deleting_repo">המאגר הנוכחי נמחק…</string>
     <string name="adding_apks_format">%s נוסף למאגר…</string>
@@ -126,12 +126,12 @@
     <string name="category_System">מערכת</string>
     <string name="empty_installed_app_list">אין יישומונים מותקנים. 
 \n 
-\nיש יישומונים מותקנים על מכשירך, אך אלו אינם זמינים מתוך F-Droid. מצב זה עלול לקרות כאשר עליך לעדכן את המאגרים שלך או שבמאגרים באמת אין את היישומונים שלך.</string>
+\nיש יישומונים מותקנים על מכשירך, אך אלו אינם זמינים מתוך EDT. מצב זה עלול לקרות כאשר עליך לעדכן את המאגרים שלך או שבמאגרים באמת אין את היישומונים שלך.</string>
     <string name="empty_can_update_app_list">ברכותינו!
 \nהיישומונים שלך עדכניים.</string>
     <string name="install_error_unknown">ההתקנה נכשלה עקב שגיאה בלתי ידועה</string>
     <string name="uninstall_error_unknown">ההסרה נכשלה עקב שגיאה בלתי ידועה</string>
-    <string name="swap_nfc_description">אם לחברך יש F-Droid ו־NFC פעיל הצמידו את המכשירים שלכם.</string>
+    <string name="swap_nfc_description">אם לחברך יש EDT ו־NFC פעיל הצמידו את המכשירים שלכם.</string>
     <string name="swap_join_same_wifi">הצטרפות לאותה רשת אלחוטית כמו חברך</string>
     <string name="swap_join_this_hotspot">סיוע לחברך להצטרף לנקודת גישה</string>
     <string name="swap">החלפת יישומונים</string>
@@ -141,7 +141,7 @@
     <string name="swap_view_available_networks">נא לגעת כדי לפתוח רשתות זמינות</string>
     <string name="swap_switch_to_wifi">נא לגעת כדי להחליף רשת אלחוטית</string>
     <string name="open_qr_code_scanner">פתיחת סורק QR</string>
-    <string name="swap_welcome">ברוך בואך ל־F-Droid!</string>
+    <string name="swap_welcome">ברוך בואך ל־EDT!</string>
     <string name="swap_confirm_connect">לקבל יישומונים מההתקן %1$s כעת?</string>
     <string name="swap_dont_show_again">לא להציג זאת שוב</string>
     <string name="swap_scan_or_type_url">אדם אחד צריך לסרוק את הקוד, או להקליד את הכתובת של הצד השני בדפדפן.</string>
@@ -154,7 +154,7 @@
     <string name="perms_new_perm_prefix">חדש:</string>
     <string name="perms_description_app">מסופק על ידי %1$s.</string>
     <string name="downloading">מתבצעת הורדה…</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="app_incompatible">אין תאימות</string>
     <string name="back">אחורה</string>
     <string name="repo_searching_address">מתבצע חיפוש אחר מאגר חבילות אצל 
@@ -196,7 +196,7 @@
     <string name="swap_nfc_title">יש לגעת כדי להחליף</string>
     <string name="swap_nearby">החלפה בקרבת מקום</string>
     <string name="swap_cant_find_peers">לא מצאת את מבוקשך?</string>
-    <string name="swap_send_fdroid">שליחת F-Droid</string>
+    <string name="swap_send_fdroid">שליחת EDT</string>
     <string name="apps">יישומונים</string>
     <string name="swap_confirm">אימות ההחלפה</string>
     <string name="swap_qr_isnt_for_swap">קוד ה־QR שסרקת לא נראה כמו קוד החלפה.</string>
@@ -246,7 +246,7 @@
     <string name="empty_search_available_app_list">אין אפליקציות תואמות זמינות.</string>
     <string name="menu_email">שליחת דוא״ל ליוצר</string>
     <string name="antinonfreeassetslist">יישומון זה מכיל נכסים בלתי חופשיים</string>
-    <string name="crash_dialog_title">‏F-Droid קרסה</string>
+    <string name="crash_dialog_title">‏EDT קרסה</string>
     <string name="crash_dialog_text">אירעה שגיאה לא צפויה אשר אילצה את עצירת היישומון. לשלוח בדוא״ל את הפרטים כדי לעזור לפתור את הבעיה?</string>
     <string name="crash_dialog_comment_prompt">ניתן להוסיף מידע והערות בנוסף להלן:</string>
     <string name="repo_provider">מאגר: %s</string>
@@ -397,7 +397,7 @@
     <string name="app_list_download_ready">התקבל, בהמתנה להתקנה</string>
     <string name="status_inserting_x_apps">פרטי היישומון נשמרים (%1$d/%2$d) מתוך %3$s</string>
     <string name="app_installed_media">הקובץ הותקן אל %s</string>
-    <string name="app_permission_storage">ל־F-Droid נדרשת הרשאה לגשת לאחסון כדי להתקין זאת לאחסון. נא להרשות זאת במסך הבא כדי להמשיך בהתקנה.</string>
+    <string name="app_permission_storage">ל־EDT נדרשת הרשאה לגשת לאחסון כדי להתקין זאת לאחסון. נא להרשות זאת במסך הבא כדי להמשיך בהתקנה.</string>
     <string name="app_details__incompatible_mismatched_signature">חתימה שונה מהגרסה המותקנת</string>
     <string name="app_details__no_versions__show_incompat_versions">כדי להציג את הגרסה נטולת התמיכה להלן בכל מקרה, יש להפעיל את ההגדרה „%1$s“.</string>
     <string name="app_details__no_versions__no_compatible_signatures">אין גרסאות עם חתימה תואמת</string>
@@ -470,7 +470,7 @@
     <string name="send_history_csv">%s היסטוריית ההתקנות כקובץ CSV</string>
     <string name="updates_disabled_by_settings">כל העדכונים מושבתים בהגדרות תקשורת הנתונים/רשת אלחוטית</string>
     <string name="send_installed_apps">שיתוף היישומונים המותקנים</string>
-    <string name="send_installed_apps_csv">יישומונים שהותקנו דרך F-Droid כקובץ CSV</string>
+    <string name="send_installed_apps_csv">יישומונים שהותקנו דרך EDT כקובץ CSV</string>
     <string name="menu_open">פתיחה</string>
     <string name="about_forum">פורום תמיכה</string>
     <string name="app_suggested">הצעה</string>
@@ -516,7 +516,7 @@
     <string name="notification_channel_swaps_description">מציג התראות החלפת יישומונים בין עמיתים.</string>
     <string name="notification_channel_swaps_title">החלפות</string>
     <string name="notification_channel_installs_title">התקנות</string>
-    <string name="send_to_fdroid_metrics_summary">שליחת נתונים אלמוניים למדדי F-Droid מדי שבוע (מחייב שמירה על היסטוריית ההתקנות)</string>
+    <string name="send_to_fdroid_metrics_summary">שליחת נתונים אלמוניים למדדי EDT מדי שבוע (מחייב שמירה על היסטוריית ההתקנות)</string>
     <string name="menu_show_install_history">הצגת היסטוריית התקנות</string>
     <string name="menu_show_fdroid_metrics_report">הצגת דוח מדדים</string>
     <string name="toast_metrics_in_install_history">דוח מדדי %s ניתן לצפייה במציג היסטוריית ההתקנות</string>

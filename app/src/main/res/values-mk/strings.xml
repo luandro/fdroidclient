@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="SignatureMismatch">Новата верзија е потпишана со различен клуч од стариот. За да ја инсталирате новата верзија, најпрво деинсталирајте ја старата. Ве молиме направете го ова и обидете се повторно. (Имајте во предвид при деинсталирањето се бришат и податоците од апликацијата.)</string>
     <string name="version">Верзија</string>
     <string name="delete">Избриши</string>
@@ -65,12 +65,12 @@
     <string name="proxy">Прокси</string>
     <string name="try_again">Обиди се повторно</string>
     <string name="touch_to_configure_local_repo">Допрете за да ги видите деталите и да им дозволите на другите да ги разменуваат вашите апликации.</string>
-    <string name="local_repo_running">F-Droid е подготвен да размени</string>
+    <string name="local_repo_running">EDT е подготвен да размени</string>
     <string name="notification_action_install">Инсталирај</string>
     <string name="notification_action_cancel">Откажи</string>
     <string name="notification_action_update">Ажурирање</string>
     <string name="swap_dont_show_again">Не го прикажувај ова повторно</string>
-    <string name="swap_welcome">Добредојдовте на F-Droid!</string>
+    <string name="swap_welcome">Добредојдовте на EDT!</string>
     <string name="category_Writing">Пишување</string>
     <string name="category_Time">Време</string>
     <string name="category_Security">Безбедност</string>
@@ -98,7 +98,7 @@
     <string name="repo_add_fingerprint">Отпечаток од прсти (по избор)</string>
     <string name="app_not_installed">Не е инсталирана</string>
     <string name="about_source">Изворен код</string>
-    <string name="about_title">За F-Droid</string>
+    <string name="about_title">За EDT</string>
     <string name="app_details">Детали за апликацијата</string>
     <string name="repo_edit_credentials">Промени ја лозинката</string>
     <string name="menu_opencollective">OpenCollective</string>
@@ -166,8 +166,8 @@
     <string name="keep_hour">1 час</string>
     <string name="notification_title_single_update_available">Достапно ажурирање</string>
     <string name="crash_dialog_text">Се случи неочекувана грешка принудувајќи ја апликацијата да престане со работа. Дали сакате да ги испратите по е-пошта деталите за да помогнете во поправањето на проблемот\?</string>
-    <string name="crash_dialog_title">F-Droid се урна</string>
-    <string name="swap_send_fdroid">Испрати F-Droid</string>
+    <string name="crash_dialog_title">EDT се урна</string>
+    <string name="swap_send_fdroid">Испрати EDT</string>
     <string name="category_System">Систем</string>
     <string name="category_Sports_Health">Спорт и Здравје</string>
     <string name="not_on_same_wifi">Вашиот уред не е на истиот Wi-Fi како и локалното складиште што го додадовте! Обидете се да се приклучите на оваа мрежа: %s</string>
@@ -248,7 +248,7 @@
     <string name="menu_ignore_all">Игнорирај ги сите ажурирања</string>
     <string name="antinosource">Изворниот код повеќе не е достапен</string>
     <string name="app_installed_media">Датотеката е инсталирана на %s</string>
-    <string name="send_installed_apps_csv">Апликации инсталирани од F-Droid како CSV датотека</string>
+    <string name="send_installed_apps_csv">Апликации инсталирани од EDT како CSV датотека</string>
     <string name="repositories_summary">Додај дополнителни извори на апликации</string>
     <string name="menu_show_fdroid_metrics_report">Прикажи извештај за метрика</string>
     <string name="latest__empty_state__never_updated">Откако ќе се ажурира списокот со апликации, тука треба да се прикажат најновите апликации</string>

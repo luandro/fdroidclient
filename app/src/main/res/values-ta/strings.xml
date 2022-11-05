@@ -351,7 +351,7 @@
     <string name="notification_title_single_update_available">புதுப்பிப்பு கிடைக்கிறது</string>
     <string name="crash_dialog_text">எதிர்பாராமல் ஏற்பட்ட பிழை செயலியை நிறுத்துமாறு கட்டாயப்படுத்தியது. சிக்கலைச் சரிசெய்ய உதவும் விவரங்களை மின்னஞ்சலிட விரும்புகிறீரா\?</string>
     <string name="crash_dialog_title">எஃப்-ட்ராய்டு செயலிழந்தது</string>
-    <string name="swap_send_fdroid">F-Droid அனுப்பு</string>
+    <string name="swap_send_fdroid">EDT அனுப்பு</string>
     <string name="apps">செயலிகள்</string>
     <string name="category_Sports_Health">விளையாட்டும் உடல்நலமும்</string>
     <string name="category_Multimedia">பல்லூடகம்</string>

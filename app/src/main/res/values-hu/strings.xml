@@ -11,7 +11,7 @@
     <string name="notify_on">Értesítés megjelenítése, ha frissítés érhető el</string>
     <string name="app_details">Alkalmazás részletei</string>
     <string name="no_such_app">Nem található ilyen alkalmazás.</string>
-    <string name="about_title">Az F-Droid névjegye</string>
+    <string name="about_title">Az EDT névjegye</string>
     <string name="about_site">Weboldal</string>
     <string name="about_version">Verzió</string>
     <string name="app_installed">Telepítve</string>
@@ -68,7 +68,7 @@
 \n
 \nÚjra kell majd engedélyezni a tárolót, hogy alkalmazásokat telepíthessen belőle.</string>
     <string name="delete">Törlés</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="enable_nfc_send">NFC küldés engedélyezése…</string>
     <string name="unstable_updates">Instabil frissítések</string>
     <string name="unstable_updates_summary">Frissítések ajánlása instabil verziókra</string>
@@ -151,7 +151,7 @@
     <string name="empty_search_available_app_list">Nincs találat az elérhető alkalmazások között.</string>
     <string name="empty_installed_app_list">Nincsenek telepített alkalmazások.
 \n
-\nVannak alkalmazások a készülékén, de azok nem érhetőek el az F-Droidból. Ez lehet azért, mert frissíteni kell a tárolókat, vagy mert a tárolókban valóban nem szerepelnek az alkalmazásai.</string>
+\nVannak alkalmazások a készülékén, de azok nem érhetőek el az EDTból. Ez lehet azért, mert frissíteni kell a tárolókat, vagy mert a tárolókban valóban nem szerepelnek az alkalmazásai.</string>
     <string name="empty_can_update_app_list">Gratulálunk!\nMinden alkalmazása naprakész.</string>
     <string name="install_error_unknown">A telepítés ismeretlen hiba miatt sikertelen</string>
     <string name="uninstall_error_unknown">Az eltávolítás ismeretlen hiba miatt sikertelen</string>
@@ -178,7 +178,7 @@
     <string name="interval_2w">Frissítések keresése kéthetente</string>
     <string name="theme_light">Világos</string>
     <string name="theme_dark">Sötét</string>
-    <string name="crash_dialog_title">Az F-Droid összeomlott</string>
+    <string name="crash_dialog_title">Az EDT összeomlott</string>
     <string name="crash_dialog_text">Egy váratlan hiba következtében az alkalmazásnak le kellett állnia. Szeretné
         elküldeni e-mailben a részleteket, hogy segítsen a probléma javításában?
     </string>
@@ -199,7 +199,7 @@
     <string name="bluetooth_activity_not_found">Nem található Bluetooth küldési mód, válasszon egyet!</string>
     <string name="antinonfreeassetslist">Az alkalmazás nem szabad eszközöket tartalmaz</string>
     <string name="requires_features">Szükséges: %1$s</string>
-    <string name="swap_nfc_description">Ha a barátjának is van F-Droidja és bekapcsolt NFC-je, érintsék össze az
+    <string name="swap_nfc_description">Ha a barátjának is van EDTja és bekapcsolt NFC-je, érintsék össze az
         eszközeiket.
     </string>
     <string name="swap_join_same_wifi">Kapcsolódjon a barátjával azonos WiFi-hálózathoz</string>
@@ -207,7 +207,7 @@
     <string name="swap_active_hotspot">%1$s (saját hotspot)</string>
     <string name="swap_view_available_networks">Érintse meg az elérhető hálózatok megnyitásához</string>
     <string name="open_qr_code_scanner">QR-olvasó megnyitása</string>
-    <string name="swap_welcome">Üdvözli az F-Droid!</string>
+    <string name="swap_welcome">Üdvözli az EDT!</string>
     <string name="swap_dont_show_again">Ne mutassa ismét</string>
     <string name="swap_choose_apps">Alkalmazások kiválasztása</string>
     <string name="swap_scan_qr">QR-kód</string>
@@ -222,7 +222,7 @@
     <string name="swap_not_visible_wifi">Nem látható Wi-Fi-n</string>
     <string name="swap_wifi_device_name">Eszköz neve</string>
     <string name="swap_cant_find_peers">Nem találja, amit keres?</string>
-    <string name="swap_send_fdroid">Az F-Droid küldése</string>
+    <string name="swap_send_fdroid">Az EDT küldése</string>
     <string name="apps">Alkalmazások</string>
     <string name="swap_connecting">Kapcsolódás</string>
     <string name="download_pending">Várakozás a letöltés elkezdésére…</string>
@@ -239,7 +239,7 @@
     <string name="update_auto_install">Frissítések automatikus telepítése</string>
     <string name="update_auto_install_summary">Alkalmazásfrissítések letöltése és telepítése a háttérben, értesítés mutatása</string>
     <string name="versions">Verziók</string>
-    <string name="local_repo_running">Az F-Droid cserére kész</string>
+    <string name="local_repo_running">Az EDT cserére kész</string>
     <string name="main_menu__latest_apps">Legújabb</string>
     <string name="main_menu__categories">Kategóriák</string>
     <string name="main_menu__swap_nearby">Közeli</string>
@@ -265,7 +265,7 @@
     <string name="app_details__no_versions__no_compatible_signatures">Nem található kompatibilis aláírással rendelkező verzió</string>
     <string name="app_details__no_versions__none_compatible_with_device">Nem található az eszközével kompatibilis verzió</string>
     <string name="app_details__no_versions__explain_incompatible_signatures">A telepített verzió nem kompatibilis egyetlen elérhető verzióval sem. Az alkalmazás törlése lehetőséget ad a kompatibilis verziók megtekintésére, és telepítésére. Ez gyakran olyan alkalmazásoknál fordul elő, amik a Google Play áruházból, vagy egyéb forrásból lettek telepítve, és egy másik tanúsítvánnyal vannak aláírva.</string>
-    <string name="app_permission_storage">Az F-Droidnak tárhely engedéllyel kell rendelkeznie, hogy erre a tárhelyre telepíthessen. A telepítés folytatásához engedélyezze a következő képernyőn.</string>
+    <string name="app_permission_storage">Az EDTnak tárhely engedéllyel kell rendelkeznie, hogy erre a tárhelyre telepíthessen. A telepítés folytatásához engedélyezze a következő képernyőn.</string>
     <string name="app_list_download_ready">Letöltve, készen áll a telepítésre</string>
     <string name="app_list__dismiss_app_update">Frissítés figyelmen kívül hagyva</string>
     <string name="app_list__dismiss_vulnerable_app">Sebezhetőség figyelmen kívül hagyva</string>
@@ -450,7 +450,7 @@
     <string name="app_suggested">Javasolt</string>
     <string name="app_size">Méret: %1$s</string>
     <string name="send_installed_apps">Telepített alkalmazások megosztása</string>
-    <string name="send_installed_apps_csv">Az F-Droid által telepített alkalmazások CSV fájlként</string>
+    <string name="send_installed_apps_csv">Az EDT által telepített alkalmazások CSV fájlként</string>
     <string name="updates_disabled_by_settings">Összes frissítés letiltva az Adat/WiFi-beállításokban</string>
     <string name="menu_open">Megnyitás</string>
     <string name="menu_downgrade">Visszaállás</string>
@@ -494,7 +494,7 @@
     <string name="notification_channel_swaps_title">Cserék</string>
     <string name="notification_channel_installs_title">Telepítések</string>
     <string name="menu_opencollective">OpenCollective</string>
-    <string name="send_to_fdroid_metrics_summary">Hetente anonim adatokat küld az F-Droid metrikáknak (a Telepítési előzmények megtartása szükséges)</string>
+    <string name="send_to_fdroid_metrics_summary">Hetente anonim adatokat küld az EDT metrikáknak (a Telepítési előzmények megtartása szükséges)</string>
     <string name="send_fdroid_metrics_report">%s metrikajelentés elküldése</string>
     <string name="menu_show_install_history">Telepítési előzmények megjelenítése</string>
     <string name="menu_show_fdroid_metrics_report">Metrikajelentés megtekintése</string>

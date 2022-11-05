@@ -12,7 +12,7 @@
     <string name="notify">Mostrar actualizaciones disponibles</string>
     <string name="notify_on">Muestra una notificación cuando hay actualizaciones</string>
     <string name="system_installer">Extensión con permisos de sistema</string>
-    <string name="system_installer_on">Utilizar la extensión de F-Droid con permisos de sistema al instalar, actualizar,
+    <string name="system_installer_on">Utilizar la extensión de EDT con permisos de sistema al instalar, actualizar,
         y eliminar paquetes
     </string>
     <string name="local_repo_name">Nombre de su repositorio local</string>
@@ -20,7 +20,7 @@
     <string name="local_repo_https_on">Utilizar conexión HTTPS:// cifrada para el repositorio local</string>
     <string name="app_details">Detalles de la aplicación</string>
     <string name="no_such_app">No se encontró la aplicación.</string>
-    <string name="about_title">Acerca de F-Droid</string>
+    <string name="about_title">Acerca de EDT</string>
     <string name="about_site">Sitio web</string>
     <string name="about_version">Versión</string>
     <string name="app_installed">Instalado</string>
@@ -70,7 +70,7 @@
     <string name="show_incompat_versions">Incluir versiones incompatibles</string>
     <string name="show_incompat_versions_on">Listar las versiones incompatibles de las aplicaciones</string>
     <string name="local_repo">Repo local</string>
-    <string name="local_repo_running">F-Droid está preparado para intercambiar</string>
+    <string name="local_repo_running">EDT está preparado para intercambiar</string>
     <string name="touch_to_configure_local_repo">Tocar para ver los detalles y permitir a otros intercambiar aplicaciones.</string>
     <string name="deleting_repo">Borrando repositorio actual…</string>
     <string name="adding_apks_format">Agregando %s al repositorio…</string>
@@ -131,15 +131,15 @@
     <string name="category_Science_Education">Ciencia y educación</string>
     <string name="category_Security">Seguridad</string>
     <string name="category_System">Sistema</string>
-    <string name="swap_nfc_description">Si su amigo y usted tienen F-Droid y han activado el NFC, pongan en contacto sus teléfonos.</string>
+    <string name="swap_nfc_description">Si su amigo y usted tienen EDT y han activado el NFC, pongan en contacto sus teléfonos.</string>
     <string name="swap_join_same_wifi">Unirse a la misma red Wi-Fi que su amigo</string>
     <string name="swap">Intercambiar aplicaciones</string>
     <string name="swap_no_wifi_network">No hay red aún</string>
     <string name="swap_view_available_networks">Tocar para abrir las redes disponibles</string>
     <string name="open_qr_code_scanner">Abrir el escáner de códigos QR</string>
-    <string name="swap_welcome">¡Bienvenido a F-Droid!</string>
+    <string name="swap_welcome">¡Bienvenido a EDT!</string>
     <string name="swap_confirm_connect">¿Quiere obtener aplicaciones desde %1$s ahora\?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="about_source">Código fuente</string>
     <string name="app_incompatible">Incompatible</string>
     <string name="links">Enlaces</string>
@@ -162,7 +162,7 @@
     <string name="category_Writing">Escritura</string>
     <string name="empty_installed_app_list">No hay aplicaciones instaladas.
 \n
-\nHay aplicaciones en su dispositivo, pero no están disponibles desde F-Droid. Esto podría ser porque necesita actualizar los repositorios, o porque los repositorios no tienen esas aplicaciones.</string>
+\nHay aplicaciones en su dispositivo, pero no están disponibles desde EDT. Esto podría ser porque necesita actualizar los repositorios, o porque los repositorios no tienen esas aplicaciones.</string>
     <string name="empty_can_update_app_list">¡Enhorabuena!
 \nSus aplicaciones están actualizadas.</string>
     <string name="install_error_unknown">Fallo al instalar debido a un error desconocido</string>
@@ -242,7 +242,7 @@
     <string name="repo_error_empty_username">Nombre de usuario vacío, las credenciales no se han cambiado</string>
     <string name="about_license">Licencia</string>
     <string name="status_inserting_apps">Guardando los detalles de la aplicación</string>
-    <string name="crash_dialog_title">F-Droid se ha detenido</string>
+    <string name="crash_dialog_title">EDT se ha detenido</string>
     <string name="crash_dialog_text">La aplicación se ha cerrado debido a un error inesperado. ¿Le gustaría enviarnos un correo electrónico con los detalles para ayudarnos a arreglar el problema\?</string>
     <string name="crash_dialog_comment_prompt">Puede añadir información extra y comentarios aquí:</string>
     <string name="antinonfreeassetslist">Esta aplicación contiene recursos que no son libres</string>
@@ -270,7 +270,7 @@
     <string name="update_auto_install_summary">Descargar e instalar las actualizaciones en segundo plano</string>
     <string name="update_auto_install">Instalar las actualizaciones automáticamente</string>
     <string name="keep_install_history">Mantener el historial de instalaciones</string>
-    <string name="keep_install_history_summary">Guardar un registro de todas las instalaciones y desinstalaciones de F-Droid</string>
+    <string name="keep_install_history_summary">Guardar un registro de todas las instalaciones y desinstalaciones de EDT</string>
     <string name="warning_no_internet">No se puede actualizar. ¿Está conectado a Internet\?</string>
     <string name="versions">Versiones</string>
     <string name="app_details_donate_prompt_unknown_author">¡Invite a los desarrolladores de %1$s a un café!</string>
@@ -383,7 +383,7 @@
     <string name="app_list_download_ready">Descargado, listo para instalar</string>
     <string name="status_inserting_x_apps">Guardando detalles de la aplicación (%1$d/%2$d) desde %3$s</string>
     <string name="app_installed_media">Archivo instalado en %s</string>
-    <string name="app_permission_storage">F-Droid necesita permiso para instalar esto en su almacenamiento. Por favor, permita en la siguiente pantalla que se continúe con la instalación.</string>
+    <string name="app_permission_storage">EDT necesita permiso para instalar esto en su almacenamiento. Por favor, permita en la siguiente pantalla que se continúe con la instalación.</string>
     <string name="app_details__incompatible_mismatched_signature">La firma no coincide con la de la versión instalada</string>
     <string name="app_details__no_versions__show_incompat_versions">Para mostrar versiones incompatibles aquí de todos modos, habilita la opción \"%1$s\".</string>
     <string name="app_details__no_versions__no_compatible_signatures">No hay versiones con una firma compatible</string>
@@ -462,7 +462,7 @@
     <string name="app_suggested">Sugerido</string>
     <string name="app_size">Tamaño: %1$s</string>
     <string name="send_installed_apps">Compartir aplicaciones instaladas</string>
-    <string name="send_installed_apps_csv">Aplicaciones instaladas por F-Droid como archivo CSV</string>
+    <string name="send_installed_apps_csv">Aplicaciones instaladas por EDT como archivo CSV</string>
     <string name="menu_open">Abrir</string>
     <string name="menu_downgrade">Desactualizar</string>
     <string name="antinosourcesince">El código fuente ya no está disponible, no se puede actualizar.</string>
@@ -509,7 +509,7 @@
     <string name="menu_show_install_history">Mostrar historial de instalación</string>
     <string name="menu_show_fdroid_metrics_report">Mostrar reporte de métricas</string>
     <string name="toast_metrics_in_install_history">El reporte de métricas %s se puede visualizar en el visor del historial de instalaciones</string>
-    <string name="send_to_fdroid_metrics_summary">Enviar información anónima semanalmente a métricas F-Droid(requiere historial de instalación Keep)</string>
+    <string name="send_to_fdroid_metrics_summary">Enviar información anónima semanalmente a métricas EDT(requiere historial de instalación Keep)</string>
     <string name="send_to_fdroid_metrics">Enviar información de uso</string>
     <string name="fdroid_metrics_report">%s Reporte de métricas</string>
     <string name="install_history_and_metrics">Instalar historial y métricas</string>

@@ -17,7 +17,7 @@
     <string name="local_repo_https_on">Connexió xifrada (HTTPS://) per als dipòsits locals</string>
     <string name="app_details">Detalls de l\'aplicació</string>
     <string name="no_such_app">No s\'ha trobat l\'aplicació.</string>
-    <string name="about_title">Quant a l\'F-Droid</string>
+    <string name="about_title">Quant a l\'EDT</string>
     <string name="about_site">Pàgina web</string>
     <string name="about_version">Versió</string>
     <string name="app_installed">Instal·lat</string>
@@ -66,7 +66,7 @@
     <string name="show_incompat_versions">Inclou versions incompatibles</string>
     <string name="show_incompat_versions_on">Mostra també les versions de les aplicacions que no son compatibles amb el dispositiu</string>
     <string name="local_repo">Dipòsit local</string>
-    <string name="local_repo_running">F-Droid està a punt per a l\'intercanvi</string>
+    <string name="local_repo_running">EDT està a punt per a l\'intercanvi</string>
     <string name="touch_to_configure_local_repo">Toqueu per veure més detalls i permetre l\'intercanvi d\'aplicacions.</string>
     <string name="deleting_repo">S\'està esborrant el dipòsit actual…</string>
     <string name="adding_apks_format">Afegint %s al dipòsit…</string>
@@ -134,9 +134,9 @@
     <string name="swap_no_wifi_network">No esteu connectats a cap xarxa</string>
     <string name="swap_view_available_networks">(Toqueu per mostrar les xarxes disponibles)</string>
     <string name="open_qr_code_scanner">Obre l\'escàner de codis QR</string>
-    <string name="swap_welcome">Benvingut a F-Droid!</string>
+    <string name="swap_welcome">Benvingut a EDT!</string>
     <string name="swap_confirm_connect">Voleu baixar aplicacions des de %1$s ara?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="about_source">Codi font</string>
     <string name="app_incompatible">no compatible</string>
     <string name="links">Enllaços</string>
@@ -190,7 +190,7 @@
     <string name="perms_description_app">Proporcionat per %1$s.</string>
     <string name="downloading">S\'està baixant…</string>
     <string name="empty_installed_app_list">Cap aplicació instal·lada\n\nTeniu aplicacions al vostre dispositiu, però no
-        estan disponibles a F-Droid. Això podria ser perquè necessiteu actualitzar els repositoris o perquè els
+        estan disponibles a EDT. Això podria ser perquè necessiteu actualitzar els repositoris o perquè els
         repositoris no contenen les vostres aplicacions.
     </string>
     <string name="install_error_unknown">La instal·lació ha fallat per un error desconegut</string>
@@ -201,7 +201,7 @@
         informeu d\'aquest error!
     </string>
     <string name="swap_nfc_title">Toqueu per intercanviar</string>
-    <string name="swap_nfc_description">Si l\'altra persona té l\'F-Droid i l\'NFC encesos, feu que els dispositius es toquin.</string>
+    <string name="swap_nfc_description">Si l\'altra persona té l\'EDT i l\'NFC encesos, feu que els dispositius es toquin.</string>
     <string name="swap_join_same_wifi_desc">Per intercanviar utilitzant Wi-Fi, assegureu-vos que us trobeu a la mateixa
         xarxa. Si no teniu accés a la mateixa xarxa un de vosaltres pot crear un punt d\'accés Wi-Fi.
     </string>
@@ -225,7 +225,7 @@
     <string name="swap_not_visible_wifi">No visible mitjançant Wi-Fi</string>
     <string name="swap_wifi_device_name">Nom del dispositiu</string>
     <string name="swap_cant_find_peers">No trobeu a qui esteu cercant?</string>
-    <string name="swap_send_fdroid">Envia l\'F-Droid</string>
+    <string name="swap_send_fdroid">Envia l\'EDT</string>
     <string name="apps">Aplicacions</string>
     <string name="swap_no_peers_nearby">No s\'ha trobat ningú a prop amb qui intercanviar.</string>
     <string name="swap_connecting">S\'està connectant</string>
@@ -246,7 +246,7 @@
     <string name="about_license">Llicència</string>
     <string name="empty_search_available_app_list">Cap coincidència amb les aplicacions disponibles.</string>
     <string name="status_inserting_apps">S\'estan desant els detalls de l\'aplicació</string>
-    <string name="crash_dialog_title">Ha fallat l\'F-Droid</string>
+    <string name="crash_dialog_title">Ha fallat l\'EDT</string>
     <string name="crash_dialog_text">S\'ha aturat l\'aplicació per un error inesperat. Voleu enviar els detalls per correu-e per ajudar a resoldre la incidència\?</string>
     <string name="crash_dialog_comment_prompt">Podeu afegir informació addicional i comentaris aquí:</string>
     <string name="antinonfreeassetslist">Aquesta aplicació conté parts no lliures</string>
@@ -384,7 +384,7 @@
     <string name="app_details__no_versions__none_compatible_with_device">No hi ha cap versió compatible amb el dispositiu</string>
     <string name="app_details__no_versions__explain_incompatible_signatures">La versió instal·lada no és compatible amb cap versió disponible. Desinstal·leu la versió actual i podreu instal·lar versions compatibles. Això succeeix amb versions del Google Play o altres fonts que tenen un certificat i signatura diferent.</string>
     <string name="app_installed_media">Fitxer instal·lat a %s</string>
-    <string name="app_permission_storage">F-Droid necessita permisos d\'emmagatzematge per instal·lar. Doneu permisos a la pantalla següent per procedir amb la instal·lació.</string>
+    <string name="app_permission_storage">EDT necessita permisos d\'emmagatzematge per instal·lar. Doneu permisos a la pantalla següent per procedir amb la instal·lació.</string>
     <string name="app_list_download_ready">S\'ha baixat i ja es pot instal·lar</string>
     <string name="app_list__dismiss_app_update">Actualització ignorada</string>
     <string name="app_list__dismiss_vulnerable_app">Vulnerabilitat ignorada</string>
@@ -461,7 +461,7 @@
     <string name="app_suggested">Suggerit</string>
     <string name="app_size">Mida: %1$s</string>
     <string name="send_installed_apps">Comparteix aplicacions instal·lades</string>
-    <string name="send_installed_apps_csv">Apps instal·lades per F-Droid a través d\'un fitxer CSV</string>
+    <string name="send_installed_apps_csv">Apps instal·lades per EDT a través d\'un fitxer CSV</string>
     <string name="menu_open">Obrir</string>
     <string name="menu_downgrade">Revertir versió</string>
     <string name="scan_removable_storage_title">Escaneja l\'emmagatzematge extraïble</string>
@@ -512,7 +512,7 @@
     <string name="menu_show_install_history">Mostra l\'historial d\'instal·lacions</string>
     <string name="menu_show_fdroid_metrics_report">Mostra l\'informe de mètriques</string>
     <string name="toast_metrics_in_install_history">L\'informe mètriques %s es pot visualitzar al visor de l\'historial d\'instal·lacions</string>
-    <string name="send_to_fdroid_metrics_summary">Envia setmanalment dades anònimes a les mètriques F-Droid (requereix mantenir historial d’instal·lacions)</string>
+    <string name="send_to_fdroid_metrics_summary">Envia setmanalment dades anònimes a les mètriques EDT (requereix mantenir historial d’instal·lacions)</string>
     <string name="send_to_fdroid_metrics">Enviar dades d\'ús</string>
     <string name="fdroid_metrics_report">Informe de mètriques %s</string>
     <string name="install_history_and_metrics">Instal·la l\'històric i les mètriques</string>

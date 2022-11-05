@@ -21,7 +21,7 @@
     <string name="local_repo_https_on">Usar conexão HTTPS:// criptografada para o repositório local</string>
     <string name="app_details">Detalhes do aplicativo</string>
     <string name="no_such_app">O aplicativo não foi encontrado.</string>
-    <string name="about_title">Sobre o F-Droid</string>
+    <string name="about_title">Sobre o EDT</string>
     <string name="about_site">Página web</string>
     <string name="about_version">Versão</string>
     <string name="app_installed">Instalado</string>
@@ -63,7 +63,7 @@
     <string name="antinonfreenetlist">Este aplicativo promove serviços de rede não livres</string>
     <string name="antinonfreedeplist">Este aplicativo depende de aplicativos não livres</string>
     <string name="antiupstreamnonfreelist">O código fonte original não é totalmente livre</string>
-    <string name="display">Aparência do F-Droid</string>
+    <string name="display">Aparência do EDT</string>
     <string name="expert">Modo avançado</string>
     <string name="expert_on">Mostrar informações extras e habilitar os ajustes extras</string>
     <string name="search_hint">Procurar aplicativos</string>
@@ -71,7 +71,7 @@
     <string name="show_incompat_versions">Incluir versões incompatíveis</string>
     <string name="show_incompat_versions_on">Mostrar versões de aplicativos que são incompatíveis com o dispositivo</string>
     <string name="local_repo">Repositório local</string>
-    <string name="local_repo_running">O F-Droid está pronto para permutar</string>
+    <string name="local_repo_running">O EDT está pronto para permutar</string>
     <string name="touch_to_configure_local_repo">Toque para ver detalhes e permitir que outros permutem seus aplicativos.</string>
     <string name="deleting_repo">Apagando o repositório atual…</string>
     <string name="adding_apks_format">Adicionando %s ao repositório…</string>
@@ -133,7 +133,7 @@
     <string name="category_Science_Education">Ciência &amp; Educação</string>
     <string name="category_Security">Segurança</string>
     <string name="category_System">Sistema</string>
-    <string name="swap_nfc_description">Caso seu(sua) amigo(a) tenha o F-Droid e NFC ligados, ponham os seus
+    <string name="swap_nfc_description">Caso seu(sua) amigo(a) tenha o EDT e NFC ligados, ponham os seus
         dispositivos juntos.
     </string>
     <string name="swap_join_same_wifi">Juntar-se a mesma rede Wi-Fi do(a) seu(sua) amigo(a)</string>
@@ -141,9 +141,9 @@
     <string name="swap_no_wifi_network">Nenhuma rede ainda</string>
     <string name="swap_view_available_networks">Toque para abrir as redes disponíveis</string>
     <string name="open_qr_code_scanner">Abrir o leitor de código QR</string>
-    <string name="swap_welcome">Bem-vindo ao F-Droid!</string>
+    <string name="swap_welcome">Bem-vindo ao EDT!</string>
     <string name="swap_confirm_connect">Você quer obter aplicativos de %1$s agora?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="app_incompatible">Incompatível</string>
     <string name="links">Links</string>
     <string name="back">Voltar</string>
@@ -157,7 +157,7 @@
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_ap">Ponto de acesso</string>
     <string name="empty_installed_app_list">Nenhum aplicativo instalado.\n\nExistem aplicativos no seu dispositivo, mas
-        eles não estão disponíveis pelo F-Droid. Isso pode ser porque você precisa atualizar seus repositórios, ou os
+        eles não estão disponíveis pelo EDT. Isso pode ser porque você precisa atualizar seus repositórios, ou os
         repositórios realmente não têm os seus aplicativos disponíveis.
     </string>
     <string name="empty_can_update_app_list">Parabéns!
@@ -196,7 +196,7 @@
     <string name="swap_not_visible_wifi">Não visível por Wi-Fi</string>
     <string name="swap_wifi_device_name">Nome do dispositivo</string>
     <string name="swap_cant_find_peers">Não consegue achar quem você está procurando?</string>
-    <string name="swap_send_fdroid">Enviar F-Droid</string>
+    <string name="swap_send_fdroid">Enviar EDT</string>
     <string name="apps">Aplicativos</string>
     <string name="swap_no_peers_nearby">Não foi possível encontrar pessoas próximas para permutar.</string>
     <string name="swap_connecting">Conectando</string>
@@ -249,7 +249,7 @@
     <string name="status_inserting_apps">Salvando detalhes dos aplicativos</string>
     <string name="empty_search_available_app_list">Nenhum aplicativo correspondente disponível.</string>
     <string name="antinonfreeassetslist">Este aplicativo contém conteúdo não livre</string>
-    <string name="crash_dialog_title">O F-Droid travou</string>
+    <string name="crash_dialog_title">O EDT travou</string>
     <string name="crash_dialog_text">Ocorreu um erro inesperado,
         forçando a parada do aplicativo. Gostaria de enviar um e-mail
         com os detalhes para ajudar a corrigir o problema?
@@ -386,7 +386,7 @@
     <string name="force_old_index">Forçar um formato de índice antigo</string>
     <string name="force_old_index_summary">Se existirem bugs ou problemas de compatibilidade, use o índice XML do aplicativo</string>
     <string name="app_installed_media">Arquivos instalados em %s</string>
-    <string name="app_permission_storage">O F-Droid precisa da permissão de armazenamento para instalar isso no armazenamento. Por favor, permita-o na próxima tela para prosseguir com a instalação.</string>
+    <string name="app_permission_storage">O EDT precisa da permissão de armazenamento para instalar isso no armazenamento. Por favor, permita-o na próxima tela para prosseguir com a instalação.</string>
     <string name="app_list_download_ready">Baixado, pronto para instalar</string>
     <string name="status_inserting_x_apps">Salvando detalhes do aplicativo (%1$d/%2$d) de %3$s</string>
     <string name="app_details__incompatible_mismatched_signature">Assinatura diferente para versão instalada</string>
@@ -464,7 +464,7 @@
     <string name="updates_disabled_by_settings">Todas as atualizações estão desativadas por causa das configurações de Dados/WiFi</string>
     <string name="antinosourcesince">Não é possível atualizar, o código fonte não está mais disponível.</string>
     <string name="send_installed_apps">Compartilhar aplicativos instalados</string>
-    <string name="send_installed_apps_csv">Aplicativos instalados por F-Droid com arquivo CSV</string>
+    <string name="send_installed_apps_csv">Aplicativos instalados por EDT com arquivo CSV</string>
     <string name="menu_open">Abrir</string>
     <string name="share_repository">Compartilhar Repositório</string>
     <string name="about_forum">Fórum de suporte</string>
@@ -517,7 +517,7 @@
     <string name="fdroid_metrics_report">%s Relatório das Métricas</string>
     <string name="send_fdroid_metrics_json">%s relatório das métricas como arquivo JSON</string>
     <string name="send_fdroid_metrics_report">Enviar %s Relatório das Métricas</string>
-    <string name="send_to_fdroid_metrics_summary">Enviar dados anônimos semanalmente para F-Droid Métricas (exige Manter histórico de instalação)</string>
+    <string name="send_to_fdroid_metrics_summary">Enviar dados anônimos semanalmente para EDT Métricas (exige Manter histórico de instalação)</string>
     <string name="send_to_fdroid_metrics">Enviar dados de uso</string>
     <string name="install_history_and_metrics">Instalar histórico e métricas</string>
     <string name="theme_follow_system">O mesmo do sistema</string>

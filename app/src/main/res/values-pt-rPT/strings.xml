@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="SignatureMismatch">A nova versão está assinada com uma chave diferente da antiga. Para instalar a nova versão, tem que desinstalar a antiga. Remova a app e tente novamente. (Tenha em atenção que irá apagar todos os dados guardados pela app)</string>
     <string name="installIncompatible">A aplicação não é compatível com o seu aparelho. Deseja tentar a instalação\?</string>
     <string name="version">Versão</string>
@@ -15,13 +15,13 @@
     <string name="notify">Mostrar atualizações disponíveis</string>
     <string name="notify_on">Mostrar uma notificação se existirem atualizações disponíveis</string>
     <string name="system_installer">Extensão privilegiada</string>
-    <string name="system_installer_on">Utilizar a extensão do F-Droid com permissões de sistema para instalar, atualizar e remover pacotes</string>
+    <string name="system_installer_on">Utilizar a extensão do EDT com permissões de sistema para instalar, atualizar e remover pacotes</string>
     <string name="local_repo_name">Nome do seu repositório local</string>
     <string name="local_repo_name_summary">O título anunciado do seu repositório local: %s</string>
     <string name="local_repo_https_on">Utilizar ligação HTTPS:// para o repositório local</string>
     <string name="app_details">Detalhes da aplicação</string>
     <string name="no_such_app">Aplicação não encontrada.</string>
-    <string name="about_title">Acerca de F-Droid</string>
+    <string name="about_title">Acerca de EDT</string>
     <string name="about_version">Versão</string>
     <string name="about_site">Site</string>
     <string name="about_source">Código-fonte</string>
@@ -81,7 +81,7 @@
     <string name="show_incompat_versions">Incluir versões incompatíveis</string>
     <string name="show_incompat_versions_on">Mostrar versões incompatíveis com o seu aparelho</string>
     <string name="local_repo">Repositório local</string>
-    <string name="local_repo_running">F-Droid está pronto para a troca</string>
+    <string name="local_repo_running">EDT está pronto para a troca</string>
     <string name="touch_to_configure_local_repo">Toque para ver os detalhes e permitir a troca de aplicações.</string>
     <string name="deleting_repo">A remover o repositório atual…</string>
     <string name="adding_apks_format">A adicionar %s ao repositório…</string>
@@ -161,7 +161,7 @@
     <string name="category_Writing">Escrita</string>
     <string name="empty_installed_app_list">Não existem aplicações instaladas.
 \n
-\nExistem aplicações no seu aparelho que não estão disponíveis em F-Droid. Talvez tenha que atualizar os seus repositórios ou então as suas aplicações não existem nos repositórios adicionados.</string>
+\nExistem aplicações no seu aparelho que não estão disponíveis em EDT. Talvez tenha que atualizar os seus repositórios ou então as suas aplicações não existem nos repositórios adicionados.</string>
     <string name="empty_can_update_app_list">Parabéns!\nAs suas aplicações estão atualizadas.</string>
     <string name="install_error_unknown">Falha na instalação devido a um erro desconhecido</string>
     <string name="uninstall_error_unknown">Falha ao desinstalar devido a um erro desconhecido</string>
@@ -169,7 +169,7 @@
         favor reporte este erro!
     </string>
     <string name="swap_nfc_title">Toque para trocar</string>
-    <string name="swap_nfc_description">Se a outra pessoa tiver F-Droid instalada e NFC ativo, aproximem os vossos aparelhos.</string>
+    <string name="swap_nfc_description">Se a outra pessoa tiver EDT instalada e NFC ativo, aproximem os vossos aparelhos.</string>
     <string name="swap_join_same_wifi">Junte-se à mesma rede Wi-Fi da outra pessoa</string>
     <string name="swap_join_same_wifi_desc">Para trocar através de Wi-Fi, certifique-se que estão ambos na mesma rede. Se não estiverem na mesma rede, um de vós pode criar um ponto de acesso (hotspot) Wi-Fi.</string>
     <string name="swap_join_this_hotspot">Ajude a outra pessoa a entrar no seu ponto de acesso</string>
@@ -180,12 +180,12 @@
     <string name="swap_view_available_networks">Toque para abrir as redes disponíveis</string>
     <string name="swap_switch_to_wifi">Toque para mudar para uma rede Wi-Fi</string>
     <string name="open_qr_code_scanner">Abrir leitor de código QR</string>
-    <string name="swap_welcome">Bem-vindo a F-Droid!</string>
+    <string name="swap_welcome">Bem-vindo a EDT!</string>
     <string name="swap_dont_show_again">Não mostrar novamente</string>
     <string name="swap_choose_apps">Escolher aplicações</string>
     <string name="swap_wifi_device_name">Nome do aparelho</string>
     <string name="swap_cant_find_peers">Não encontra o que procura?</string>
-    <string name="swap_send_fdroid">Enviar F-Droid</string>
+    <string name="swap_send_fdroid">Enviar EDT</string>
     <string name="apps">Apps</string>
     <string name="swap_connecting">Conectando</string>
     <string name="loading">Carregando…</string>
@@ -242,7 +242,7 @@
     <string name="status_inserting_apps">A guardar detalhes das aplicações</string>
     <string name="empty_search_available_app_list">Não há aplicações correspondentes.</string>
     <string name="antinonfreeassetslist">Esta aplicação contém conteúdo não livre</string>
-    <string name="crash_dialog_title">O F-Droid terminou abruptamente</string>
+    <string name="crash_dialog_title">O EDT terminou abruptamente</string>
     <string name="crash_dialog_text">Ocorreu um erro inesperado e a app foi encerrada. Gostaria de nos enviar um e-mail com os detalhes do erro\?</string>
     <string name="crash_dialog_comment_prompt">Pode adicionar algumas informações e comentários aqui:</string>
     <string name="menu_email">E-mail do autor</string>
@@ -373,7 +373,7 @@
     <string name="force_old_index">Impor formato de índice antigo</string>
     <string name="force_old_index_summary">Se ocorrerem erros ou incompatibilidades, utilizar o índice XML</string>
     <string name="app_installed_media">Ficheiro instalado em %s</string>
-    <string name="app_permission_storage">F-Droid necessita de aceder ao armazenamento. Por favor conceda essa permissão no próximo ecrã para continuar com a instalação.</string>
+    <string name="app_permission_storage">EDT necessita de aceder ao armazenamento. Por favor conceda essa permissão no próximo ecrã para continuar com a instalação.</string>
     <string name="app_list_download_ready">Descarregada e pronta para instalar</string>
     <string name="status_inserting_x_apps">A guardar detalhes da aplicação (%1$d/%2$d) de %3$s</string>
     <string name="app_details__incompatible_mismatched_signature">Assinatura diferente da versão instalada</string>
@@ -452,7 +452,7 @@
     <string name="send_history_csv">%s histórico de instalações como ficheiro CSV</string>
     <string name="send_version_and_uuid_summary">Inclui a versão da aplicação e uma ID aleatória única ao descarregar. Surte efeito após reiniciar a aplicação.</string>
     <string name="send_installed_apps">Partilhar aplicações instaladas</string>
-    <string name="send_installed_apps_csv">Aplicações instaladas por F-Droid como ficheiro CSV</string>
+    <string name="send_installed_apps_csv">Aplicações instaladas por EDT como ficheiro CSV</string>
     <string name="menu_open">Abrir</string>
     <string name="about_forum">Fórum de suporte</string>
     <string name="app_suggested">Sugerida</string>
@@ -501,7 +501,7 @@
     <string name="menu_show_install_history">Mostrar histórico de instalações</string>
     <string name="menu_show_fdroid_metrics_report">Mostrar relatório de métrica</string>
     <string name="toast_metrics_in_install_history">O relatório de métrica %s pode ser visto no visualizador de histórico</string>
-    <string name="send_to_fdroid_metrics_summary">Enviar semanalmente dados anónimos de métrica F-Droid (requer Manter histórico de instalações)</string>
+    <string name="send_to_fdroid_metrics_summary">Enviar semanalmente dados anónimos de métrica EDT (requer Manter histórico de instalações)</string>
     <string name="send_to_fdroid_metrics">Enviar dados de utilização</string>
     <string name="fdroid_metrics_report">Relatório de métrica %s</string>
     <string name="install_history_and_metrics">Histórico de instalações e métrica</string>

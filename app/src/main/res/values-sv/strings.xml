@@ -18,7 +18,7 @@
     <string name="local_repo_https_on">Använd krypterad HTTPS://-anslutning för lokalt förråd</string>
     <string name="app_details">Detaljer för app</string>
     <string name="no_such_app">Hittade ingen sådan app.</string>
-    <string name="about_title">Om F-Droid</string>
+    <string name="about_title">Om EDT</string>
     <string name="about_site">Webbplats</string>
     <string name="about_version">Version</string>
     <string name="app_installed">Installerad</string>
@@ -68,7 +68,7 @@
     <string name="show_incompat_versions">Inkludera inkompatibla versioner</string>
     <string name="show_incompat_versions_on">Visa appversioner som är inkompatibla med enheten</string>
     <string name="local_repo">Lokalt förråd</string>
-    <string name="local_repo_running">F-Droid är redo att utbyta</string>
+    <string name="local_repo_running">EDT är redo att utbyta</string>
     <string name="touch_to_configure_local_repo">Tryck för att se detaljer och tillåta andra att utbyta appar med dig.</string>
     <string name="deleting_repo">Tar bort aktuellt förråd…</string>
     <string name="adding_apks_format">Lägger till %s i förråd…</string>
@@ -133,9 +133,9 @@
     <string name="swap_no_wifi_network">Inget nätverk ännu</string>
     <string name="swap_view_available_networks">Tryck för att öppna tillgängliga nätverk</string>
     <string name="open_qr_code_scanner">Öppna QR-läsare</string>
-    <string name="swap_welcome">Välkommen till F-Droid!</string>
+    <string name="swap_welcome">Välkommen till EDT!</string>
     <string name="swap_confirm_connect">Vill du ta emot appar från %1$s nu?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="unstable_updates">Instabila uppdateringar</string>
     <string name="unstable_updates_summary">Föreslå uppdateringar till instabila versioner</string>
     <string name="app_incompatible">Inkompatibel</string>
@@ -184,7 +184,7 @@
     <string name="category_Writing">Skrivande</string>
     <string name="empty_search_available_app_list">Inga matchande applikationer är tillgängliga.</string>
     <string name="empty_installed_app_list">Inga appar har installerats.\n\nDet finns appar på din enhet, men de är inte
-        tillgängliga från F-Droid. Detta kan bero på att du behöver uppdatera dina förråd, eller så har förråden
+        tillgängliga från EDT. Detta kan bero på att du behöver uppdatera dina förråd, eller så har förråden
         verkligen inte dina appar tillgängliga.
     </string>
     <string name="empty_can_update_app_list">Grattis!\nDina appar är uppdaterade.</string>
@@ -193,7 +193,7 @@
     <string name="uninstall_error_unknown">Det gick inte att avinstallera på grund av ett okänt fel</string>
     <string name="system_install_denied_permissions">De privilegierade tillstånden har inte beviljats utökningen! Skapa en felrapport!</string>
     <string name="swap_nfc_title">Tryck för att byta</string>
-    <string name="swap_nfc_description">Om din vän har F-Droid och NFC påslaget, lägg samman era enheter.</string>
+    <string name="swap_nfc_description">Om din vän har EDT och NFC påslaget, lägg samman era enheter.</string>
     <string name="swap_join_same_wifi_desc">För att utbyta via wifi, se till att ni är på samma nätverk. Om ni inte har åtkomst till samma nätverk, kan en av er skapa en wifi-surfzon.</string>
     <string name="swap_join_this_hotspot">Hjälp din vän ansluta sig till din surfzon</string>
     <string name="swap_success">Utbyte lyckades!</string>
@@ -215,7 +215,7 @@
     <string name="swap_not_visible_wifi">Inte synlig via Wi-Fi</string>
     <string name="swap_wifi_device_name">Enhetsnamn</string>
     <string name="swap_cant_find_peers">Det går inte att hitta den du söker?</string>
-    <string name="swap_send_fdroid">Skicka F-Droid</string>
+    <string name="swap_send_fdroid">Skicka EDT</string>
     <string name="apps">Appar</string>
     <string name="swap_no_peers_nearby">Kunde inte hitta personer i närheten att utbyta med.</string>
     <string name="swap_connecting">Ansluter</string>
@@ -246,7 +246,7 @@
     <string name="interval_2w">Leta efter uppdateringar varannan vecka</string>
     <string name="theme_light">Ljust</string>
     <string name="theme_dark">Mörkt</string>
-    <string name="crash_dialog_title">F-Droid har kraschat</string>
+    <string name="crash_dialog_title">EDT har kraschat</string>
     <string name="crash_dialog_text">Ett oväntat fel tvingade appen att avslutas. Vill du skicka detaljer med e-post för att hjälpa till att åtgärda problemet?</string>
     <string name="crash_dialog_comment_prompt">Du kan lägga till ytterligare information och kommentarer här:</string>
     <string name="swap_nearby">Byta ut i närheten</string>
@@ -372,7 +372,7 @@
     <string name="force_old_index">Tvinga gammalt indexformat</string>
     <string name="force_old_index_summary">Om det finns fel eller kompatibilitetsproblem, använd XML-appindexet</string>
     <string name="app_installed_media">Fil installerad till %s</string>
-    <string name="app_permission_storage">F-Droid behöver lagringstillstånd för att installera detta till lagring. Vänligen tillåt det på nästa skärm för att fortsätta med installationen.</string>
+    <string name="app_permission_storage">EDT behöver lagringstillstånd för att installera detta till lagring. Vänligen tillåt det på nästa skärm för att fortsätta med installationen.</string>
     <string name="app_list_download_ready">Hämtad, redo att installeras</string>
     <string name="status_inserting_x_apps">Sparar appdetaljer (%1$d/%2$d) från %3$s</string>
     <string name="app_details__incompatible_mismatched_signature">Olika signaturer till installerad version</string>
@@ -450,7 +450,7 @@
     <string name="send_history_csv">%s installera historiken som en CSV-fil</string>
     <string name="updates_disabled_by_settings">Alla uppdateringar inaktiverades av Mobildata/Wi-Fi-inställningar</string>
     <string name="send_installed_apps">Dela installerade appar</string>
-    <string name="send_installed_apps_csv">Appar installerade av F-Droid som CSV-fil</string>
+    <string name="send_installed_apps_csv">Appar installerade av EDT som CSV-fil</string>
     <string name="menu_open">Öppna</string>
     <string name="antinosourcesince">Källkoden är inte längre tillgänglig, inga uppdateringar möjliga.</string>
     <string name="about_forum">Supportforum</string>
@@ -500,7 +500,7 @@
     <string name="menu_show_install_history">Visa installationshistorik</string>
     <string name="menu_show_fdroid_metrics_report">Visa mätvärdesrapport</string>
     <string name="toast_metrics_in_install_history">%s-mätvärdesrapporten är synlig i Install History-visaren</string>
-    <string name="send_to_fdroid_metrics_summary">Skickar anonyma data varje vecka till F-Droid Metrics (kräver Behåll installationshistorik)</string>
+    <string name="send_to_fdroid_metrics_summary">Skickar anonyma data varje vecka till EDT Metrics (kräver Behåll installationshistorik)</string>
     <string name="send_to_fdroid_metrics">Skicka användningsdata</string>
     <string name="fdroid_metrics_report">%s-mätvärdesrapport</string>
     <string name="install_history_and_metrics">Installera historik och mätvärden</string>

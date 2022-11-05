@@ -10,12 +10,12 @@
     <string name="notify">Parādīt pieejamos atjauninājumus</string>
     <string name="notify_on">Uzrādīt paziņojumu, kad atjauninājumi ir pieejami</string>
     <string name="system_installer">Priviliģētais Papildinājums</string>
-    <string name="system_installer_on">Izmantot F-Droid Priviliģēto Papildinājumu, lai instalētu, atjauninātu un dzēstu pakotnes</string>
+    <string name="system_installer_on">Izmantot EDT Priviliģēto Papildinājumu, lai instalētu, atjauninātu un dzēstu pakotnes</string>
     <string name="local_repo_name">Jūsu Lokālā Repozitorija nosaukums</string>
     <string name="local_repo_https_on">Izmantot šifrētu HTTPS:// savienojumu priekš lokālās repozitorijas</string>
     <string name="app_details">Informācija par programmu</string>
     <string name="no_such_app">Šāda aplikācija netika atrasta.</string>
-    <string name="about_title">Par F-Droid</string>
+    <string name="about_title">Par EDT</string>
     <string name="about_site">Mājaslapa</string>
     <string name="about_version">Versija</string>
     <string name="app_installed">Ieinstalēts</string>
@@ -80,7 +80,7 @@
     <string name="category_Navigation">Navigācija</string>
     <string name="category_Reading">Lasījumam</string>
     <string name="category_Time">Laiks</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="back">Atpakaļ</string>
     <string name="main_menu__latest_apps">Jaunumi</string>
     <string name="main_menu__categories">Kategorijas</string>
@@ -105,8 +105,8 @@
     <string name="not_on_same_wifi">Jūsu ierīce nav tajā pašā Wi-Fi tīklā kā pēdējais repozitorijs, ko jūs pievienojāt! Mēģiniet pievienoties šim tīklam: %s</string>
     <string name="category_Sports_Health">Sports un veselība</string>
     <string name="category_System">Sistēmas</string>
-    <string name="swap_send_fdroid">Sūtīt F-Droid</string>
-    <string name="crash_dialog_title">F-Droid beidza strādāt</string>
+    <string name="swap_send_fdroid">Sūtīt EDT</string>
+    <string name="crash_dialog_title">EDT beidza strādāt</string>
     <string name="crash_dialog_text">Nezināma kļūme lika aplikācijai beigt strādāt. Vai jūs vēlētos nosūtīt e-pastu ar informāciju, lai palīdzētu salabot šo problēmu?</string>
     <string name="notification_title_single_update_available">Pieejams atjauninājums</string>
     <string name="notification_title_summary_install_error">Instalācija neizdevās</string>
@@ -143,7 +143,7 @@
     <string name="category_Science_Education">Zinātne un Izglītība</string>
     <string name="category_Security">Drošība</string>
     <string name="category_Writing">Rakstīšana</string>
-    <string name="swap_welcome">Sveicināti F-Droid!</string>
+    <string name="swap_welcome">Sveicināti EDT!</string>
     <string name="swap_dont_show_again">Turpmāk nerādīt šo</string>
     <string name="prompt_to_send_crash_reports">Pavēlēt, lai nosūta avārijas pārskatus</string>
     <string name="prompt_to_send_crash_reports_summary">Apkopot datus par avārijām un paprasīt, lai tos nosūta izstrādātājam</string>
@@ -167,7 +167,7 @@
     <string name="app_details__no_versions__explain_incompatible_signatures">Ieinstelētā versija nav saderīga ar jebkuru pieejamu versiju. Atinstalējot aplikāciju ļaus jums apskatīt un ieinstalēt saderīgu versiju. Šīs parasti notiek ar aplikācijām, kuras tika ieinstalētas izmantojot Google Play veikalu vai no kāda cita avota, ja tie ir tikuši parakstīti ar citu sertifikātu.</string>
     <string name="about_forum">Atbalsta forums</string>
     <string name="app_suggested">Ieteiktie</string>
-    <string name="app_permission_storage">F-Droid ir nepieciešams krātuves piekļuve lai ieinstalētu šo uz krātuves. Lūdzu atļaut to nākamējā paziņojumā lai varētu turpināt ar lejupielādi.</string>
+    <string name="app_permission_storage">EDT ir nepieciešams krātuves piekļuve lai ieinstalētu šo uz krātuves. Lūdzu atļaut to nākamējā paziņojumā lai varētu turpināt ar lejupielādi.</string>
     <string name="app_size">Izmērs: %1$s</string>
     <string name="app_list_download_ready">Lejupielādēts, gatavs instalācijai</string>
     <string name="app_list__dismiss_app_update">Atjauninājums ignorēts</string>
@@ -210,7 +210,7 @@
     <string name="app_repository">Repositorija: %1$s</string>
     <string name="scan_removable_storage_title">Skenēt noņemamo krātuvi</string>
     <string name="toast_metrics_in_install_history">%s Rādītāju ziņojums ir redzams Instalēšanas Vēstures skatītājā</string>
-    <string name="send_to_fdroid_metrics_summary">Nosūta anonīmus datus katru nedēļu uz F-Droid Rādītājiem (nepieciešams saglabāt instalāciju vēsturi)</string>
+    <string name="send_to_fdroid_metrics_summary">Nosūta anonīmus datus katru nedēļu uz EDT Rādītājiem (nepieciešams saglabāt instalāciju vēsturi)</string>
     <string name="send_to_fdroid_metrics">Sūtīt lietojuma datus</string>
     <string name="fdroid_metrics_report">%s Rādītāju Reports</string>
     <string name="install_history_and_metrics">Instalēt vēsturi un rādītājus</string>
@@ -302,7 +302,7 @@
     <string name="swap_join_this_hotspot">Palīdziet savam draugam pievienoties jūsu karstpunktam</string>
     <string name="swap_join_same_wifi_desc">Lai dalītos, izmantojot Wi-Fi, pārliecinieties, ka esat tajā pašā tīklā. Ja jums nav piekļuves tam pašam tīklam, viens no jums var izveidot Wi-Fi karstpunktu.</string>
     <string name="swap_join_same_wifi">Savienoties ar drauga Wi-Fi</string>
-    <string name="swap_nfc_description">Ja jūsu draugam ir F-Droid un NFC ieslēgts salieciet savas ierīces kopā.</string>
+    <string name="swap_nfc_description">Ja jūsu draugam ir EDT un NFC ieslēgts salieciet savas ierīces kopā.</string>
     <string name="swap_nfc_title">Spiediet lai apmainītos</string>
     <string name="nearby_splash__request_permission">Izmēģiniet</string>
     <string name="nearby_splash__both_parties_need_fdroid">Abām pusēm ir nepieciešams %1$s, lai izmantotu dalīšanos.</string>
@@ -358,7 +358,7 @@
     <string name="try_again">Mēģināt vēlreiz</string>
     <string name="icon">Ikona</string>
     <string name="deleting_repo">Izdzēš tagadējo repozitoriju…</string>
-    <string name="local_repo_running">F-Droid ir gatavs mijmaiņai</string>
+    <string name="local_repo_running">EDT ir gatavs mijmaiņai</string>
     <string name="local_repo">Vietējā Krātuve</string>
     <string name="force_touch_apps_on">Rādīt lietotnes, kas prasa skārienekrānu, neatkarīgi no aparatūras atbalsta</string>
     <string name="force_touch_apps">Ietvert skārienekrāna lietotnes</string>

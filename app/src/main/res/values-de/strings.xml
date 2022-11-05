@@ -18,7 +18,7 @@
     <string name="local_repo_https_on">Verschlüsselte HTTPS://-Verbindung zur lokalen Paketquelle verwenden</string>
     <string name="app_details">App-Details</string>
     <string name="no_such_app">Keine solche App gefunden.</string>
-    <string name="about_title">Über F-Droid</string>
+    <string name="about_title">Über EDT</string>
     <string name="about_site">Internetseite</string>
     <string name="about_version">Version</string>
     <string name="app_installed">Installiert</string>
@@ -68,7 +68,7 @@
     <string name="show_incompat_versions">Inkompatible Versionen einbeziehen</string>
     <string name="show_incompat_versions_on">Mit diesem Gerät inkompatible App-Versionen anzeigen</string>
     <string name="local_repo">Lokale Paketquelle</string>
-    <string name="local_repo_running">F-Droid ist zum Tausch bereit</string>
+    <string name="local_repo_running">EDT ist zum Tausch bereit</string>
     <string name="touch_to_configure_local_repo">Berühren, um die Details anzusehen und anderen einen App-Tausch mit Ihnen zu ermöglichen.</string>
     <string name="deleting_repo">Aktuelle Paketquelle löschen …</string>
     <string name="adding_apks_format">%s zur Paketquelle hinzufügen …</string>
@@ -130,7 +130,7 @@
     <string name="category_Science_Education">Wissenschaft &amp; Bildung</string>
     <string name="category_Security">Sicherheit</string>
     <string name="category_System">System</string>
-    <string name="swap_nfc_description">Wenn Ihr Freund F-Droid und NFC aktiviert hat, bitte die Geräte aneinander
+    <string name="swap_nfc_description">Wenn Ihr Freund EDT und NFC aktiviert hat, bitte die Geräte aneinander
         halten.
     </string>
     <string name="swap_join_same_wifi">Bitte mit demselben WLAN wie Ihr Freund verbinden</string>
@@ -138,7 +138,7 @@
     <string name="swap_no_wifi_network">Noch kein Netzwerk</string>
     <string name="swap_view_available_networks">Antippen, um verfügbare Netzwerke zu öffnen</string>
     <string name="open_qr_code_scanner">QR-Code-Scanner öffnen</string>
-    <string name="swap_welcome">Willkommen bei F-Droid!</string>
+    <string name="swap_welcome">Willkommen bei EDT!</string>
     <string name="swap_confirm_connect">Möchten Sie jetzt Apps von %1$s erhalten?</string>
     <string name="about_source">Quellcode</string>
     <string name="app_incompatible">Inkompatibel</string>
@@ -155,7 +155,7 @@
     <string name="category_Time">Zeit</string>
     <string name="install_error_unknown">Installation aufgrund eines unbekannten Fehlers fehlgeschlagen</string>
     <string name="uninstall_error_unknown">Deinstallation wegen unbekanntem Fehler fehlgeschlagen</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="unstable_updates">Instabile Aktualisierungen</string>
     <string name="unstable_updates_summary">Aktualisierungen für instabile Versionen vorschlagen</string>
     <string name="menu_changelog">Änderungen</string>
@@ -174,9 +174,9 @@
     <string name="less">Weniger</string>
     <string name="empty_installed_app_list">Keine Apps installiert.
 \n
-\nEs sind Apps auf Ihrem Gerät installiert, aber keine davon ist von F-Droid abrufbar. Das könnte daran liegen, dass Sie Ihre Paketquellen aktualisieren müssen oder diese tatsächlich keine Ihrer Apps beinhalten.</string>
+\nEs sind Apps auf Ihrem Gerät installiert, aber keine davon ist von EDT abrufbar. Das könnte daran liegen, dass Sie Ihre Paketquellen aktualisieren müssen oder diese tatsächlich keine Ihrer Apps beinhalten.</string>
     <string name="empty_can_update_app_list">Glückwunsch!\nIhre Apps sind auf dem neuesten Stand.</string>
-    <string name="swap_send_fdroid">F-Droid senden</string>
+    <string name="swap_send_fdroid">EDT senden</string>
     <string name="apps">Apps</string>
     <string name="swap_connecting">Verbindungsaufbau</string>
     <string name="interval_never">Keine automatischen App-Aktualisierungen</string>
@@ -247,7 +247,7 @@
     <string name="about_license">Lizenz</string>
     <string name="status_inserting_apps">App-Details speichern</string>
     <string name="empty_search_available_app_list">Keine passenden Apps verfügbar.</string>
-    <string name="crash_dialog_title">F-Droid ist abgestürzt</string>
+    <string name="crash_dialog_title">EDT ist abgestürzt</string>
     <string name="crash_dialog_comment_prompt">Sie können zusätzliche Informationen und Kommentare hier einfügen:</string>
     <string name="antinonfreeassetslist">Diese App enthält nicht-quelloffene Bestandteile</string>
     <string name="crash_dialog_text">Die App wurde durch einen unerwarteten Fehler beendet. Möchten Sie die Details als E-Mail versenden, um eine Fehlerbehebung zu unterstützen\?</string>
@@ -381,7 +381,7 @@
     <string name="force_old_index_summary">Bei Fehlern oder Kompatibilitätsproblemen den XML-App-Index verwenden</string>
     <string name="app_list_download_ready">Heruntergeladen und bereit zur Installation</string>
     <string name="app_installed_media">Datei wurde nach %s installiert</string>
-    <string name="app_permission_storage">F-Droid benötigt Zugriffsrechte auf den Speicher, um es dort zu installieren. Bitte beim nächsten Bildschirm bestätigen, um mit der Installation fortzufahren.</string>
+    <string name="app_permission_storage">EDT benötigt Zugriffsrechte auf den Speicher, um es dort zu installieren. Bitte beim nächsten Bildschirm bestätigen, um mit der Installation fortzufahren.</string>
     <string name="status_inserting_x_apps">App-Details (%1$d/%2$d) von %3$s speichern</string>
     <string name="app_details__incompatible_mismatched_signature">Abweichende Signatur zur installierten Version</string>
     <string name="app_details__no_versions__show_incompat_versions">Um hier in jedem Fall inkompatible Versionen anzuzeigen, aktivieren Sie die Einstellung »%1$s«.</string>
@@ -459,7 +459,7 @@
     <string name="updates_disabled_by_settings">Mobilfunk-/WLAN-Einstellungen verhindern sämtliche Aktualisierungen</string>
     <string name="send_history_csv">%s Installationsverlauf als CSV-Datei</string>
     <string name="send_installed_apps">Installierte Apps freigeben</string>
-    <string name="send_installed_apps_csv">Von F-Droid installierte Apps als CSV-Datei</string>
+    <string name="send_installed_apps_csv">Von EDT installierte Apps als CSV-Datei</string>
     <string name="menu_open">Öffnen</string>
     <string name="about_forum">Support-Forum</string>
     <string name="app_suggested">Vorgeschlagen</string>
@@ -505,7 +505,7 @@
     <string name="notification_channel_swaps_description">Zeigt Benachrichtigungen zum Austausch von Apps via P2P an.</string>
     <string name="notification_channel_installs_title">Installationen</string>
     <string name="toast_metrics_in_install_history">Der %s Metrikenbericht ist sichtbar in der Ansicht des Installationsverlaufes</string>
-    <string name="send_to_fdroid_metrics_summary">Sendet wöchentlich anonymisierte Daten zu F-Droid Metriken (erfordert das Behalten des Installationsverlaufes)</string>
+    <string name="send_to_fdroid_metrics_summary">Sendet wöchentlich anonymisierte Daten zu EDT Metriken (erfordert das Behalten des Installationsverlaufes)</string>
     <string name="send_to_fdroid_metrics">Nutzungsdaten senden</string>
     <string name="fdroid_metrics_report">%s Metrikenbericht</string>
     <string name="install_history_and_metrics">Installationsverlauf und Metriken</string>

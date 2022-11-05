@@ -46,12 +46,12 @@
     <string name="more">Mear</string>
     <string name="updates__tts__download_app">Downloade</string>
     <string name="app_list__name__successfully_installed">%1$s is ynstalleare</string>
-    <string name="about_title">Oer F-Droid</string>
+    <string name="about_title">Oer EDT</string>
     <string name="notification_action_cancel">Ôfbrekke</string>
     <string name="notification_action_update">Fernije</string>
     <string name="newPerms">Nij</string>
     <string name="swap_dont_show_again">Nea wer sjen litte</string>
-    <string name="swap_welcome">Wolkom by F-Droid!</string>
+    <string name="swap_welcome">Wolkom by EDT!</string>
     <string name="category_Writing">Skrieuwe</string>
     <string name="category_Time">Tiid</string>
     <string name="category_Security">Befeiliging</string>
@@ -101,7 +101,7 @@
     <string name="no">Nee</string>
     <string name="ok">OK</string>
     <string name="updates">Fernijingen</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="category_Multimedia">Multimedia</string>
     <string name="pref_language_default">Systeem Standert</string>
     <string name="pref_language">Taal</string>
@@ -125,8 +125,8 @@
     <string name="enable_nfc_send">NFC ferstjoeren Ynskeakelje…</string>
     <string name="installIncompatible">De app is ynkompatibel mei jo apparaat, dochs ynstallearje\?</string>
     <string name="crash_dialog_text">In ûnferwachte fout hat harren foardien, en de app mat no stopje. Wolle jo de details e-maile om te helpen dit probleem op te lossen\?</string>
-    <string name="crash_dialog_title">F-Droid is fêstrûn</string>
-    <string name="swap_send_fdroid">F-Droid Stjoere</string>
+    <string name="crash_dialog_title">EDT is fêstrûn</string>
+    <string name="swap_send_fdroid">EDT Stjoere</string>
     <string name="not_on_same_wifi">Jo apparaat sit net op itselde Wi-Fi as it lokale bewarplak dy jo krekt ta foecht ha! Probearje mei dit netwurk te ferbinen: %s</string>
     <string name="repo_last_update">Lêste fernijing</string>
     <string name="repo_details">Bewarplak</string>
@@ -141,7 +141,7 @@
     <string name="adding_apks_format">Foegje %s ta oan opslachplak…</string>
     <string name="deleting_repo">Aktuele opslachplak fuortsmite…</string>
     <string name="touch_to_configure_local_repo">Reitsje oan om details te sjen en oaren ta te stean jo applikaasjes te wikseljen.</string>
-    <string name="local_repo_running">F-Droid is klear om te wikseljen</string>
+    <string name="local_repo_running">EDT is klear om te wikseljen</string>
     <string name="local_repo">Lokaal Opslachplak</string>
     <string name="force_touch_apps">Apps sjen litte dy in touchscreen nedich hawwe</string>
     <string name="show_anti_feature_apps_on">Apps sjen litte dy ôfhinklik binne fan anty-funksjes</string>
@@ -230,7 +230,7 @@
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">We hawwe in risiko foar de feiligens fûn yn %1$s. We riede oan om dizze applikaasje no op dit momint fuort te smiten.</string>
     <string name="installed_app__updates_ignored_for_suggested_version">Fernijingen negearre foar Ferzje %1$s</string>
     <string name="installed_app__updates_ignored">Fernijingen negearre</string>
-    <string name="send_installed_apps_csv">Apps troch F-Droid ynstallearre as CSV bestân</string>
+    <string name="send_installed_apps_csv">Apps troch EDT ynstallearre as CSV bestân</string>
     <string name="send_installed_apps">Ynstallearre applikaasjes diele</string>
     <string name="installed_apps__activity_title">Ynstallearre Applikaasjes</string>
     <string name="app_list__dismiss_downloading_app">Download ôfbrutsen</string>
@@ -261,7 +261,7 @@
     <string name="update_interval">Tiidsromte tusken automatyske fernijingen</string>
     <string name="send_version_and_uuid_summary">De ferzje fan dizze applikaasje en in willekeuriche en unike ID gearfoegje by it downloaden, wurket pas nei it opnij opstarten fan de applikaasje.</string>
     <string name="send_version_and_uuid">Ferzje en UUID nei tsjinners stjoere</string>
-    <string name="send_to_fdroid_metrics_summary">Anonym wykliks data ferstjoere nei F-Droid Metrics (fereasket dat jo de ynstallaasje skiednis byhâlde)</string>
+    <string name="send_to_fdroid_metrics_summary">Anonym wykliks data ferstjoere nei EDT Metrics (fereasket dat jo de ynstallaasje skiednis byhâlde)</string>
     <string name="keep_install_history_summary">Hâld in log by fan alle ynstallaasjes en de-ynstallaasjes yn in privee opslachplak</string>
     <string name="install_history_summary">Besjoch it privee log fan alle ynstallaasjes en de-ynstallaasjes</string>
     <string name="fdroid_metrics_report">%s Gegevens Rapport</string>

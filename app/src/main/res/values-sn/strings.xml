@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
 
     <string name="version">Vhezheni</string>
     <string name="delete">Dzima</string>
@@ -8,7 +8,7 @@
     <string name="updates">Zvitsva zvakanatswa</string>
     <string name="keep_install_history">Chengeta makare ezvivakirira</string>
     <string name="keep_install_history_summary">Pfimbika rutarwa rwezvivakirira nezvivakirira zvakabviswa mukati
-        meF-Droid
+        meEDT
     </string>
     <string name="update_interval">Chimirwa chakanatswa chiri automatic</string>
     <string name="update_auto_download">Tutunura zvekunatsa zviri automatic</string>
@@ -19,7 +19,7 @@
     <string name="notify">Zviziviso zvekunatsa</string>
     <string name="notify_on">Ratidza chiziviso kana zvekunatsa zvavapo</string>
     <string name="system_installer">Tambanudzo dzine chihesvuro</string>
-    <string name="system_installer_on">Shandisa tambanudzo inechihesvuro yeF-Droid kuti uvakirire, unatse nekubvisa
+    <string name="system_installer_on">Shandisa tambanudzo inechihesvuro yeEDT kuti uvakirire, unatse nekubvisa
         mapakeji
     </string>
     <string name="local_repo_name">Zita repfimbi rakamanikwa</string>
@@ -36,7 +36,7 @@
     <string name="app_details">Zvizere zve App</string>
     <string name="no_such_app">Hapana app yakadaro yawanikwa.</string>
 
-    <string name="about_title">Nezve F-Droid</string>
+    <string name="about_title">Nezve EDT</string>
     <string name="about_version">Vhezheni</string>
     <string name="about_site">Nezve Website</string>
     <string name="about_source">Nyuko yemurau</string>
@@ -121,7 +121,7 @@
     <string name="show_incompat_versions_on">Raridza mavhezheni eapp asingawirirane nemuchina</string>
 
     <string name="local_repo">Pfimbi yakamanikwa</string>
-    <string name="local_repo_running">F-Droid yakagadzirira kutsinhana</string>
+    <string name="local_repo_running">EDT yakagadzirira kutsinhana</string>
     <string name="touch_to_configure_local_repo">Bata kuti uwone zvizere nekubvumidza vamwe kuti vatsinhana maApps
         ako.
     </string>
@@ -199,7 +199,7 @@
     <string name="unknown">Haizivikanwe</string>
     <string name="repo_confirm_delete_title">Dzima Pfimbi?</string>
     <string name="repo_confirm_delete_body">Kudzima pfimbi kunoreva kuti
-        maApps kubva mairi haachakwanisa kwanikwa kubva kuF-Droid
+        maApps kubva mairi haachakwanisa kwanikwa kubva kuEDT
 
         Ziviso: Ese
         maApp akambo vakirirwa acharamba ari pamuchina wako.
@@ -209,8 +209,8 @@
         Uchada
         kubvumidza pfimbi iyi zvakare kuti uvakirire kubva kwairi.
     </string>
-    <string name="repo_added">Pfimbi yeF-Droid yachengetedzwa %1$s.</string>
-    <string name="repo_searching_address">Pfimbi yeF-Droid irikutsvagirwa pa
+    <string name="repo_added">Pfimbi yeEDT yachengetedzwa %1$s.</string>
+    <string name="repo_searching_address">Pfimbi yeEDT irikutsvagirwa pa
         %1$s
     </string>
     <string name="not_on_same_wifi">Muchina wako hausi pamasaisai eWi-Fi mamwe chete nepfimbi yakamanikwa yawabva
@@ -243,7 +243,7 @@
 
     <string name="empty_installed_app_list">Hapana maApps akavakirirwa
 
-        Pane maApps pamuchina wako, asi haapo kubva kuF-Droid. Izvi zvinogona kudaro nekuti unofanirwa kunatsa pfimbi
+        Pane maApps pamuchina wako, asi haapo kubva kuEDT. Izvi zvinogona kudaro nekuti unofanirwa kunatsa pfimbi
         dzako, kana kuti pfimbi dzako hadzina maApps ako zvechokwadi.
     </string>
     <string name="empty_can_update_app_list">MaApps ose akanatswa.
@@ -258,7 +258,7 @@
         dudziro rezvipfukuto!
     </string>
 
-    <string name="swap_nfc_description">Kana shamwari yako yakabatidza F-Droid neNFC ita kuti michina yenyu ibatane.
+    <string name="swap_nfc_description">Kana shamwari yako yakabatidza EDT neNFC ita kuti michina yenyu ibatane.
     </string>
     <string name="swap_join_same_wifi">Hakira paWi-Fi imwe chete seshamwari yako</string>
     <string name="swap_nfc_title">Bata kuti utsinhana</string>
@@ -274,7 +274,7 @@
     <string name="swap_view_available_networks">Bata kuti uvhure masaisai aripo</string>
     <string name="swap_switch_to_wifi">Bata kuti uchinje kuenda pane mamwe masaisai eWi-Fi</string>
     <string name="open_qr_code_scanner">Vhura Scanner yeQR</string>
-    <string name="swap_welcome">Titambire paF-Droid!</string>
+    <string name="swap_welcome">Titambire paEDT!</string>
     <string name="swap_confirm_connect">Unoda kuwana maApps kubva pa %1$s izvozvi?</string>
     <string name="swap_dont_show_again">Usaratidza izvi zve</string>
     <string name="swap_scan_or_type_url">Munhu mumwe chete anoda kunzvera murau, kana kunyora URL yeimwe yacho
@@ -295,7 +295,7 @@
     <string name="swap_not_visible_wifi">Haisi kuwoneka nenzira yeWi-Fi</string>
     <string name="swap_wifi_device_name">Zita remuchina</string>
     <string name="swap_cant_find_peers">Hausi kuwona munhu wauri kutsvaga here?</string>
-    <string name="swap_send_fdroid">Tumira F-Droid</string>
+    <string name="swap_send_fdroid">Tumira EDT</string>
     <string name="swap_no_peers_nearby">Hauna kuwana vanhu vari pedyo newe vekutsinhana.</string>
     <string name="swap_connecting">Kuhakira</string>
     <string name="swap_confirm">Tsinhira kutsinhana</string>
@@ -357,7 +357,7 @@
     <string name="theme_light">Chiedza</string>
     <string name="theme_dark">Rima</string>
 
-    <string name="crash_dialog_title">F-Droid yabondera</string>
+    <string name="crash_dialog_title">EDT yabondera</string>
     <string name="crash_dialog_text">Pane kanganiso isina kutarisirwa yaitika
         yamanikidza Application kuti imire. Unoda kunyora tsamba mbozha
         ine zvizerekuti ubatsire kugadzira dambudziko iri here?

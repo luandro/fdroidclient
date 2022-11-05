@@ -96,13 +96,13 @@
     <string name="more">مزید</string>
     <string name="updates__tts__download_app">ڈاؤن لوڈ کریں</string>
     <string name="app_list__name__successfully_installed">%1$s انسٹال ہو گیا</string>
-    <string name="about_title">F-Droid کے بارے میں</string>
+    <string name="about_title">EDT کے بارے میں</string>
     <string name="app_list__name__downloading_in_progress">%1$s ڈاؤن لوڈ ہو رہا ہے</string>
     <string name="notification_title_summary_install_error">لگانا ناکامیاب</string>
     <string name="notification_title_single_update_available">اپ ڈیٹ دستیاب ہے</string>
     <string name="crash_dialog_text">ایپ کو روکنے پر مجبور کرنے میں ایک غیر متوقع خرابی پیش آگئی۔ کیا آپ مسئلے کو حل کرنے میں مدد کے لیے تفصیلات ای میل کرنا چاہیں گے؟</string>
     <string name="crash_dialog_title">ف- ڈیوڈ تباہ ہو گیا</string>
-    <string name="swap_send_fdroid">F-Droid بھیجیں۔</string>
+    <string name="swap_send_fdroid">EDT بھیجیں۔</string>
     <string name="category_System">نظام</string>
     <string name="category_Sports_Health">کھیل اور صحت</string>
     <string name="not_on_same_wifi">آپ کی ڈیوائس اسی وائی فائی پر نہیں ہے جیسا کہ مقامی ریپو آپ نے ابھی شامل کیا ہے! اس نیٹ ورک میں شامل ہونے کی کوشش کریں: %s
@@ -175,7 +175,7 @@
     <string name="app_incompatible">ناموافق</string>
     <string name="app_size">سائز:%1$s</string>
     <string name="app_repository">ذخیرہ:%1$s</string>
-    <string name="app_permission_storage">F-Droid کو اسٹوریج میں انسٹال کرنے کے لیے اسٹوریج کی اجازت درکار ہے۔ براہ کرم اسے اگلی سکرین پر انسٹالیشن کے ساتھ آگے بڑھنے دیں۔</string>
+    <string name="app_permission_storage">EDT کو اسٹوریج میں انسٹال کرنے کے لیے اسٹوریج کی اجازت درکار ہے۔ براہ کرم اسے اگلی سکرین پر انسٹالیشن کے ساتھ آگے بڑھنے دیں۔</string>
     <string name="app_installed_media">فائل%s پر انسٹال ہو گئی</string>
     <string name="app_version_x_installed">ورژن%1$s</string>
     <string name="app_list__dismiss_app_update">اپ ڈیٹ نظر انداز کر دیا گیا</string>
@@ -201,7 +201,7 @@
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">ہمیں%1$s کے ساتھ ایک کمزوری ملی۔ ہم اس ایپ کو فوری طور پر انسٹال کرنے کی تجویز کرتے ہیں۔</string>
     <string name="installed_app__updates_ignored_for_suggested_version">ورژن%1$s کیلئے اپ ڈیٹس کو نظر انداز کر دیا گیا۔</string>
     <string name="installed_app__updates_ignored">اپ ڈیٹس کو نظر انداز کر دیا گیا۔</string>
-    <string name="send_installed_apps_csv">F-Droid کے ذریعہ بطور CSV فائل انسٹال کردہ ایپس۔</string>
+    <string name="send_installed_apps_csv">EDT کے ذریعہ بطور CSV فائل انسٹال کردہ ایپس۔</string>
     <string name="repo_add_title">نیا ذخیرہ شامل کریں۔</string>
     <string name="updates__show_updateable_apps">ایپس دکھائیں۔</string>
     <string name="update_all">تمام تجدید کریں</string>
@@ -277,7 +277,7 @@
     <string name="adding_apks_format">%s کو ریپو میں شامل کیا جا رہا ہے…</string>
     <string name="deleting_repo">موجودہ ریپو کو حذف کیا جا رہا ہے…</string>
     <string name="touch_to_configure_local_repo">تفصیلات دیکھنے کے لیے ٹچ کریں اور دوسروں کو آپ کے ایپس کو تبدیل کرنے کی اجازت دیں۔</string>
-    <string name="local_repo_running">F-Droid تبدیل کرنے کے لیے تیار ہے۔</string>
+    <string name="local_repo_running">EDT تبدیل کرنے کے لیے تیار ہے۔</string>
     <string name="local_repo">مقامی ریپو۔</string>
     <string name="force_touch_apps_on">ہارڈ ویئر سپورٹ سے قطع نظر ٹچ اسکرین کی ضرورت والی ایپس دکھائیں۔</string>
     <string name="force_touch_apps">ٹچ اسکرین ایپس شامل کریں۔</string>
@@ -314,7 +314,7 @@
 \nآپ کی ایپس تازہ ترین ہیں۔</string>
     <string name="empty_installed_app_list">کوئی ایپس انسٹال نہیں ہیں۔
 \n
-\nآپ کے آلے پر ایپس موجود ہیں ، لیکن وہ F-Droid سے دستیاب نہیں ہیں۔ اس کی وجہ یہ ہوسکتی ہے کہ آپ کو اپنے ذخیروں کو اپ ڈیٹ کرنے کی ضرورت ہے ، یا ذخیروں میں حقیقی طور پر آپ کے ایپس دستیاب نہیں ہیں۔</string>
+\nآپ کے آلے پر ایپس موجود ہیں ، لیکن وہ EDT سے دستیاب نہیں ہیں۔ اس کی وجہ یہ ہوسکتی ہے کہ آپ کو اپنے ذخیروں کو اپ ڈیٹ کرنے کی ضرورت ہے ، یا ذخیروں میں حقیقی طور پر آپ کے ایپس دستیاب نہیں ہیں۔</string>
     <plurals name="button_view_all_apps_in_category">
         <item quantity="one">%d دیکھیں</item>
         <item quantity="other">تمام%d دیکھیں</item>

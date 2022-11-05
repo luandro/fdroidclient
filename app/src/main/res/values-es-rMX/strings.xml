@@ -21,8 +21,8 @@
     <string name="notification_title_summary_install_error">Error al instalar</string>
     <string name="notification_title_single_update_available">Actualización disponible</string>
     <string name="crash_dialog_text">Se ha producido un error inesperado que obliga a la aplicación a detenerse. ¿Desea enviar por correo electrónico los detalles para ayudar a solucionar el problema\?</string>
-    <string name="crash_dialog_title">F-Droid se ha estrellado</string>
-    <string name="swap_send_fdroid">Enviar F-Droid</string>
+    <string name="crash_dialog_title">EDT se ha estrellado</string>
+    <string name="swap_send_fdroid">Enviar EDT</string>
     <string name="category_System">Sistema</string>
     <string name="category_Sports_Health">Deportes &amp; Salud</string>
     <string name="wifi">Wi-Fi</string>
@@ -38,14 +38,14 @@
     <string name="updates__tts__download_app">Descargar</string>
     <string name="app_list__name__successfully_installed">%1$s instalado</string>
     <string name="app_list__name__downloading_in_progress">Descargando %1$s</string>
-    <string name="about_title">Acerca de F-Droid</string>
+    <string name="about_title">Acerca de EDT</string>
     <string name="app_details">Los Detalles De La Aplicación</string>
     <string name="notification_action_install">Instalar</string>
     <string name="notification_action_cancel">Cancelar</string>
     <string name="notification_action_update">Actualizar</string>
     <string name="newPerms">Nuevo</string>
     <string name="swap_dont_show_again">No volver a mostrar</string>
-    <string name="swap_welcome">¡Bienvenido a F-Droid!</string>
+    <string name="swap_welcome">¡Bienvenido a EDT!</string>
     <string name="category_Writing">Escribiendo</string>
     <string name="category_Time">Hora</string>
     <string name="category_Security">Seguridad</string>
@@ -84,7 +84,7 @@
     <string name="yes">Si</string>
     <string name="ok">Aceptar</string>
     <string name="updates">Actualizaciones</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="notify">Mostrar actualizaciones disponibles</string>
     <string name="theme_dark">Oscuro</string>
     <string name="theme_light">Claro</string>
@@ -185,7 +185,7 @@
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Encontramos una vulnerabilidad con %1$s. Recomendamos desinstalar esta aplicación inmediatamente.</string>
     <string name="installed_app__updates_ignored_for_suggested_version">Actualizaciones ignoradas para la versión %1$s</string>
     <string name="installed_app__updates_ignored">Actualizaciones ignoradas</string>
-    <string name="send_installed_apps_csv">Aplicaciones instaladas por F-Droid como archivo CSV</string>
+    <string name="send_installed_apps_csv">Aplicaciones instaladas por EDT como archivo CSV</string>
     <string name="send_installed_apps">Compartir aplicaciones instaladas</string>
     <string name="installed_apps__activity_title">Aplicaciones instaladas</string>
     <string name="app_list__dismiss_downloading_app">Descarga cancelada</string>
@@ -216,7 +216,7 @@
     <string name="force_old_index">Forzar inicio con formato antiguo</string>
     <string name="send_version_and_uuid_summary">Incluir la versión de esta aplicación y un ID único y aleatorio cuando se descarga. Requiere reinicio.</string>
     <string name="send_version_and_uuid">Envíar versión y UUID a los servidores</string>
-    <string name="keep_install_history_summary">Guardar un registro de todas las instalaciones y desinstalaciones de F-Droid</string>
+    <string name="keep_install_history_summary">Guardar un registro de todas las instalaciones y desinstalaciones de EDT</string>
     <string name="no_such_app">No se ha encontrado dicha aplicación.</string>
     <string name="swap_scan_qr">Código QR</string>
     <string name="app_details__no_versions__explain_incompatible_signatures">La versión instalada no es compatible con ninguna de las versiones disponibles. Desinstalar la aplicación te permitirá ver e instalar las versiones compatibles. Esto suele ocurrir con las apps instaladas a través de Google Play u otras fuentes, si están firmadas por un certificado diferente.</string>
@@ -227,7 +227,7 @@
     <string name="app_details_donate_prompt">%1$s es creado por %2$s. ¡Invítalos a un café!</string>
     <string name="app_details_donate_prompt_unknown_author">¡Invite a los desarrolladores de %1$s a un café!</string>
     <string name="toast_metrics_in_install_history">El informe de la métrica %s se puede ver en el visor del historial de instalación</string>
-    <string name="send_to_fdroid_metrics_summary">Envía datos anónimos semanalmente a F-Droid Métricas (requiere mantener el historial de instalación)</string>
+    <string name="send_to_fdroid_metrics_summary">Envía datos anónimos semanalmente a EDT Métricas (requiere mantener el historial de instalación)</string>
     <string name="send_to_fdroid_metrics">Enviar datos de uso</string>
     <string name="fdroid_metrics_report">Informe de métricas de %s</string>
     <string name="install_history_and_metrics">Instalar historial y métricas</string>

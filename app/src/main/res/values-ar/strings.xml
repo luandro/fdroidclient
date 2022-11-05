@@ -487,7 +487,7 @@
     <string name="send_installed_apps">شارك التطبيقات المثبّتة</string>
     <string name="menu_open">إفتح</string>
     <string name="app_suggested">مقترح</string>
-    <string name="send_installed_apps_csv">التطبيقات المثبتة بواسطة F-Droid  كملف CSV</string>
+    <string name="send_installed_apps_csv">التطبيقات المثبتة بواسطة EDT  كملف CSV</string>
     <string name="menu_downgrade">تراجع عن الترقية</string>
     <string name="scan_removable_storage_title">مسح ذاكرة التخزين القابلة للإزالة</string>
     <string name="app_repository">المستودع: %1$s</string>
@@ -540,7 +540,7 @@
     <string name="menu_show_install_history">عرض محفوظات التثبيت</string>
     <string name="menu_show_fdroid_metrics_report">عرض تقرير المقاييس</string>
     <string name="toast_metrics_in_install_history">يمكن عرض تقرير المقاييس %s في عارض محفوظات التثبيت</string>
-    <string name="send_to_fdroid_metrics_summary">يرسل بيانات مجهولة إلى F-Droid Metrics (يتطلب الاحتفاظ بتاريخ التثبيت)</string>
+    <string name="send_to_fdroid_metrics_summary">يرسل بيانات مجهولة إلى EDT Metrics (يتطلب الاحتفاظ بتاريخ التثبيت)</string>
     <string name="send_to_fdroid_metrics">إرسال بيانات الاستخدام</string>
     <string name="fdroid_metrics_report">%s تقرير المقاييس</string>
     <string name="install_history_and_metrics">سجل التثبيت والمقاييس</string>

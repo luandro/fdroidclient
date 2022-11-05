@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="version">Útgáfa</string>
     <string name="delete">Eyða</string>
     <string name="login_name">Notandanafn</string>
@@ -23,7 +23,7 @@
     <string name="repo_edit_credentials">Breyta lykilorði</string>
     <string name="app_details">Nánar um forrit</string>
     <string name="no_such_app">Engin slík forrit fundust.</string>
-    <string name="about_title">Um F-Droid</string>
+    <string name="about_title">Um EDT</string>
     <string name="about_version">Útgáfa</string>
     <string name="about_site">Vefsvæði</string>
     <string name="about_source">Upprunakóði</string>
@@ -81,7 +81,7 @@
     <string name="appcompatibility">Samhæfni forrits</string>
     <string name="show_incompat_versions">Hafa með ósamhæfðar útgáfur</string>
     <string name="local_repo">Staðvært hugbúnaðarsafn</string>
-    <string name="local_repo_running">F-Droid er tilbúið í forritaskipti</string>
+    <string name="local_repo_running">EDT er tilbúið í forritaskipti</string>
     <string name="deleting_repo">Eyði núgildandi hugbúnaðarsafni…</string>
     <string name="adding_apks_format">Bæti %s við í hugbúnaðarsafn…</string>
     <string name="icon">Táknmynd</string>
@@ -157,7 +157,7 @@
     <string name="swap_view_available_networks">Sláðu létt til að opna tiltæk net</string>
     <string name="swap_switch_to_wifi">Sláðu létt til að tengjast þráðlausu Wi-Fi neti</string>
     <string name="open_qr_code_scanner">Opna skanna fyrir QR-kóða</string>
-    <string name="swap_welcome">Velkomin í F-Droid!</string>
+    <string name="swap_welcome">Velkomin í EDT!</string>
     <string name="swap_confirm_connect">Viltu ná í forrit frá %1$s núna?</string>
     <string name="swap_dont_show_again">Ekki birta þetta aftur</string>
     <string name="swap_choose_apps">Veldu forrit</string>
@@ -174,7 +174,7 @@
     <string name="swap_not_visible_wifi">Ekki sýnilegt með Wi-Fi</string>
     <string name="swap_wifi_device_name">Heiti tækis</string>
     <string name="swap_cant_find_peers">Finnurðu ekki það sem þú leitar að?</string>
-    <string name="swap_send_fdroid">Senda F-Droid</string>
+    <string name="swap_send_fdroid">Senda EDT</string>
     <string name="apps">Forrit</string>
     <string name="swap_no_peers_nearby">Gat ekki fundið neinn í nágrenninu til að býtta við.</string>
     <string name="swap_connecting">Tengist</string>
@@ -209,13 +209,13 @@
     <string name="keep_forever">Að eilífu</string>
     <string name="theme_light">Ljóst</string>
     <string name="theme_dark">Dökkt</string>
-    <string name="crash_dialog_title">F-Droid hrundi</string>
+    <string name="crash_dialog_title">EDT hrundi</string>
     <string name="crash_dialog_comment_prompt">Þú getur bætt hér við aukaupplýsingum og athugasemdum:</string>
     <string name="unstable_updates_summary">Stinga upp á uppfærslum í óstöðugar útgáfur</string>
     <string name="swap_join_same_wifi">Tengstu sama þráðlausa Wi-Fi netinu og vinur þinn</string>
     <string name="swap_intro">Tengstu fólki í nágrenninu og skipstu á forritum við það.</string>
     <string name="swap_qr_isnt_for_swap">QR-kóðinn sem þú skannaðir lítur ekki út eins og býttikóði.</string>
-    <string name="system_installer_on">Nota forgangsviðbót F-Droid (privileged extension) til að setja upp, uppfæra og
+    <string name="system_installer_on">Nota forgangsviðbót EDT (privileged extension) til að setja upp, uppfæra og
         fjarlægja pakka
     </string>
     <string name="local_repo_name_summary">Útsent heiti staðværa hugbúnaðarsafnsins þíns: %s</string>
@@ -258,7 +258,7 @@
     <string name="repo_not_yet_updated">Þetta hugbúnaðarsafn hefur ekki verið notað áður.
         Þú verður að gera það virkt til að geta séð forritin sem það býður uppá.
     </string>
-    <string name="repo_confirm_delete_body">Það að eyða hugbúnaðarsafni þýðir að forrit úr því safni verða ekki lengur tiltæk í F-Droid.
+    <string name="repo_confirm_delete_body">Það að eyða hugbúnaðarsafni þýðir að forrit úr því safni verða ekki lengur tiltæk í EDT.
 \n
 \nAthugaðu: Öll forrit sem þegar hafa verið sett inn, munu haldast á tækinu þínu.</string>
     <string name="repo_disabled_notification">Gerði %1$s óvirkt. 
@@ -269,9 +269,9 @@
     </string>
     <string name="empty_installed_app_list">Engin forrit uppsett.
 \n
-\nÞað eru forrit á tækinu þínu, en þau eru ekki tiltæk frá F-Droid. Þetta gæti stafað af því að þú þyrftir að uppfæra hugbúnaðarsöfnin þín, eða að hugbúnaðarsöfnin eigi í alvörunni ekki tiltæk þessi forrit.</string>
+\nÞað eru forrit á tækinu þínu, en þau eru ekki tiltæk frá EDT. Þetta gæti stafað af því að þú þyrftir að uppfæra hugbúnaðarsöfnin þín, eða að hugbúnaðarsöfnin eigi í alvörunni ekki tiltæk þessi forrit.</string>
     <string name="empty_can_update_app_list">Til hamingju!\nÖll forritin þín eru af nýjustu útgáfu.</string>
-    <string name="swap_nfc_description">Ef vinur þinn er með F-Droid og kveikt á NFC, látið þá tækin ykkar snertast.
+    <string name="swap_nfc_description">Ef vinur þinn er með EDT og kveikt á NFC, látið þá tækin ykkar snertast.
     </string>
     <string name="swap_join_same_wifi_desc">Til að gera býtti í gegnum þráðlaust net, gakktu úr skugga um að þið séuð á
         sama netinu. Ef þið hafið ekki aðgang að sama neti, getur annar ykkar búið til þráðlausan Wi-Fi tengipunkt
@@ -401,7 +401,7 @@
     <string name="app_details__no_versions__none_compatible_with_device">Engar útgáfur samhæfanlegar við tækið</string>
     <string name="app_details__no_versions__explain_incompatible_signatures">Uppsetta útgáfan er ekki samhæfð við neinar tiltækar útgáfur. Ef þú hendir forritinu út, geturðu skoðað og sett upp samhæfða útgáfu. Þetta gerist oft með forrit sem sett eru upp í gegnum Google Play eða aðrar slíkar leiðir, ef forritin eru undirrituð með mismunandi skilríkjum.</string>
     <string name="app_installed_media">Skrá sett upp í %s</string>
-    <string name="app_permission_storage">F-Droid þarf aðgang að gagnageymslum til að geta sett þetta upp í geymsluminni. Þú ættir að heimila þetta á næsta skjá til þess að halda áfram með uppsetninguna.</string>
+    <string name="app_permission_storage">EDT þarf aðgang að gagnageymslum til að geta sett þetta upp í geymsluminni. Þú ættir að heimila þetta á næsta skjá til þess að halda áfram með uppsetninguna.</string>
     <string name="app_list_download_ready">Þegar sótt, tilbúið til uppsetningar</string>
     <string name="app_list__dismiss_app_update">Uppfærsla hunsuð</string>
     <string name="app_list__dismiss_vulnerable_app">Öryggisgalli hunsaður</string>
@@ -473,7 +473,7 @@
     <string name="updates_disabled_by_settings">Allar uppfærslur eru óvirkar vegna stillinga fyrir gögn eða þráðlaust net</string>
     <string name="about_forum">Vefspjall fyrir aðstoð</string>
     <string name="send_installed_apps">Deila uppsettum forritum</string>
-    <string name="send_installed_apps_csv">Forrit uppsett af F-Droid sem CSV-skrá</string>
+    <string name="send_installed_apps_csv">Forrit uppsett af EDT sem CSV-skrá</string>
     <string name="menu_open">Opna</string>
     <string name="app_suggested">Tillögur</string>
     <string name="app_size">Stærð: %1$s</string>
@@ -527,7 +527,7 @@
     <string name="use_pure_black_dark_theme_summary">Aðeins er mælt með þessu fyrir OLED-skjái.</string>
     <string name="send_fdroid_metrics_json">%s mælingaskýrslu sem JSON-skrá</string>
     <string name="install_history_and_metrics">Ferill uppsetninga og mælingar</string>
-    <string name="send_to_fdroid_metrics_summary">Sendir vikulega nafnlaus gögn til F-Droid Metrics (krefst þess að merkt sé við \'Halda yfirliti yfir uppsetningar\')</string>
+    <string name="send_to_fdroid_metrics_summary">Sendir vikulega nafnlaus gögn til EDT Metrics (krefst þess að merkt sé við \'Halda yfirliti yfir uppsetningar\')</string>
     <string name="toast_metrics_in_install_history">%s mælingaskýrsluna má sjá í glugganum um feril uppsetninga</string>
     <string name="has_disallow_install_unknown_sources_globally">Stjórnandi tækisins þíns leyfir ekki að bætt sé við óþekktum veitum, sem innifela ný hugbúnaðarsöfn</string>
     <string name="has_disallow_install_unknown_sources">Þessi notandi getur ekki bætt við óþekktum veitum, sem innifela ný hugbúnaðarsöfn</string>

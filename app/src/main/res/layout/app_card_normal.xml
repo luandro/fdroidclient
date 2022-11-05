@@ -46,7 +46,7 @@
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/icon"
-                tools:text="F-Droid An application summary which takes up too much space and must ellipsize" />
+                tools:text="EDT An application summary which takes up too much space and must ellipsize" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>

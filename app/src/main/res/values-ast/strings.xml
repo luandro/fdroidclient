@@ -18,7 +18,7 @@
     <string name="local_repo_https_on">Use encrypted HTTPS:// connection for local repo</string>
     <string name="app_details">App Details</string>
     <string name="no_such_app">Nun s\'atopó aplicación tala.</string>
-    <string name="about_title">Tocante a F-Droid</string>
+    <string name="about_title">Tocante a EDT</string>
     <string name="about_site">Sitiu web</string>
     <string name="about_version">Versión</string>
     <string name="app_installed">Instalóse</string>
@@ -68,7 +68,7 @@
     <string name="show_incompat_versions">Versiones incompatibles</string>
     <string name="show_incompat_versions_on">Show app versions that are incompatible with the device</string>
     <string name="local_repo">Depósitu llocal</string>
-    <string name="local_repo_running">F-Droid yá pue intercambiar</string>
+    <string name="local_repo_running">EDT yá pue intercambiar</string>
     <string name="touch_to_configure_local_repo">Touch to view details and allow others to swap your apps.</string>
     <string name="deleting_repo">Desaniciando\'l depósitu actual…</string>
     <string name="adding_apks_format">Amestando «%s» al depósitu…</string>
@@ -128,15 +128,15 @@
     <string name="category_Science_Education">Ciencia y educación</string>
     <string name="category_Security">Seguranza</string>
     <string name="category_System">Sistema</string>
-    <string name="swap_nfc_description">If your friend has F-Droid and NFC turned on touch your devices together.</string>
+    <string name="swap_nfc_description">If your friend has EDT and NFC turned on touch your devices together.</string>
     <string name="swap_join_same_wifi">Join the same Wi-Fi as your friend</string>
     <string name="swap">Swap apps</string>
     <string name="swap_no_wifi_network">No network yet</string>
     <string name="swap_view_available_networks">Toca p\'abrir les redes disponibles</string>
     <string name="open_qr_code_scanner">Open QR Scanner</string>
-    <string name="swap_welcome">¡Afáyate en F-Droid!</string>
+    <string name="swap_welcome">¡Afáyate en EDT!</string>
     <string name="swap_confirm_connect">Do you want to get apps from %1$s now\?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="interval_12h">Cada 12 hores</string>
     <string name="interval_1d">Caldía</string>
     <string name="interval_1w">Cada selmana</string>
@@ -150,7 +150,7 @@
     <string name="loading">Cargando…</string>
     <string name="swap_connecting">Connecting</string>
     <string name="swap_cant_find_peers">¿Nun pues atopar a quien busques\?</string>
-    <string name="swap_send_fdroid">Unviar F-Droid</string>
+    <string name="swap_send_fdroid">Unviar EDT</string>
     <string name="apps">Aplicaciones</string>
     <string name="swap_qr_isnt_for_swap">El códigu QR qu\'escaniesti nun paez que seya un códigu d\'intercambéu.</string>
     <string name="swap_connection_misc_error">Error occurred while connecting to device, can\'t swap with it!</string>
@@ -184,7 +184,7 @@
     <string name="category_Writing">Escritura</string>
     <string name="empty_installed_app_list">No apps installed.
 \n
-\nThere are apps on your device, but they are not available from F-Droid. This could be because you need to update your repositories, or the repositories genuinely don\'t have your apps available.</string>
+\nThere are apps on your device, but they are not available from EDT. This could be because you need to update your repositories, or the repositories genuinely don\'t have your apps available.</string>
     <string name="empty_can_update_app_list">¡Norabona!\nLes aplicaciones tán anovaes.</string>
     <string name="install_error_unknown">La instalación falló pola mor d\'un fallu desconocíu</string>
     <string name="uninstall_error_unknown">La desinstalación falló pola mor d\'un fallu desconocíu</string>
@@ -237,7 +237,7 @@
     <string name="about_license">Llicencia</string>
     <string name="status_inserting_apps">Guardando los detalles de les aplicaciones</string>
     <string name="empty_search_available_app_list">No matching applications available.</string>
-    <string name="crash_dialog_title">F-Droid cascó</string>
+    <string name="crash_dialog_title">EDT cascó</string>
     <string name="crash_dialog_text">Asocedió un fallu inesperáu que forció\'l paru de l\'aplicación. ¿Quies unviar un mensaxe de corréu electrónicu con información detallada p\'ayudar a iguar el problema\?</string>
     <string name="crash_dialog_comment_prompt">Equí pues amestar más información y/o dalgún comentariu:</string>
     <string name="antinonfreeassetslist">Esta aplicación contién gráficos que son privativos</string>
@@ -370,7 +370,7 @@
     <string name="app_list_download_ready">Downloaded, ready to install</string>
     <string name="status_inserting_x_apps">Guardando los detalles de les aplicaciones (%1$d/%2$d) de: %3$s</string>
     <string name="app_installed_media">File installed to %s</string>
-    <string name="app_permission_storage">F-Droid needs the storage permission to install this to storage. Please allow it on the next screen to proceed with installation.</string>
+    <string name="app_permission_storage">EDT needs the storage permission to install this to storage. Please allow it on the next screen to proceed with installation.</string>
     <string name="app_details__incompatible_mismatched_signature">Different signature to installed version</string>
     <string name="app_details__no_versions__show_incompat_versions">To show incompatible versions here anyway, enable the \"%1$s\" setting.</string>
     <string name="app_details__no_versions__no_compatible_signatures">No versions with compatible signature</string>
@@ -482,7 +482,7 @@
     <string name="install_history_and_metrics">Install history and metrics</string>
     <string name="fdroid_metrics_report">%s Metrics Report</string>
     <string name="send_to_fdroid_metrics">Unviar los datos d\'usu</string>
-    <string name="send_to_fdroid_metrics_summary">Sends anonymous data weekly to F-Droid Metrics (requires \"Keep install history\")</string>
+    <string name="send_to_fdroid_metrics_summary">Sends anonymous data weekly to EDT Metrics (requires \"Keep install history\")</string>
     <string name="toast_metrics_in_install_history">The %s Metric report is viewable in the Install History viewer</string>
     <string name="has_disallow_install_unknown_sources">Unknown sources can\'t be added by this user, that includes new repos</string>
     <string name="swap_toast_invalid_url">La URL nun ye válida pal intercambéu: %1$s</string>
@@ -495,7 +495,7 @@
     <string name="scan_removable_storage_summary">Look for package repos on removable storage like SD Cards and USB thumb drives</string>
     <string name="app_list_results_hidden_antifeature_settings">Some results were hidden based on your antifeature settings.</string>
     <string name="send_installed_apps">Share installed apps</string>
-    <string name="send_installed_apps_csv">Apps installed by F-Droid as CSV file</string>
+    <string name="send_installed_apps_csv">Apps installed by EDT as CSV file</string>
     <string name="sort_search">Sort search</string>
     <string name="has_disallow_install_unknown_sources_globally">Your device admin doesn\'t allow installing apps from unknown sources, that includes new repos</string>
     <string name="menu_select_for_wipe">Select for wipe</string>

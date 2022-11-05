@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="updates">Diweddariadau</string>
     <string name="ok">Iawn</string>
     <string name="yes">Iawn</string>
@@ -74,7 +74,7 @@
     <string name="app_details_donate_prompt_unknown_author">Prynu paned i ddatblygwyr %1$s!</string>
     <string name="app_details_donate_prompt">Crëwyd %1$s gan %2$s. Pryna paned iddyn nhw!</string>
     <string name="app_details__incompatible_mismatched_signature">Llofnod gwahanol i\'r fersiwn a osodwyd</string>
-    <string name="about_title">Ynghylch F-Droid</string>
+    <string name="about_title">Ynghylch EDT</string>
     <string name="about_version">Fersiwn</string>
     <string name="about_site">Gwefan</string>
     <string name="app_new">Newydd</string>
@@ -96,7 +96,7 @@
     <string name="app_list__dismiss_app_update">Anwybyddwyd y diweddariad</string>
     <string name="app_list__dismiss_downloading_app">Diddymwyd y diweddariad</string>
     <string name="installed_apps__activity_title">Apiau wedi\'i Gosod</string>
-    <string name="send_installed_apps_csv">Apiau wedi\'u gosod gan F-Droid fel ffeil CSV</string>
+    <string name="send_installed_apps_csv">Apiau wedi\'u gosod gan EDT fel ffeil CSV</string>
     <string name="installed_app__updates_ignored">Diweddariadau wedi\'u hanwybyddu</string>
     <string name="installed_app__updates_ignored_for_suggested_version">Diweddariadau wedi\'u hanwybyddu am Fersiwn %1$s</string>
     <string name="updates__app_with_known_vulnerability__ignore">Anwybyddu</string>
@@ -186,7 +186,7 @@
     <string name="force_touch_apps">Cynnwys apiau sgrin gyffwrdd</string>
     <string name="force_touch_apps_on">Dangos apiau sydd angen sgrin gyffwrdd hyd yn oed os nad yw\'n bosib ar y ddyfais</string>
     <string name="local_repo">Ystorfa Leol</string>
-    <string name="local_repo_running">Mae F-Droid yn barod i gyfnewid</string>
+    <string name="local_repo_running">Mae EDT yn barod i gyfnewid</string>
     <string name="touch_to_configure_local_repo">Cyffyrdda i weld manylion a chaniatáu i eraill cyfnewid dy apiau.</string>
     <string name="deleting_repo">Yn dileu\'r ystorfa gyfredol…</string>
     <string name="adding_apks_format">Yn ychwanegu %s i\'r ystorfa…</string>
@@ -309,7 +309,7 @@
     <string name="swap_not_visible_wifi">Dim yn weladwy trwy Wi-Fi</string>
     <string name="swap_wifi_device_name">Enw\'r Ddyfais</string>
     <string name="swap_cant_find_peers">Methu â ffeindio\'r person wyt yn edrych am\?</string>
-    <string name="swap_send_fdroid">Anfon F-Droid</string>
+    <string name="swap_send_fdroid">Anfon EDT</string>
     <string name="apps">Apiau</string>
     <string name="swap_no_peers_nearby">Methwyd â ffeindio pobol gerllaw i gyfnewid â nhw.</string>
     <string name="swap_connecting">Yn cysylltu</string>
@@ -345,7 +345,7 @@
     <string name="keep_forever">Am byth</string>
     <string name="theme_light">Golau</string>
     <string name="theme_dark">Tywyll</string>
-    <string name="crash_dialog_title">Mae F-Droid wedi chwalu</string>
+    <string name="crash_dialog_title">Mae EDT wedi chwalu</string>
     <string name="crash_dialog_text">Bu gwall annisgwyl a orfododd yr ap i stopio. Hoffet anfon neges e-bost gyda\'r manylion er mwyn trwsio\'r broblem\?</string>
     <string name="crash_dialog_comment_prompt">Gellir ychwanegu gwybodaeth ychwanegol a sylwadau yma:</string>
     <string name="notification_title_single_update_available">Diweddariad Ar Gael</string>
@@ -431,7 +431,7 @@
     <string name="app_suggested">Argymhellir</string>
     <string name="app_incompatible">Anghydnaws</string>
     <string name="app_installed">Gosodwyd</string>
-    <string name="app_permission_storage">Mae ar F-Droid angen caniatâd storfa er mwyn gosod i\'r storfa hon. Galluoga hyn ar y sgrin nesaf i barhau gyda\'r gosod.</string>
+    <string name="app_permission_storage">Mae ar EDT angen caniatâd storfa er mwyn gosod i\'r storfa hon. Galluoga hyn ar y sgrin nesaf i barhau gyda\'r gosod.</string>
     <string name="app_list__dismiss_vulnerable_app">Anwybyddwyd gwendid</string>
     <string name="send_installed_apps">Rhannu apiau wedi\'u gosod</string>
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Darganfuwyd gwendid gyda %1$s. Argymhellir dadosod yr ap hwn ar unwaith.</string>
@@ -453,7 +453,7 @@
 \n%1$s</string>
     <string name="empty_installed_app_list">Dim apiau wedi\'u gosod.
 \n
-\nMae yna apiau ar dy ddyfais, ond dydyn nhw ddim o F-Droid. Gall hyn fod am fod angen diweddaru dy ystorfeydd neu am nad yw dy apiau ar gael o\'r ystorfeydd.</string>
+\nMae yna apiau ar dy ddyfais, ond dydyn nhw ddim o EDT. Gall hyn fod am fod angen diweddaru dy ystorfeydd neu am nad yw dy apiau ar gael o\'r ystorfeydd.</string>
     <string name="empty_search_available_app_list">Dim apiau o\'r fath ar gael.</string>
     <string name="install_error_unknown">Methwyd gosod oherwydd gwall anhysbys</string>
     <string name="uninstall_error_unknown">Methwyd dadosod oherwydd gwall anhysbys</string>
@@ -464,7 +464,7 @@
     <string name="nearby_splash__read_external_storage">Chwilio\'r cerdyn SD am ystorfeydd a drychau.</string>
     <string name="nearby_splash__request_permission">Amdani</string>
     <string name="swap_nfc_title">Cyffyrdda i gyfnewid</string>
-    <string name="swap_nfc_description">Os y F-Droid ac NFC ymlaen gan dy ffrind, cyffyrddwch eich dyfeisiau.</string>
+    <string name="swap_nfc_description">Os y EDT ac NFC ymlaen gan dy ffrind, cyffyrddwch eich dyfeisiau.</string>
     <string name="swap_join_same_wifi">Ymuna â\'r un Wi-Fi a dy ffrind</string>
     <string name="swap_join_same_wifi_desc">I gyfnewid dros Wi-Fi, rhaid i chi\'ch dau fod ar yr un rhwydwaith. Os nad oes gennych fynediad i\'r un rhwydwaith, gall un ohonoch greu llecyn Wi-Fi.</string>
     <string name="swap_join_this_hotspot">Helpa dy ffrind i ymuno â dy lecyn Wi-Fi</string>
@@ -472,7 +472,7 @@
     <string name="swap_success">Llwyddiant!</string>
     <string name="swap_no_wifi_network">Dim rhwydwaith eto</string>
     <string name="swap_active_hotspot">%1$s (dy lecyn)</string>
-    <string name="swap_welcome">Croeso i F-Droid!</string>
+    <string name="swap_welcome">Croeso i EDT!</string>
     <string name="swap_dont_show_again">Peidio â dangos hyn eto</string>
     <string name="swap_connection_misc_error">Bu gwall wrth gysylltu â\'r ddyfais. Ni ellir cyfnewid gyda hi!</string>
     <string name="not_visible_nearby">Gerllaw heb ei alluogi</string>

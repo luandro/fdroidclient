@@ -19,7 +19,7 @@
     <string name="local_repo_https_on">Imprea sa connessione criptada HTTPS:// pro sos depòsitu locale</string>
     <string name="app_details">Minujas aplicatzione</string>
     <string name="no_such_app">Peruna aplicatzione currispondente.</string>
-    <string name="about_title">A pitzu de F-Droid</string>
+    <string name="about_title">A pitzu de EDT</string>
     <string name="about_site">Giassu/situ web</string>
     <string name="about_version">Versione</string>
     <string name="app_installed">Installada</string>
@@ -69,7 +69,7 @@
     <string name="show_incompat_versions">Inclue sas versiones non cumpatìbiles</string>
     <string name="show_incompat_versions_on">Ammustra sas versiones non cumpatìbiles cun su dispositivu</string>
     <string name="local_repo">Depòsitu locale</string>
-    <string name="local_repo_running">F-Droid est prontu pro imbiare cun swap</string>
+    <string name="local_repo_running">EDT est prontu pro imbiare cun swap</string>
     <string name="touch_to_configure_local_repo">Toca pro bìdere sas minujas e permìtere a àteros de retzire sas
  aplicatziones tuas.</string>
     <string name="deleting_repo">Burrende su depòsitu atuale…</string>
@@ -137,7 +137,7 @@
     <string name="category_Science_Education">Iscièntzia e educatzione</string>
     <string name="category_Security">Seguràntzia</string>
     <string name="category_System">Sistema</string>
-    <string name="swap_nfc_description">Si s\'amigu tuo tenet F-Droid e s’NFC allutos pone a cuntatu sos duos
+    <string name="swap_nfc_description">Si s\'amigu tuo tenet EDT e s’NFC allutos pone a cuntatu sos duos
         dispositivos.
     </string>
     <string name="swap_join_same_wifi">Intra in sa matessi retza Wi-Fi de s\'amigu tuo</string>
@@ -145,9 +145,9 @@
     <string name="swap_no_wifi_network">Peruna retza disponìbile</string>
     <string name="swap_view_available_networks">(Toca pro ammustrare sas retzas disponìbiles)</string>
     <string name="open_qr_code_scanner">Aberi s\'iscansidore de còdighes QR</string>
-    <string name="swap_welcome">Benènnidu in F-Droid!</string>
+    <string name="swap_welcome">Benènnidu in EDT!</string>
     <string name="swap_confirm_connect">Boles retzire como sas aplicatziones dae %1$s?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="app_incompatible">Non cumpatìbile</string>
     <string name="links">Ligàmenes</string>
     <string name="back">In dae segus</string>
@@ -160,7 +160,7 @@
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_ap">Puntu de atzessu (Hotspot)</string>
     <string name="empty_installed_app_list">Peruna aplicatzione installada.\n\nBi sunt aplicatziones in su dispositivu
-        tuo, ma non sunt disponìbiles dae F-Droid. Custu podet nàrrere chi tenes bisòngiu de agiornare sos depòsitos
+        tuo, ma non sunt disponìbiles dae EDT. Custu podet nàrrere chi tenes bisòngiu de agiornare sos depòsitos
         tuos, o chi a beru sas aplicatziones tuas non bi sunt intre sas disponìbiles.
     </string>
     <string name="empty_can_update_app_list">Bene meda!\nSas aplicatziones tuas sunt agiornadas.</string>
@@ -204,7 +204,7 @@
     <string name="swap_not_visible_wifi">Non visìbile via Wi-Fi</string>
     <string name="swap_wifi_device_name">Nùmene de su dispositivu</string>
     <string name="swap_cant_find_peers">Non ses resessende a agatare su chi chircas?</string>
-    <string name="swap_send_fdroid">Imbia F-Droid</string>
+    <string name="swap_send_fdroid">Imbia EDT</string>
     <string name="swap_no_peers_nearby">No apo agatadu gente a curtzu pro cumpartzire.</string>
     <string name="swap_connecting">Connetende</string>
     <string name="swap_confirm">Cunfirma cumpartzidura</string>
@@ -259,7 +259,7 @@
         pro mèdiu de posta eletrònica pro agiudare a isòlvere su problema?
     </string>
     <string name="crash_dialog_comment_prompt">Podes annanghere àteras informatziones e cummentos inoghe:</string>
-    <string name="crash_dialog_title">F-Droid s\'est serradu</string>
+    <string name="crash_dialog_title">EDT s\'est serradu</string>
     <string name="antinonfreeassetslist">Custa aplicatzione cuntennit cantos non lìberos</string>
     <string name="menu_email">Iscrie a s’autore</string>
     <string name="useTor">Imprea Tor</string>
@@ -399,7 +399,7 @@
     <string name="force_old_index_summary">In casu chi bi siant errores o problemas de compatibilidade, imprea s\'ìnditze XML de s\'aplicatzione</string>
     <string name="app_list_download_ready">Iscarrigada, pronta pro s\'installatzione</string>
     <string name="app_installed_media">Documentu installadu in %s</string>
-    <string name="app_permission_storage">F-Droid tenet bisòngiu de unu permissu pro installare custu in sa memòria. Pro praghere dae·liu in s\'ischermu chi benit pro sighire cun s\'installatzione.</string>
+    <string name="app_permission_storage">EDT tenet bisòngiu de unu permissu pro installare custu in sa memòria. Pro praghere dae·liu in s\'ischermu chi benit pro sighire cun s\'installatzione.</string>
     <string name="status_inserting_x_apps">Sarvende sas minujas de sas aplicatziones (%1$d/%2$d) dae %3$s</string>
     <string name="app_details__incompatible_mismatched_signature">Firma diversa dae sa versione installada</string>
     <string name="app_details__no_versions__show_incompat_versions">Pro ammustrare su matessi sas versiones non cumpatìbiles inoghe abìlita s\'impostatzione \"%1$s\".</string>
@@ -477,7 +477,7 @@
     <string name="send_history_csv">%s sa cronologia de sas installatziones comente unu documentu CSV</string>
     <string name="updates_disabled_by_settings">Totu sos agiornamentos disabilitados dae sas impostatziones Datos/Wi-Fi</string>
     <string name="send_installed_apps">Cumpartzi sas aplicatziones installadas</string>
-    <string name="send_installed_apps_csv">Aplicatziones installadas dae F-Droid comente unu documentu CSV</string>
+    <string name="send_installed_apps_csv">Aplicatziones installadas dae EDT comente unu documentu CSV</string>
     <string name="menu_open">Aberi</string>
     <string name="about_forum">Forum de suportu</string>
     <string name="app_suggested">Cunsigiadas</string>
@@ -526,7 +526,7 @@
     <string name="menu_show_install_history">Ammustra sa cronologia de sas installatziones</string>
     <string name="menu_show_fdroid_metrics_report">Ammustra su raportu de sas mètricas</string>
     <string name="toast_metrics_in_install_history">Su raportu de anàlisi de sas mètricas %s si podet pompiare in su visualizadore de sa cronologia de sas installatziones</string>
-    <string name="send_to_fdroid_metrics_summary">Imbia in manera anònima datos cada chida a sas mètricas de F-Droid (bisòngiat de su sarvamentu de sa cronologia de sas installatziones)</string>
+    <string name="send_to_fdroid_metrics_summary">Imbia in manera anònima datos cada chida a sas mètricas de EDT (bisòngiat de su sarvamentu de sa cronologia de sas installatziones)</string>
     <string name="send_to_fdroid_metrics">Imbia sos datos de impreu</string>
     <string name="fdroid_metrics_report">Raportu de sas mètricas %s</string>
     <string name="install_history_and_metrics">Cronologia de sas installatzione e mètricas</string>

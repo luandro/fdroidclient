@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="updates">Oppdateringar</string>
     <string name="ok">OK</string>
     <string name="yes">Ja</string>
@@ -39,14 +39,14 @@
     <string name="category_Security">Tryggleik</string>
     <string name="category_Time">Tid</string>
     <string name="category_Writing">Skriving</string>
-    <string name="swap_welcome">Velkommen til F-Droid!</string>
+    <string name="swap_welcome">Velkommen til EDT!</string>
     <string name="swap_dont_show_again">Ikkje vis denne meldinga igjen</string>
     <string name="newPerms">Nye</string>
     <string name="notification_action_update">Oppdater</string>
     <string name="notification_action_cancel">Avbryt</string>
     <string name="notification_action_install">Installer</string>
     <string name="app_details">Appdetaljar</string>
-    <string name="about_title">Om F-Droid</string>
+    <string name="about_title">Om EDT</string>
     <string name="app_list__name__downloading_in_progress">Lastar ned %1$s</string>
     <string name="app_list__name__successfully_installed">%1$s er installert</string>
     <string name="updates__tts__download_app">Last ned</string>
@@ -62,9 +62,9 @@
     <string name="wifi">Wi-Fi</string>
     <string name="category_Sports_Health">Idrett og helse</string>
     <string name="category_System">System</string>
-    <string name="swap_send_fdroid">Oversend F-Droid</string>
+    <string name="swap_send_fdroid">Oversend EDT</string>
     <string name="apps">Appar</string>
-    <string name="crash_dialog_title">F-Droid har krasja</string>
+    <string name="crash_dialog_title">EDT har krasja</string>
     <string name="crash_dialog_text">Det oppstod ein feil som gjorde at programmet måtte stoppa. Vil du senda ein e-post med detaljar om dette, for å hjelpa til å retta problemet\?</string>
     <string name="notification_title_single_update_available">Oppdatering tilgjengeleg</string>
     <string name="notification_title_summary_install_error">Feil ved installering</string>
@@ -144,7 +144,7 @@
     <string name="app__tts__cancel_download">Avbryt nedlasting</string>
     <string name="app__install_downloaded_update">Oppdater</string>
     <string name="app_installed_media">Fil installert til %s</string>
-    <string name="app_permission_storage">F-Droid treng lagringsløyve for å kunna installera til dette området. For å halda med installeringa, gje dette løyvet på neste skjermbilete.</string>
+    <string name="app_permission_storage">EDT treng lagringsløyve for å kunna installera til dette området. For å halda med installeringa, gje dette løyvet på neste skjermbilete.</string>
     <string name="app_repository">Pakkebrønn: %1$s</string>
     <string name="app_size">Storleik: %1$s</string>
     <string name="app_list_download_ready">Nedlasta og klar til installering</string>
@@ -153,7 +153,7 @@
     <string name="app_list__dismiss_downloading_app">Nedlasting avbroten</string>
     <string name="installed_apps__activity_title">Installerte appar</string>
     <string name="send_installed_apps">Del installerte appar</string>
-    <string name="send_installed_apps_csv">Appar installerte av F-Droid som CSV-fil</string>
+    <string name="send_installed_apps_csv">Appar installerte av EDT som CSV-fil</string>
     <string name="installed_app__updates_ignored">Oppdateringar ignorert</string>
     <string name="installed_app__updates_ignored_for_suggested_version">Oppdateringar ignorert for versjon %1$s</string>
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Appen %1$s har eit kjend tryggleikshòl. Du bør derfor avinstallera han med ein gong.</string>
@@ -237,7 +237,7 @@
     <string name="force_touch_apps">Vis peikeskjerms­appar</string>
     <string name="force_touch_apps_on">Vis appar som krev støtte for peikeskjerm, uavhengig av om dette er støtta på eininga</string>
     <string name="local_repo">Lokal pakkebrønn</string>
-    <string name="local_repo_running">F-Droid er klar til å utveksla appar</string>
+    <string name="local_repo_running">EDT er klar til å utveksla appar</string>
     <string name="touch_to_configure_local_repo">Trykk for å visa detaljar og tillata å utveksla appane dine med andre.</string>
     <string name="deleting_repo">Slettar gjeldande pakkebrønn …</string>
     <string name="adding_apks_format">Legg %s til pakkebrønn …</string>
@@ -322,7 +322,7 @@
     </plurals>
     <string name="empty_installed_app_list">Ingen appar er installerte.
 \n
-\nDet finst appar på eininga di, men dei er ikkje tilgjengelege på F-Droid. Dette kan vera fordi du må oppdatera pakkebrønnane, eller fordi pakkebrønnane ikkje inneheld appane dine.</string>
+\nDet finst appar på eininga di, men dei er ikkje tilgjengelege på EDT. Dette kan vera fordi du må oppdatera pakkebrønnane, eller fordi pakkebrønnane ikkje inneheld appane dine.</string>
     <string name="empty_can_update_app_list">Gratulerer!
 \nAlle appane er i nyaste versjon.</string>
     <string name="empty_search_available_app_list">Fann ingen samsvarande appar.</string>
@@ -335,7 +335,7 @@
     <string name="nearby_splash__read_external_storage">Søk på SD-kort etter pakkebrønnar og speglar.</string>
     <string name="nearby_splash__request_permission">Prøv no</string>
     <string name="swap_nfc_title">Trykk for å utveksla</string>
-    <string name="swap_nfc_description">Viss vennen din har F-Droid og har slått på NFC, hald einingane nært kvarandre.</string>
+    <string name="swap_nfc_description">Viss vennen din har EDT og har slått på NFC, hald einingane nært kvarandre.</string>
     <string name="swap_join_same_wifi">Kopla til same trådlausnettverket som vennen din</string>
     <string name="swap_join_same_wifi_desc">For å utveksla appar via Wi-Fi må de først kopla til same nettverk. Viss de ikkje har tilgang til same nettverk, kan éin av dykk laga ei eiga trådlaussone.</string>
     <string name="swap_join_this_hotspot">Hjelp vennen din å kopla til trådlaussona di</string>
@@ -499,7 +499,7 @@
     <string name="menu_show_install_history">Vis installeringslogg</string>
     <string name="menu_show_fdroid_metrics_report">Vis Metrics-rapport</string>
     <string name="toast_metrics_in_install_history">Bruksdatarapport for %s er synleg via installeringsloggen</string>
-    <string name="send_to_fdroid_metrics_summary">Send vekentleg anonyme data til F-Droid Metrics (krev at «Behald installeringslogg» er slått på)</string>
+    <string name="send_to_fdroid_metrics_summary">Send vekentleg anonyme data til EDT Metrics (krev at «Behald installeringslogg» er slått på)</string>
     <string name="send_to_fdroid_metrics">Send bruksdata</string>
     <string name="fdroid_metrics_report">Bruksdata for %s</string>
     <string name="install_history_and_metrics">Installeringslogg og bruksdata</string>

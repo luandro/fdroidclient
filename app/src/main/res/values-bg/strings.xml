@@ -18,7 +18,7 @@
     <string name="local_repo_https_on">Шифроване на връзката (HTTPS://) с местното хранилище</string>
     <string name="app_details">Описание на приложението</string>
     <string name="no_such_app">Не е намерено такова приложение.</string>
-    <string name="about_title">Относно F-Droid</string>
+    <string name="about_title">Относно EDT</string>
     <string name="about_site">Страница</string>
     <string name="about_version">Версия</string>
     <string name="app_installed">Инсталирано</string>
@@ -111,13 +111,13 @@
     <string name="category_Science_Education">Наука и образование</string>
     <string name="category_Security">Сигурност</string>
     <string name="category_System">Системни</string>
-    <string name="swap_nfc_description">Акочовекът с вас има F-Droid и е включил NFC, докоснете телефоните си.</string>
+    <string name="swap_nfc_description">Акочовекът с вас има EDT и е включил NFC, докоснете телефоните си.</string>
     <string name="swap_join_same_wifi">Свържете се към една и съща Wi-Fi мрежа с приятеля си</string>
     <string name="swap">Разменяне</string>
     <string name="swap_view_available_networks">(Натиснете за преглед на наличните мрежи)</string>
     <string name="open_qr_code_scanner">Отваряне на четец на QR кодове</string>
-    <string name="swap_welcome">Добре дошли в F-Droid!</string>
-    <string name="app_name">F-Droid</string>
+    <string name="swap_welcome">Добре дошли в EDT!</string>
+    <string name="app_name">EDT</string>
     <string name="theme_dark">Тъмна</string>
     <string name="back">Назад</string>
     <string name="bad_fingerprint">Грешен отпечатък</string>
@@ -160,7 +160,7 @@
     <string name="links">Препратки</string>
     <string name="empty_installed_app_list">Няма инсталирани приложения.
 \n
-\nИнсталираните приложения не са налични в F-Droid. Вероятна причина могат да бъдат необновени хранилища или просто хранилищата не предлагат приложенията, който ползвате.</string>
+\nИнсталираните приложения не са налични в EDT. Вероятна причина могат да бъдат необновени хранилища или просто хранилищата не предлагат приложенията, който ползвате.</string>
     <string name="empty_can_update_app_list">Поздравления!
 \nВсички приложения са последно издание.</string>
     <string name="install_confirm">има нужда от достъп до</string>
@@ -168,7 +168,7 @@
     <string name="install_confirm_update_system">Искате да обновите вградено приложение\? Текущата информация няма да бъде загубена. Новото издание ще получи достъп до:</string>
     <string name="install_confirm_update_no_perms">Искате да обновите инсталирано приложение\? Текущата информация няма да бъде загубена. Не изисква изрични разрешения.</string>
     <string name="install_confirm_update_system_no_perms">Искате да обновите вградено приложение\? Текущата информация няма да бъде загубена. Не изисква изрични разрешения.</string>
-    <string name="swap_send_fdroid">Изпращане F-Droid</string>
+    <string name="swap_send_fdroid">Изпращане EDT</string>
     <string name="swap_scan_qr">QR код</string>
     <string name="swap_scanning_for_peers">Търсене на хора…</string>
     <string name="swap_no_wifi_network">Все още няма мрежа</string>
@@ -182,7 +182,7 @@
     <string name="swap_setting_up_wifi">Настройване на Wi-Fi…</string>
     <string name="swap_setting_up_bluetooth">Настройване на Bluetooth…</string>
     <string name="swap_nearby">Размяна с у-ва наблизо</string>
-    <string name="local_repo_running">F-Droid e в готовност за размяна</string>
+    <string name="local_repo_running">EDT e в готовност за размяна</string>
     <string name="touch_to_configure_local_repo">Натиснете за детайли или да позволите размяна на приложение.</string>
     <string name="swap_nfc_title">Докоснете за размяна</string>
     <string name="swap_success">Размяната е успешна!</string>
@@ -385,7 +385,7 @@
     <string name="status_inserting_x_apps">Запазване (%1$d/%2$d) от %3$s</string>
     <string name="nearby_splash__both_parties_need_fdroid">За да споделяте приложения с хора около вас, и двете устройства трябва да използват %1$s.</string>
     <string name="app_installed_media">Файлът е инсталиран в %s</string>
-    <string name="app_permission_storage">F-Droid се нуждае от разрешение, за да инсталира приложението в хранилището. Моля, разрешете на следващия екран, за да продължи инсталирането.</string>
+    <string name="app_permission_storage">EDT се нуждае от разрешение, за да инсталира приложението в хранилището. Моля, разрешете на следващия екран, за да продължи инсталирането.</string>
     <string name="updates__app_with_known_vulnerability__prompt_uninstall">Открита е уязвимост в %1$s. Препоръчваме незабавно да премахнете приложението.</string>
     <string name="panic_app_setting_title">Приложение бутон при паника</string>
     <string name="panic_app_unknown_app">непознато приложение</string>
@@ -416,7 +416,7 @@
     <string name="app_suggested">Предложено</string>
     <string name="app_size">Размер: %1$s</string>
     <string name="send_installed_apps">Сподели инсталираните приложения</string>
-    <string name="send_installed_apps_csv">Приложенията инсталирани от F-Droid като CSV файл</string>
+    <string name="send_installed_apps_csv">Приложенията инсталирани от EDT като CSV файл</string>
     <string name="updates__app_with_known_vulnerability__ignore">Пропускане</string>
     <string name="repo_add_mirror">Добави огледално хранилище</string>
     <string name="sort_search">Сортирай търсенето</string>
@@ -503,7 +503,7 @@
     <string name="menu_show_install_history">История на инсталирани приложения</string>
     <string name="menu_show_fdroid_metrics_report">Преглед на метрики</string>
     <string name="toast_metrics_in_install_history">Статистиката за %s е видима при преглед на дневника на инсталиранията</string>
-    <string name="send_to_fdroid_metrics_summary">Всяка седмица изпраща анонимни данни към F-Droid Metrics (изисква запазване на дневник за инсталиранията)</string>
+    <string name="send_to_fdroid_metrics_summary">Всяка седмица изпраща анонимни данни към EDT Metrics (изисква запазване на дневник за инсталиранията)</string>
     <string name="send_to_fdroid_metrics">Изпращане на данни за използването</string>
     <string name="fdroid_metrics_report">Статистика за %s</string>
     <string name="send_fdroid_metrics_json">Статистика на %s като файл на JSON</string>

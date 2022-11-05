@@ -18,7 +18,7 @@
     <string name="update_auto_download_summary">အေနာက္ပိုင္းတြင္ အသစ္မြမ္းမံမႈမ်ားကိုေဒါင္းလုတ္ဆြဲမည္</string>
     <string name="notify">အသစ္မြမ္းမံမႈ အသိေပးခ်က္မ်ား</string>
     <string name="notify_on">အသစ္မြမ္းမံမႈရရွိပါက အခ်က္ေပးျခင္းကိုျပပါ</string>
-    <string name="system_installer_on">F-Droid ၏ Privileged Extension ကိုသံုးျပီး သြင္းျခင္း၊ အသစ္မြမ္းမံျခင္းႏွင့္
+    <string name="system_installer_on">EDT ၏ Privileged Extension ကိုသံုးျပီး သြင္းျခင္း၊ အသစ္မြမ္းမံျခင္းႏွင့္
         Package မ်ားျဖဳတ္ျခင္းမ်ားျပဳလုပ္မည္
     </string>
     <string name="local_repo_name">သင္၏ Local Repo အမည္</string>
@@ -31,7 +31,7 @@
     <string name="repo_error_empty_username">အသံုးျပဳသူအမည္ အလြတ္ ႏွင့္ ခြင့္ျပဳထားခ်က္မ်ားမေျပာင္းလဲခဲ့ပါ</string>
     <string name="app_details">App အေသးစိတ္အခ်က္အလက္မ်ား</string>
     <string name="no_such_app">ထိုကဲ့သို႔ app မေတြ႕ပါ.</string>
-    <string name="about_title">F-Droid အေၾကာင္း</string>
+    <string name="about_title">EDT အေၾကာင္း</string>
     <string name="about_version">ဗားရွင္း</string>
     <string name="about_site">ဝဘ္ဆုိဒ္</string>
     <string name="about_source">ဆို႔စ္ ကုဒ္</string>
@@ -94,7 +94,7 @@
     <string name="appcompatibility">Application သင့္ေလွ်ာ္မႈ</string>
     <string name="show_incompat_versions">မကိုက္ညီေသာဗားရွင္းမ်ား</string>
     <string name="show_incompat_versions_on">စက္ႏွင့္မကိုက္ညီေသာ app ဗားရွင္းမ်ားကိုျပမည္</string>
-    <string name="local_repo_running">F-Droidကို စတင္ swap ႏိုင္ပါျပီ</string>
+    <string name="local_repo_running">EDTကို စတင္ swap ႏိုင္ပါျပီ</string>
     <string name="adding_apks_format">%s ကို repot ထဲေပါင္းထည့္ေနပါသည္</string>
     <string name="linking_apks">APK မ်ားကို repo ႏွင့္ခ်ိတ္ေနပါသည္…</string>
     <string name="copying_icons">App အိုင္ကြန္းကို repo ထဲသို႔ကူးေနပါသည္.…</string>
@@ -129,7 +129,7 @@
     <string name="repo_name">အမည္</string>
     <string name="unknown">မသိပါ</string>
     <string name="repo_confirm_delete_title">Repository ကိုဖ်က္မလား?</string>
-    <string name="app_name">F-Droid</string>
+    <string name="app_name">EDT</string>
     <string name="deleting_repo">ယခုလက္ရွိ ရီပိုကိုဖ်က္ေနသည္.…</string>
     <string name="all_other_repos_fine">တျခားရီပိုအားလံုးသည္ ခ်ိဳ႕ယြင္းခ်က္မ်ားမရွိပါ.</string>
     <string name="global_error_updating_repos">အသစ္မြမ္းမံစဥ္ခ်ိဳ႕ယြင္းခ်က္ - %s</string>
@@ -158,7 +158,7 @@
     <string name="swap_join_same_wifi">သင့္သူငယ္ခ်င္းႏွင့္တူညီေသာ ဝိုင္ဖိုင္ကိုခ်ိတ္မည္</string>
     <string name="swap_no_wifi_network">ကြန္ရက္မရွိပါ</string>
     <string name="open_qr_code_scanner">က်ဴအာ စကန္နာကိုဖြင့္မည္</string>
-    <string name="swap_welcome">F-Droid မွၾကိဳဆိုပါသည္!</string>
+    <string name="swap_welcome">EDT မွၾကိဳဆိုပါသည္!</string>
     <string name="swap_confirm_connect">%1$s မွ app မ်ားကိုယခုရယူခ်င္ပါသလား?</string>
     <string name="swap_dont_show_again">ဒီဟာကိုေနာက္ထပ္မျပပါႏွင့္ေတာ့</string>
     <string name="swap_choose_apps">App မ်ားေရြးမည္</string>
@@ -169,7 +169,7 @@
     <string name="swap_setting_up_bluetooth">ဘလူးသုဒ္ဖြင့္ေနသည္</string>
     <string name="swap_wifi_device_name">ကိရိယာအမည္</string>
     <string name="swap_cant_find_peers">သင္ရွာေနတာကိုမေတြ႕ဘူးလား?</string>
-    <string name="swap_send_fdroid">F-Droid ပို႔မည္</string>
+    <string name="swap_send_fdroid">EDT ပို႔မည္</string>
     <string name="swap_connecting">ချိတ်ဆက်နေသည်</string>
     <string name="loading">တင်နေ…</string>
     <string name="newPerms">အသစ်</string>
@@ -199,14 +199,14 @@
     <string name="keep_forever">အျမဲတမ္း</string>
     <string name="theme_light">အလင္း</string>
     <string name="theme_dark">အေမွာင္</string>
-    <string name="crash_dialog_title">F-Droid ခဏရပ္သြားပါသည္</string>
+    <string name="crash_dialog_title">EDT ခဏရပ္သြားပါသည္</string>
     <string name="crash_dialog_comment_prompt">သင္သည္ ေနာက္ထပ္ အခ်က္အလက္မ်ားႏွင့္မွတ္ခ်က္မ်ားကို
         ဒီေနရာတြင္ထည့္သြင္းႏိုင္သည္ :
     </string>
     <string name="local_repo">လိုကယ္ရီပို</string>
-    <string name="repo_added">F-Droid repository ကိုသိမ္းခဲ့သည္ %1$s.</string>
+    <string name="repo_added">EDT repository ကိုသိမ္းခဲ့သည္ %1$s.</string>
     <string name="keep_install_history">မှတ်တမ်းများကိုသိမ်းထားမည်</string>
-    <string name="keep_install_history_summary">F-Droid အတွင်း သွင်းထားသည် နှင့် ဖြုတ်ထားသည့်မှတ်တမ်းတစ်ခုကို သိမ်းထားမည်</string>
+    <string name="keep_install_history_summary">EDT အတွင်း သွင်းထားသည် နှင့် ဖြုတ်ထားသည့်မှတ်တမ်းတစ်ခုကို သိမ်းထားမည်</string>
     <string name="update_auto_install">အသစ်ထွက်ရှိမှုများကိုအလိုအလျောက်သွင်းမည်</string>
     <string name="update_auto_install_summary">အနောက်လုပ်ငန်းစဉ်များတွင် အသစ်ထွက်ရှိသော အက်ပ်စ်များကို ဒေါင်းပြီး ထည့်သွင်းမည်</string>
     <string name="app_details_donate_prompt_unknown_author">ရေးတဲ့သူတွေကို %1$s တန်ကော်ဖီတစ်ခွက်တော့တိုက်သင့်ပါတယ်!</string>
