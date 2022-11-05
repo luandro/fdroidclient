@@ -4,7 +4,7 @@ on:
     branches:
       - master
 jobs:
-  balena-deploy:
+  assemble-apk:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
