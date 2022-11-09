@@ -2,7 +2,7 @@ name: Build Unsigned APK
 on:
   push:
     branches:
-      - master
+      - edt
 jobs:
   assemble-apk:
     runs-on: ubuntu-latest
