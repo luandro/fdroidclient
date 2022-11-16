@@ -2,13 +2,32 @@
 <resources>
 
     <string-array name="default_repos">
+        <!-- name -->
+        <item>Earth Defenders Toolkit Apps</item>
+        <!-- address -->
+        <item>https://repo.earthdefenderstoolkit.com</item>
+        <!-- description -->
+        <item>The official EDT Free Software repository. A curated set of applications curated as part of Earth Defenders Toolkit.
+        </item>
+        <!-- version -->
+        <item>1</item>
+        <!-- enabled -->
+        <item>1</item>
+        <!-- priority -->
+        <item>1</item>
+        <!-- push requests -->
+        <item>ignore</item>
+        <!-- pubkey -->
+        <item>
+            308204f9308202e1a00302010202041b271463300d06092a864886f70d01010b0500302d3110300e060355040b1307462d44726f696431193017060355040313106c75616e64726f2d7468696e6b706164301e170d3232303830363134323833385a170d3439313232323134323833385a302d3110300e060355040b1307462d44726f696431193017060355040313106c75616e64726f2d7468696e6b70616430820222300d06092a864886f70d01010105000382020f003082020a0282020100c68f14770949399c67a068466e880c917467095c322d9f22067c49b681f070470c2925561d956b76fbc18841b5ef6291947d7489ded16ddc607c7cc0ab4d673f0557dd48017edf732088cf39373b3dd31dd930e82022f85f58ac0264bfa0951b4f4a2ad2923774c398193a1ca0c23e48b383bfbaf53a1c4cb23284a6e833542176ed90f91125baee0ae3fbc5153a523f3c65aa9e70d5b0bf19e7d3c5407a4acc324d26be61de0a44c56c059bb692c1cd18dcf78df70c76e6174818eb9244ce7c15c170d0cbf6147676f80dea3d7310220e6bf2263aaa29996fcfcac3208faac5cef17fdb51c58c6113b4655d87fff8a44d1594e22168de84d616a250575f708928616d3b2dd45dc200e9465a456aac472273d6f5e922c60337bb241d9a788439d02220fee14e2dce933a7d4c6ba27c145a68341cbc283b11afcfd0a9d007c2b0c7842f5b5fa4d2e40f9a6640666a1c8543b460720a7ee2e7af9c24e39ca82230699c716a943aa720276b055b22a62892b29a6a544625ab8171df14aff2ee2550cb0402687a65450c6e30d3ff0dca5040ca0023b16ed7ca51980d1942d3da5a41fefb9d3d36e0b4f8d40734a367c4b63b77b887afd4f4214f36cf018add7822d9d3726ce6115ccfaee28fead7901ba9db5f5563119d661d9abf77a79c7d661d847107d5fd546a80c0a845d8bb90f23468263bbfd35f76e55e66a000fb825a58fb0203010001a321301f301d0603551d0e041604143ff6c69de9ba4578a34a4876c5aa2aa2afb621ec300d06092a864886f70d01010b050003820201001f77ff99a5ff7d833f230f249d75fa1decbee4d62ce4aa63c1dd34a78eb9b06ba287eb4eabe35f99d0c1b525b9de0e82054acfaabd7cb7a0ce676eb851c842e766be731d98712d6fb7dfe91fe84fa126b0528b51c765916a733040d8c8f8f89eab385ef5f710025d8c5e681f68d9d5b1d7b7f1e49714da0e22cc9c81b2c3905cefd4a2956ae926149c208b609bd1feb78fd314a16532cf8c0ea26c92dd751b0519eae6faada08e9c54846aff11b5eb30ec429d50497462e75e8f9a3288e9d29573dbe08f227ddd910d5148744ebf580d3a3dde1366bcf629a35ced442f6846c7897414056069706aa7ff098f943139b727d263394592326f2c4925c2ec030c45d0ddd97b46154df20dcf5f9e6ae32b9b33a53890a86d033a9e120a4b2930bfae2217d3a7a7c0d3e2c340462809ce5845f9aba87d36a301ef663f3f79f022766d175ae3207043169ae3da2ed11107636cc779ee2bdafa675baf8cd1e1b421d79de47dd04effc3026957ff3e5218409d3d80686755b33b59007c14be99230d67514fdc6413db3a825cfdc9e9f7d4a842cbb07f28abecf08bf1661cf7d55324f779379a50497eddde494330a3b9d36e38c02c27e32501edd161fce7ddb8e8f6bbbe2aea4e24e77f92d3c3db4813a49c7c09077b823456b06ab4302acc0ce2c61825266e50f1e184c236e99b331ed8d1576b96fc62e28ab19a45aaf76118ed26750d
+        </item>
 
         <!-- name -->
-        <item>EDT Archive</item>
+        <item>F-Droid Archive</item>
         <!-- address -->
         <item>https://f-droid.org/archive</item>
         <!-- description -->
-        <item>The archive repository of the EDT client. This contains older versions of
+        <item>The archive repository of the F-Droid client. This contains older versions of
             applications from the main repository.
         </item>
         <!-- version -->
@@ -16,7 +35,7 @@
         <!-- enabled -->
         <item>0</item>
         <!-- priority -->
-        <item>1</item>
+        <item>3</item>
         <!-- push requests -->
         <item>ignore</item>
         <!-- pubkey -->
@@ -25,16 +44,16 @@
         </item>
 
         <!-- name -->
-        <item>EDT</item>
+        <item>F-Droid</item>
         <!-- address -->
         <item>https://f-droid.org/repo</item>
         <!-- description -->
-        <item>The official EDT Free Software repository. Everything in this repository is always built from the source code.
+        <item>The official F-Droid Free Software repository. Everything in this repository is always built from the source code.
         </item>
         <!-- version -->
         <item>13</item>
         <!-- enabled -->
-        <item>1</item>
+        <item>0</item>
         <!-- priority -->
         <item>2</item>
         <!-- push requests -->
@@ -49,7 +68,7 @@
         <!-- address -->
         <item>https://guardianproject.info/fdroid/archive</item>
         <!-- description -->
-        <item>The official repository of The Guardian Project apps for use with EDT client. This
+        <item>The official repository of The Guardian Project apps for use with F-Droid client. This
             contains older versions of applications from the main repository.
         </item>
         <!-- version -->
@@ -57,7 +76,7 @@
         <!-- enabled -->
         <item>0</item>
         <!-- priority -->
-        <item>3</item>
+        <item>5</item>
         <!-- push requests -->
         <item>ignore</item>
         <!-- pubkey -->
